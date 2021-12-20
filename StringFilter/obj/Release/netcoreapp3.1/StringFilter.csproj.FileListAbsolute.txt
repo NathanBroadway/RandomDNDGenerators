@@ -1,0 +1,12 @@
+C:\Users\Nathaniel.Broadway\source\repos\StringFilter\StringFilter\bin\Release\netcoreapp3.1\StringFilter.exe
+C:\Users\Nathaniel.Broadway\source\repos\StringFilter\StringFilter\bin\Release\netcoreapp3.1\StringFilter.deps.json
+C:\Users\Nathaniel.Broadway\source\repos\StringFilter\StringFilter\bin\Release\netcoreapp3.1\StringFilter.runtimeconfig.json
+C:\Users\Nathaniel.Broadway\source\repos\StringFilter\StringFilter\bin\Release\netcoreapp3.1\StringFilter.runtimeconfig.dev.json
+C:\Users\Nathaniel.Broadway\source\repos\StringFilter\StringFilter\bin\Release\netcoreapp3.1\StringFilter.dll
+C:\Users\Nathaniel.Broadway\source\repos\StringFilter\StringFilter\bin\Release\netcoreapp3.1\StringFilter.pdb
+C:\Users\Nathaniel.Broadway\source\repos\StringFilter\StringFilter\obj\Release\netcoreapp3.1\StringFilter.AssemblyInfoInputs.cache
+C:\Users\Nathaniel.Broadway\source\repos\StringFilter\StringFilter\obj\Release\netcoreapp3.1\StringFilter.AssemblyInfo.cs
+C:\Users\Nathaniel.Broadway\source\repos\StringFilter\StringFilter\obj\Release\netcoreapp3.1\StringFilter.csproj.CoreCompileInputs.cache
+C:\Users\Nathaniel.Broadway\source\repos\StringFilter\StringFilter\obj\Release\netcoreapp3.1\StringFilter.dll
+C:\Users\Nathaniel.Broadway\source\repos\StringFilter\StringFilter\obj\Release\netcoreapp3.1\StringFilter.pdb
+C:\Users\Nathaniel.Broadway\source\repos\StringFilter\StringFilter\obj\Release\netcoreapp3.1\StringFilter.genruntimeconfig.cache

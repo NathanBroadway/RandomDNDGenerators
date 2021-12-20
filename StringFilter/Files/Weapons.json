@@ -1,0 +1,58 @@
+﻿{
+  "Bolas": {
+    "Damage": "—",
+    "Weight": "2 lb.",
+    "Properties": "Thrown (range 20/80), foot-snare*",
+    "Reference": "Lizardfolk, p. 132",
+    "Type": "Martial"
+  },
+  "Chain Blade": {
+    "Damage": "1d8 slashing",
+    "Weight": "4 lb.",
+    "Properties": "Finesse, reach, two-handed",
+    "Reference": "Shadar-kai, p. 178",
+    "Type": "Martial"
+  },
+  "Garrote": {
+    "Damage": "1d4 bludgeoning",
+    "Weight": "0.5 lb.",
+    "Properties": "Two-handed, grapple, choke*",
+    "Reference": "Meazel, p. 138",
+    "Type": "Martial"
+  },
+  "Double Pick": {
+    "Damage": "1d8 piercing",
+    "Weight": "6 lb.",
+    "Properties": "Two-handed, double weapon",
+    "Reference": "Maug, p. 137",
+    "Type": "Exotic"
+  },
+  "Harpoon": {
+    "Damage": "1d10 piercing",
+    "Weight": "4 lb.",
+    "Properties": "Two-handed, grapple",
+    "Reference": "Yugoloth, p. 219",
+    "Type": "Exotic"
+  },
+  "Mighty Bow": {
+    "Damage": "1d8 piercing",
+    "Weight": "8 lb.",
+    "Properties": "Ammunition (range 100/400), heavy, two-handed, mighty*",
+    "Reference": "Gulgar, p. 115",
+    "Type": "Exotic"
+  },
+  "Snap Tong": {
+    "Damage": "1d10 piercing",
+    "Weight": "6 lb.",
+    "Properties": "Heavy, reach, two-handed, grapple",
+    "Reference": "Rutterkin p. 64",
+    "Type": "Exotic"
+  },
+  "Wicked Scythe": {
+    "Damage": "2d8 slashing",
+    "Weight": "6 lb.",
+    "Properties": "Heavy, two-handed",
+    "Reference": "Redcap, p. 174",
+    "Type": "Exotic"
+  }
+}

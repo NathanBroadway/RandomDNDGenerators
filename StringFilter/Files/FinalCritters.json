@@ -1,0 +1,1663 @@
+{
+  "Achaierai": {
+    "Size": "Large",
+    "Type": "Fiend",
+    "Alignment": "Lawful Evil",
+    "AC": 15,
+    "AC Notes": "(natural armor)",
+    "HP": 53,
+    "HP Rolls": "(7d10 + 14)",
+    "Walking": 50,
+    "STR": 16,
+    "DEX": 15,
+    "Damage Immunities": [
+      "poison"
+    ],
+    "Condition Immunities": [
+      "poisoned"
+    ],
+    "Senses": {
+      "darkvision": 60,
+      "passive Perception": 12
+    },
+    "Languages": [
+      "Infernal"
+    ],
+    "CR": 3,
+    "Shorthand Abilities": [
+      "Magic Resistance."
+    ],
+    "Actions": [
+      "The achaierai makes two melee attacks: one with its bite and one with its claws.",
+      "Bite. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) piercing damage.",
+      "Claws. Melee Weapon Attack: +5 to hit, reach 10 ft., one target. Hit: 10 (2d6 + 3) slashing damage.",
+      "Black Cloud. The achaierai releases a choking black cloud. Creatures within 10 feet must make a DC 12 Constitution saving throw, taking 7 (2d6) poison damage on a failure or half as much damage on a success. Additionally on a failure, the creature can’t take reactions for one minute. At the start of each of its turns it rolls a d4 to determine what it does: On a 1 or 2, the creature does nothing. On a 3, the creature takes no action or bonus action and uses all its movement to move in a randomly determined direction. On a 4, the creature makes a melee attack against a randomly determined creature within its reach or does nothing if it can’t make such an attack. At the end of each of its turns, a creature can repeat the saving throw, ending the effect on itself on a success."
+    ],
+    "Details": "Achaierai hail from the lower plane of Acheron, but can often be found on the material plane. Their features resemble those of birds, although achaierai have strangely short torsos, small, stubby wings, incapable of flight and possess an additional pair of long legs that make them excellent runners. Achaierai are fast, predatory creatures, who prefer open plains as their hunting grounds. They use their height to spot smaller prey in the wilderness and their long, powerful legs to close the distance fast and then bring down the target with powerful attacks from their claws and beak. Pack Hunters. Achaierai can often be found roaming in groups, where their ability to speak and coordinate attacks makes them more effective as hunters than natural pack predators. A large enough pack of achaierai is not afraid to even attack small villages and torment and consume their inhabitants. Consummate Torturers. Despite their animalistic appearance, achaierai are intelligent creatures with a distinct taste for torture. Achaierai often avoid killing their prey outright, instead inflicting as much pain as possible on their victim before consumption. As a result, an achaierai’s favourite prey tend to be intelligent creatures, such as humanoids, whose suffering is more expressed and delects the achaierai’s senses more than that of a simple animal. Cloud of Insanity. An achaierai can release a black cloud of toxic gas, which, if it doesn’t kill its victim, will cause a temporary loss of lucidity, which can lead to the victim becoming dangerous to its own allies or even itself. The achaierai delights in the mayhem its toxin can cause, but also knows how to use it to its advantage in battle, disrupting hostile creatures and clearing a way to priority targets.",
+    "CON": 14,
+    "INT": 11,
+    "WIS": 14,
+    "CHA": 16
+  },
+  "Allip": {
+    "Size": "Medium",
+    "Type": "Undead",
+    "Alignment": "Neutral Evil",
+    "AC": 12,
+    "HP": 26,
+    "HP Rolls": "(4d8 + 8)",
+    "Walking": 0,
+    "STR": 6,
+    "Damage Resistances": [
+      "acid,",
+      "cold,",
+      "fire,",
+      "lightning,",
+      "thunder,",
+      "bludgeoning, piercing, and slashing from non-magical weapons that aren’t silvered"
+    ],
+    "Damage Immunities": [
+      "necrotic,",
+      "poison"
+    ],
+    "Condition Immunities": [
+      "charmed,",
+      "exhaustion,",
+      "frightened,",
+      "grappled,",
+      "paralyzed,",
+      "petrified,",
+      "poisoned,",
+      "prone,",
+      "restrained"
+    ],
+    "Senses": {
+      "darkvision": 60,
+      "passive Perception": 10
+    },
+    "Languages": [
+      "—"
+    ],
+    "CR": 2,
+    "Abilities": [
+      "Babble. An allip constantly mutters and whines to itself, creating a hypnotic effect. A creature that starts its turn within 60 feet of the allip and can hear it must succeed on a DC 13 Wisdom saving throw or be charmed for 1 minute. While charmed, the creature is incapacitated and can’t move or speak. At the end of each of its turns, a creature can repeat the saving throw, ending the effect on itself on a success. A creature that succeeded on the saving throw cannot be affected by the same allip’s Babble ability for the next 24 hours.",
+      "Ethereal Sight. The allip can see 60 feet into the Ethereal Plane when it is on the Material Plane and vice versa.",
+      "Incorporeal Movement. The allip can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object. Mind of Madness. A creature that targets an allip with a spell or ability, trying to read its thoughts, takes 10 (3d6) psychic damage and must succeed on a Wisdom saving throw or gain disadvantage on Wisdom checks and saving throws for 24 hours. A creature that is reduced to 0 hit points while under this effect automatically stabilizes but permanently falls into a coma and is unconscious until healed by a restoration spell or similar magic."
+    ],
+    "Details": "Allips are what is left of the spirit of someone who was driven to suicide by madness. The allip’s appearance, while vaguely humanoid, mirrors the warped and tattered state of its mental state in life. Seeking Vengeance. Allips crave revenge and relentlessly seek out those who tormented them in life and ruined their sanity. An allip will stop at nothing to exact vengeance on its tormentors. Spirits of Madness. Being incorporeal creatures, allips cannot inflict physical harm on other creatures, though they don’t appear to be aware of this, their distorted insubstantial limbs flailing madly at any creature they come close to, inflicting no physical wounds. However, their touch can sap the target’s mental health, rending its psyche asunder. Insane Whispers. An allip constantly mutters and whines, incoherently and obsessively repeating to itself the horrors and injustices it had to endure. Those who listen often become so enraptured by the unintelligible noise emanating from the spirit, that they forget themselves and the danger the creature poses, becoming easy prey for the allip. Undead Nature. An allip doesn’t require air, food, drink, or sleep.",
+    "Actions": [
+      "Touch of Madness. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (3d6) psychic damage and the target must succeed on a Wisdom saving throw or gain disadvantage on Wisdom checks and saving throws for 24 hours. A creature that is reduced to 0 hit points while under this effect automatically stabilizes but permanently falls into a coma and is unconscious until healed by a restoration spell or similar magic."
+    ],
+    "Hovering": 40,
+    "DEX": 14,
+    "CON": 14,
+    "INT": 11,
+    "WIS": 11,
+    "CHA": 16
+  },
+  "Arcadian Avenger": {
+    "Details": "The warriors of the grand legions of Arcadia are images of perfect symmetry, resembling humanoid females with skin, hair, and wings shining like polished metal. The armor plates covering their bodies may appear like a suit of plate armor, but are in fact part of the avengers’ metallic skins. While two avengers may not look perfectly identical, their features are always very similar in appearance. Lawkeepers. Arcadian avengers are shining paragons of justice, born of the pure forces of law suffusing the lawful good plane of Arcadia. Though they are benevolent creatures who exist to uphold rules and laws above anything else and will not hesitate to come into conflict with anyone, even a good creature, who violates the law. Arcadian avengers are the protectors of their home plane and keepers of the peace and harmony, who will not stop at waging war, if it is in the interest of preventing an even larger disturbance of the peace. The Ideal of Order. Despite their humanoid appearance, the thought processes of Arcadian avengers are just as alien to mortal creatures as those of demons or devils. An avenger understands all events as a series of applied rules unfolding. This frees them of any concept of doubt, or remorse, since anything they do is laid out in just laws they will not question. When an Arcadian avenger sees any need for action she will spring to it without hesitation, enforcing the rules she lives by and seeing any sacrifice as a necessity, never a tragedy. A group of Arcadian avengers works together and coordinates in flawless synchronicity. They advance as a unit in perfect formation that responds to unforeseen circumstances immediately and without fail. Swift Punishment. An Arcadian avenger is quick to bring those to justice who would violate the law, disturb the peace and harmony of Arcadia, or obstruct her in her duty. Seeing a fellow legionnaire of Arcadia fall will only inspire the avenger to even more fervor, exacting her vengeance with deadly strikes of her twin swords. Arcadian avengers will even be sent to the Material Plane to exact punishment if a mortal creature commits especially egregious crimes that catch the attention of Arcadian judges.",
+    "Actions": [
+      "Longswords. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) slashing damage.",
+      "The Arcadian avenger makes two attacks with her longswords."
+    ],
+    "Abilities": [
+      "Elude Chance (3/Day). When the Arcadian avenger fails a saving throw or misses on an attack roll, it can choose to reroll the save or attack.",
+      "Vengeance. Any time the Arcadian avenger sees an ally fall, she rolls her weapons’ damage dice twice and chooses the higher result for one minute.",
+      "Magic Weapons. The avenger’s melee attacks are magical.",
+      "Perfect Symmetry. When the avenger cooperates with other Arcadian avengers, she is immune to the frightened and charmed conditions. All allied Arcadian avengers roll a single Initiative check with advantage, acting on the same initiative. The Arcadian avengers can move or take their actions in any order, even before another avenger has completed her turn. For example, two avengers can move, before either of them makes an attack."
+    ],
+    "CR": 3,
+    "Languages": [
+      "Celestial",
+      "Common"
+    ],
+    "Alignment": "Lawful Good",
+    "Senses": {
+      "darkvision": 60,
+      "passive Perception": 13
+    },
+    "Type": "Celestial",
+    "Condition Immunities": [
+      "poisoned"
+    ],
+    "Damage Immunities": [
+      "poison"
+    ],
+    "Damage Resistances": [
+      "radiant;",
+      "bludgeoning, piercing, and slashing from nonmagical weapons"
+    ],
+    "Size": "Medium",
+    "Skills": {
+      "Perception": 3,
+      "Insight": 5
+    },
+    "STR": 18,
+    "Flying": 40,
+    "DEX": 15,
+    "CON": 16,
+    "INT": 10,
+    "WIS": 12,
+    "CHA": 12,
+    "Walking": 30,
+    "HP": 56,
+    "HP Rolls": "(8d8 + 24)",
+    "AC": 16,
+    "AC Notes": "(natural armor)"
+  },
+  "Arcanians": {
+    "Details": [
+      "Animate corpses, brimming with elemental energy, glowing from within in their eyes and mouth, their attire usually gives away the fact that arcanians were spellcasters in life. Unliving Spells. Sorcerers are born with magic coursing through their veins, and warlocks attain their powers through pacts with eldritch entities. Wizards have to dedicate themselves to years of study in order to gain this kind of power. Some are too impatient to spend that much time working their way to arcane mastery and seek alternative ways, subjecting themselves to experiments using powerful spells. Usually, these attempts end with the enormous amounts of arcane energy they require simply escaping the spellcaster. In rare cases, they backfire in a surge of wild magic, leaving little more of the spellcaster than a messy reminder of the virtue of patience and study. In some rare instances, the experiment ends in a horrific event: The caster is killed by the arcane surge, while his body absorbs the energy, which animates the last spark of life left within the corpse. This causes the body to rise again as an arcanian, the undead incarnation of the spell that destroyed the caster. Enemies of Life. While an arcanian will ally with any creature willing to share its goals, it will eventually turn on its allies. Only other undead are safe from the arcanian’s betrayal, as they do not offend the arcanian’s fickle sensibilities, or evoke its strange desires with their very presence. Beings of Obsession. Arcanians are impassioned by the obsessions of their former life. However, the nature of their obsession changes with the elemental power which now lends them false life. Each arcanian has its own strange goals and cravings, depending on the nature of the element infusing it. Undead Nature. An arcanian doesn’t require air, food, drink, or sleep."
+    ],
+    "Other Arcanians": [
+      "Arcanians can be created from the energy of a great variety of spells, among them black arcanians, created from necrotic magic, yellow arcanians, created from lightning spells, purple arcanians, created by force energy and even white arcanians, from thunder energy."
+    ]
+  },
+  "Blue Arcanian": {
+    "Size": "Medium",
+    "Type": "Undead",
+    "Alignment": "Chaotic Evil",
+    "AC": 15,
+    "AC Notes": "(natural armor)",
+    "HP": 78,
+    "HP Rolls": "(12d8 + 24)",
+    "Walking": 30,
+    "STR": 10,
+    "DEX": 11,
+    "Details": "Blue Arcanian Blue arcanians are infused with cold magic, their clothes and skin covered in frost and a cold mist seeping from their lipless mouths. Their magic freezes their environment and slows their enemies’ movements. Blue arcanians are loathe to see life wasted by leaving it to the ravages of time and so are obsessed with preserving it in frozen, timeless perfection.",
+    "Actions": [
+      "Blizzard (Recharge 4–6). The arcanian magically evokes a maelstrom of cold around itself that lasts until the start of the arcanian’s next turn. Creatures that start or end their turn within 30 feet of the arcanian must make a DC 14 Constitution saving throw, taking 31 (6d8 + 4) cold damage on a failed save, or half as much damage on a successful one. Creatures other than the arcanian treat the area within 30 feet of the arcanian as difficult terrain and have disadvantage on Strength (Athletics) and Dexterity (Acrobatics) checks made in the area.",
+      "Frost Staff. Melee Spell Attack: +6 to hit, reach 5 ft., one target. Hit: 4 (1d8) bludgeoning damage plus 13 (2d8 + 4) cold damage.",
+      "Freezing Blast. Ranged Spell Attack: +6 to hit, range 120 ft., one target. Hit: 13 (2d8 + 4) cold damage and the target must succeed on a DC 14 Constitution saving throw or its speed is halved until the end of the arcanian’s next turn."
+    ],
+    "Abilities": [
+      "Arcane Surge (Recharges after Short or Long Rest). If the arcanian hits a creature with a spell attack, it may choose to double the dice rolled for cold damage."
+    ],
+    "CR": 5,
+    "Languages": [
+      "any languages it knew in life"
+    ],
+    "Senses": {
+      "darkvision": 60,
+      "passive Perception": 11
+    },
+    "Condition Immunities": [
+      "poisoned"
+    ],
+    "Damage Immunities": [
+      "cold,",
+      "poison"
+    ],
+    "Skills": {
+      "Arcana": 6
+    },
+    "CON": 15,
+    "INT": 19,
+    "WIS": 13,
+    "CHA": 10
+  },
+  "Green Arcanian": {
+    "Alignment": "Chaotic Evil",
+    "Type": "Undead",
+    "Size": "Medium",
+    "Details": "Green arcanians seep acidic magic. They are hairless and constantly drooling caustic liquids, their clothes ruined by corrosion. They despise physical beauty and destroy it wherever they tread, using the aggressive acid created by their magic, that clings to their victims and eats away at them over time.",
+    "Actions": [
+      "Caustic Cloud (Recharge 4–6). The arcanian magically douses a creature it can see within 120 feet in acid. The target must make a DC 15 Dexterity saving throw, taking 46 (12d6 +4) acid damage on a failed save or half as much damage on a successful one. The creature must repeat the saving throw at the end of each of its turns, taking 46 (12d6 +4) acid damage damage on a failed saving throw, or ending the effect on itself on a successful one.",
+      "Arcane Surge (Recharges after Short or Long Rest). If the arcanian hits a creature with a spell attack, it may choose to double the dice rolled for acid damage.",
+      "Voracious Acid. Ranged Spell Attack: +7 to hit, range 120 ft., one target. Hit: 21 (5d6 + 4) acid damage and the target must succeed on a DC 15 Constitution saving throw or take an additional 7 (2d6) acid damage at the start of each of its turns. At the end of each of its turns, the target may repeat the saving throw, ending the effect on itself on a success.",
+      "Corrosive Touch. Melee Spell Attack: +7 to hit, reach 5 ft., one target. Hit: 21 (5d6 + 4) acid damage."
+    ],
+    "CR": 6,
+    "Languages": [
+      "any languages it knew in life"
+    ],
+    "Senses": {
+      "darkvision": 60,
+      "passive Perception": 13
+    },
+    "Condition Immunities": [
+      "poisoned"
+    ],
+    "Damage Immunities": [
+      "acid,",
+      "poison"
+    ],
+    "Skills": {
+      "Arcana": 7
+    },
+    "DEX": 11,
+    "CON": 15,
+    "INT": 19,
+    "WIS": 17,
+    "CHA": 10,
+    "STR": 10,
+    "Walking": 30,
+    "HP": 58,
+    "HP Rolls": "(9d8 + 18)",
+    "AC": 15,
+    "AC Notes": "(natural armor)"
+  },
+  "Red Arcanian": {
+    "Alignment": "Chaotic Evil",
+    "Type": "Undead",
+    "Size": "Medium",
+    "Details": "Red arcanians are ablaze with inner fire, glowing from within and wreathing around their blackened bodies, wrapped in scorched robes. They release this fire in explosive bursts covering great areas. Their obsession is fiery passion that causes them to seek thrills and exert their burning wrath on the living.",
+    "Actions": [
+      "Scorching Burst (Recharge 4–6). The arcanian magically causes a surge of fire to explode around it. Creatures within 30 feet of the arcanian must make a DC 15 Dexterity saving throw, taking 49 (13d6 +4) fire damage on a failed save or half as much damage on a successful one.",
+      "Arcane Surge (Recharges after Short or Long Rest). If the arcanian hits a creature with a spell attack, it may choose to double the dice rolled for fire damage.",
+      "Firethrow. Ranged Spell Attack: +7 to hit, range 120 ft., one target. Hit: 18 (4d6 + 4) fire damage and creatures within 10 feet of the target must succeed on a DC 15 Dexterity saving throw or take 10 (3d6) fire damage.",
+      "Burning Touch. Melee Spell Attack: +7 to hit, reach 5 ft., one target. Hit: 18 (4d6 + 4) fire damage."
+    ],
+    "CR": 6,
+    "Languages": [
+      "any languages it knew in life"
+    ],
+    "Senses": {
+      "darkvision": 60,
+      "passive Perception": 13
+    },
+    "Condition Immunities": [
+      "poisoned"
+    ],
+    "Damage Immunities": [
+      "fire,",
+      "poison"
+    ],
+    "Skills": {
+      "Arcana": 7
+    },
+    "DEX": 11,
+    "CON": 15,
+    "INT": 19,
+    "WIS": 17,
+    "CHA": 10,
+    "STR": 10,
+    "Walking": 30,
+    "HP": 58,
+    "HP Rolls": "(9d8 + 18)",
+    "AC": 15,
+    "AC Notes": "(natural armor)"
+  },
+  "Adult Arrowhawk": {
+    "Size": "Medium",
+    "Type": "Elemental",
+    "Alignment": "Neutral",
+    "Excess": [
+      "Bizarre avian creatures with serpentine bodies and four feathered wings, these creatures have a unique two-axis symmetry to their body. The jaws of an arrowhawk’s jagged beak are identical, each with its own tongue, pair of nostrils, and eyes. An arrowhawk’s upside and downside are indistinguishable. In fact they appear to defy this distinction altogether. Elemental Denizens. Arrowhawks are native to the Elemental Plane of Air, as evidenced by their physique adapted to a near entirely aerial lifestyle and their ability to generate lightning. Agile Flyers. An arrowhawk can not be turned upside down, which allows it to perform a wide variety of aerial maneuvers without getting disoriented, coming out of every loop and turn right side up. With its serpentine body and additional wings it is capable of turning tight corners at high speeds."
+    ],
+    "CR": [
+      "2"
+    ],
+    "Languages": [
+      "—"
+    ],
+    "Senses": {
+      "passive Perception": 13
+    },
+    "Damage Immunities": [
+      "lightning"
+    ],
+    "Damage Resistances": [
+      "acid,",
+      "cold,",
+      "fire"
+    ],
+    "Abilities": [
+      "Flyby Attack. When the arrowhawk attacks, it does not provoke an opportunity attack from the target when moving out of its reach."
+    ],
+    "Actions": [
+      "Lightning Blast. Ranged Weapon Attack: +6 to hit, range 30/90 ft., one target. Hit: 13 (2d8 + 4) lightning damage.",
+      "Bite. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) piercing damage."
+    ],
+    "Skills": {
+      "Stealth": 6,
+      "Perception": 3
+    },
+    "STR": 14,
+    "Flying": 60,
+    "DEX": 18,
+    "CON": 12,
+    "INT": 10,
+    "WIS": 13,
+    "CHA": 13,
+    "Walking": 0,
+    "HP": 38,
+    "HP Rolls": "(7d8 + 7)",
+    "AC": 16,
+    "AC Notes": "(natural armor)"
+  },
+  "Juvenile Arrowhawk": {
+    "Size": "Small",
+    "Type": "Elemental",
+    "Alignment": "Neutral",
+    "CR": 1,
+    "Languages": [
+      "—"
+    ],
+    "Senses": {
+      "passive Perception": 11
+    },
+    "Damage Immunities": [
+      "lightning"
+    ],
+    "Damage Resistances": [
+      "acid,",
+      "cold,",
+      "fire"
+    ],
+    "Skills": {
+      "Stealth": 6
+    },
+    "Actions": [
+      "Lightning Blast. Ranged Weapon Attack: +6 to hit, range 30/90 ft., one target. Hit: 11 (2d6 + 4) lightning damage.",
+      "Bite. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) piercing damage."
+    ],
+    "CON": 12,
+    "Flying": 60,
+    "DEX": 18,
+    "INT": 10,
+    "WIS": 13,
+    "CHA": 13,
+    "STR": 12,
+    "Walking": 0,
+    "HP": 18,
+    "HP Rolls": "(4d6 + 4)",
+    "AC": 15,
+    "AC Notes": "(natural armor)"
+  },
+  "Phantasmal Creature Spells": {
+    "Details": [
+      "You can implement the conjuring of phantasmal creatures in your campaign and make it available to your players, simply by making appropriate versions of the creature-summoning conjure spells found in the Player’s Handbook. Rename these spells by replacing the word “conjure” with “phantasmal”. For example conjure animals becomes phantasmal animals. These spells are illusion school spells rather than conjuration and summon phantasmal versions of the creature they normally summon. Add +1 to the basic level of the spell as well as each higher level tier of the spell. For example phantasmal animals is a 4th level illusion. It creates twice as many phantasmal animals if cast at 6th level and three times as many if cast at 8th level. The spell cannot be cast at a high enough level to create four times as many animals."
+    ]
+  },
+  "Elder Arrowhawk": {
+    "Size": "Large",
+    "Type": "Elemental",
+    "Alignment": "Neutral",
+    "HP": 97,
+    "HP Rolls": "(13d10 + 26)",
+    "Walking": 0,
+    "Flying": 60,
+    "Abilities": [
+      "Flyby Attack. When the arrowhawk attacks, it does not provoke an opportunity attack from the target when moving out of its reach."
+    ],
+    "CR": 6,
+    "Languages": [
+      "—"
+    ],
+    "Senses": {
+      "passive Perception": 14
+    },
+    "Damage Immunities": [
+      "lightning"
+    ],
+    "Damage Resistances": [
+      "acid,",
+      "cold,",
+      "fire"
+    ],
+    "Skills": {
+      "Stealth": 7,
+      "Perception": 4
+    },
+    "Actions": [
+      "Lightning Blast. Ranged Weapon Attack: +7 to hit, range 30/90 ft., one target. Hit: 18 (4d6 + 4) lightning damage.",
+      "Bite. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) piercing damage."
+    ],
+    "DEX": 18,
+    "CON": 15,
+    "INT": 10,
+    "WIS": 13,
+    "CHA": 13,
+    "STR": 18,
+    "AC": 18,
+    "AC Notes": "(natural armor)"
+  },
+  "Astral Stalker": {
+    "Alignment": "Lawful Evil",
+    "Type": "Fiend",
+    "Size": "Medium",
+    "Excess": [
+      "Astral stalkers are muscular humanoid creatures with greenish black skin, vicious claws for hands, and skeletal visages. They roam the planes in search for worthy prey to hunt down, slay, and take a trophy of to bring home. Society of Hunters. Astral stalkers are brutal and ruthless creatures, frequently found hunting alone. These qualities bely their social nature. They live in tight knit communities that measure the status and worth of an individual by the number and power of creatures it successfully hunted and brought down. An astral stalker will bring trophies home as proof of its kills. Hunting for Sport. Astral stalkers consider any other creature as legitimate prey, though they prefer to hunt intelligent quarries, which provide a greater challenge and therefor make for better sport. To this end, an astral stalker often warns its prey in advance that it is being hunted, to make the hunt more sporting. This means the stalker will often target humanoid creatures, making its behavior evil by the standards of any mortal race. Nonetheless, astral stalkers have a set of tenets, known as the Rules of the Hunt, by which they abide closely. These rules are as follows: An astral stalker will never hunt another astral stalker; if an astral stalker’s quarry has successfully eluded the stalker, the stalker will never hunt it again; a creature that hired the stalker to hunt another creature will not be hunted by the astral stalker for at least a year. Careful Preparation. Astral stalkers seek to test their abilities against powerful prey, but they are not careless, making sure not to throw themselves into the jaws of death. Before hunting a creature, an astral stalker will make careful preparation, sizing up its prey and preparing the hunting ground. The astral stalker takes every advantage it gets, preferring an ambush, that will throw the target off balance and weaken it, over open combat."
+    ],
+    "Abilities": [
+      "Deadly Attack. When the astral stalker has advantage on attack rolls, or attacks a surprised target, its attacks deal an additional 7 (2d6) damage each.",
+      "Elusive Prey. Creatures have disadvantage on all Wisdom (Survival) checks made to track the astral stalker.",
+      "Camouflage. The astral stalker has advantage on Dexterity (Stealth) checks made to hide in natural terrain."
+    ],
+    "CR": 8,
+    "Languages": [
+      "Infernal",
+      "Common,"
+    ],
+    "Senses": {
+      "darkvision": 60,
+      "passive Perception": 13
+    },
+    "Condition Immunities": [
+      "poisoned"
+    ],
+    "Damage Immunities": [
+      "poison"
+    ],
+    "STR": 20,
+    "Damage Resistances": [
+      "bludgeoning,",
+      "piercing,",
+      "and",
+      "slashing",
+      "from",
+      "nonmagical",
+      "weapons"
+    ],
+    "Climbing": 20,
+    "Skills": {
+      "Athletics": 8,
+      "Stealth": 7,
+      "Survival": 9
+    },
+    "Actions": [
+      "Throat Dart. Ranged Weapon Attack: +8 to hit, range 30/90 ft., one target. Hit: 7 (1d4+5) piercing damage plus 3 (1d6) poison damage. The target must succeed on a DC 15 Constitution saving throw or be poisoned for 1 minute. While poisoned, the creature is paralyzed. At the end of each of its turns an affected creature may repeat the saving throw, ending the paralyzed condition on itself on a success.",
+      "Claws. Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) slashing damage.",
+      "The astral stalker makes two claw attacks."
+    ],
+    "DEX": 18,
+    "CON": 19,
+    "INT": 12,
+    "WIS": 16,
+    "CHA": 19,
+    "Walking": 50,
+    "HP": 119,
+    "HP Rolls": "(14d8 + 56)",
+    "AC": 18,
+    "AC Notes": "(natural armor)"
+  },
+  "Athach": {
+    "Size": "Huge",
+    "Excess": [
+      "Misshapen hulks with a wide, tusked maw, a third arm protruding from their chests, and lopsided ears, athachs are mutated creatures, probably descending from ogres or hill giants, warped by some unknown magic. Warped Sense of Aesthetics. Athachs rarely bathe, emitting a strong, foul odor most of the time. Despite this disregard for appearances and personal hygiene, they have a fondness for pretty gems, crystals, and jewelry. They decorate themselves with anything they can find, jamming bracelets onto their fat fingers and necklaces around their wrists. They wear pieces in whichever way they might be able to attach them to their oversized forms. Athachs have been observed to sit around for hours, meticulously polishing their jewelry, making sure everything shines. Fight for Shinies. An athach has three reasons to fight: To get more jewels, to defend its jewels, or anything else. An athach may be coaxed into service with the promise of more jewelry, either as payment or as loot from whatever the creature hiring the athach wants ground into paste. Other than that, the athach uses every opportunity it sees to amass more treasure and will jealously guard what it has from any perceived thief. Once it entered battle, the athach will batter its foes with tree trunks it wields like clubs and rocks it lobs over impressive distances. Its wide maw can deliver a strong bite, laced with the athach’s rancid and downright poisonous spittle. The brutish monster will not rest until it pummeled every offender into a fine paste. The only creature an athach trusts is another athach, in a mix of familial trust and mutual respect for each other’s ability to cause tremendous pain."
+    ],
+    "STR": 20,
+    "Walking": 30,
+    "HP": 147,
+    "HP Rolls": "(14d12 + 56)",
+    "AC": 17,
+    "AC Notes": "(natural armor)",
+    "Alignment": "Chaotic Evil",
+    "Type": "Giant",
+    "Abilities": [
+      "Multilimbed. The athach can draw three weapons in the time a creature normally readies one."
+    ],
+    "Actions": [
+      "Rock. Ranged Weapon Attack: +8 to hit, range 60/240 ft., one target. Hit: 16 (2d10+5) bludgeoning damage.",
+      "Bite. Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) piercing damage plus 4 (1d8) poison damage and the target must succeed on a DC 15 Constitution saving throw, or be poisoned for 1 hour. Club. Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 15 (3d6 + 5) bludgeoning damage.",
+      "The athach makes three ranged attacks with rocks or four melee attacks: one with its bite and three with its clubs."
+    ],
+    "CR": 8,
+    "Languages": [
+      "Giant"
+    ],
+    "Senses": {
+      "darkvision": 60,
+      "passive Perception": 11
+    },
+    "DEX": 11,
+    "CON": 19,
+    "INT": 7,
+    "WIS": 12,
+    "CHA": 6
+  },
+  "Hammerer": {
+    "Size": "Medium",
+    "Type": "Construct",
+    "Alignment": "Unaligned",
+    "AC": 16,
+    "AC Notes": "(natural armor)",
+    "HP": 39,
+    "HP Rolls": "(6d8 + 12)",
+    "Walking": 20,
+    "STR": 20,
+    "Senses": {
+      "passive Perception": 9
+    },
+    "Languages": [
+      "understands the languages of its creator but can’t speak"
+    ],
+    "CR": 2,
+    "Abilities": [
+      "Unreliable. At the start of each of its turns in combat, the automaton must succeed on a DC 8 Intelligence saving throw, or it does not move or take any actions during its turn."
+    ],
+    "Actions": [
+      "Slam. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) bludgeoning damage.",
+      "The automaton makes two slam attacks."
+    ],
+    "Condition Immunities": [
+      "charmed,",
+      "exhaustion,",
+      "frightened",
+      "paralyzed",
+      "poisoned",
+      "unconscious"
+    ],
+    "Damage Immunities": [
+      "poison"
+    ],
+    "DEX": 11,
+    "CON": 15,
+    "INT": 5,
+    "WIS": 9,
+    "CHA": 6
+  },
+  "Pulverizer": {
+    "Size": "Medium",
+    "Type": "Construct",
+    "Alignment": "Unaligned",
+    "Excess": [
+      "Automatons are extremely simple magical constructs, meant to fulfill menial labor tasks. Their inbuilt tools do however provide powerful means of defense, should they be forced to fight. Specialized Tools. Automatons can be built equipped for multitudinous purposes simply by integrating different types of tools into their arms, or sometimes even their torsos. Two common types of automatons are known as hammerers and pulverizers respectively. Hammerers, as their name suggests, are equipped with a large steel hammer, often used for rough smithing works, paired with a strong pincer that holds the automaton’s medium in place. Pulverizers are typically used for mining and tunneling, where their drill arms are used to dig into stone and earth loosened by the powerful thundering shriek emitted from their torsos. Other automatons exist, some more sophisticated, some even less so, depending on what is required for the automaton to adequately fulfill its function. Prone to Failure. Automatons are very basic in their construction. Though they are well equipped for their labor tasks and powerful in combat, their rudimentary intelligence is easily overburdened. The quickly changing conditions of battle can cause their artificial brains to overheat, trying to process the situation, which causes the automaton to temporarily shut down. It is not rare for an enemy to find their automaton opponent suddenly ceasing to fight for a few seconds before it lashes out again as if nothing had happened before. Constructed Nature. An automaton doesn’t require air, food, drink, or sleep."
+    ],
+    "Abilities": [
+      "Unreliable. At the start of each of its turns in combat, the automaton must succeed on a DC 8 Intelligence saving throw, or it does not move or take any actions during its turn."
+    ],
+    "CR": 2,
+    "Languages": [
+      "understands the languages of its creator but can’t speak"
+    ],
+    "Senses": {
+      "Blindsight (blind beyond this radius)": 60,
+      "passive Perception": 9
+    },
+    "Condition Immunities": [
+      "frightened,",
+      "paralyzed,",
+      "poisoned,",
+      "unconscious",
+      "charmed,",
+      "exhaustion"
+    ],
+    "Actions": [
+      "Slam. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 8 (1d6 + 4) bludgeoning damage.",
+      "Shriek. The automaton lets loose an ear piercing shriek. Creatures within a 30 foot cone must make a DC 12 Constitution saving throw, becoming stunned for one round and taking 4 (1d8) thundering damage and on a failed save, or half as much damage on a successful one.",
+      "The automaton makes two slam attacks."
+    ],
+    "Damage Immunities": [
+      "poison"
+    ],
+    "DEX": 11,
+    "CON": 15,
+    "INT": 5,
+    "WIS": 9,
+    "CHA": 6,
+    "STR": 18,
+    "Walking": 40,
+    "HP": 26,
+    "HP Rolls": "(4d8 + 8)",
+    "AC": 16,
+    "AC Notes": "(natural armor)"
+  },
+  "Balhannoth": {
+    "Details": [
+      "A balhannoth is a large unsightly monster with a face comprised entirely of a large maw lined with rows upon rows of teeth and surrounded by sharp mandibles. Its plump, limbless body moves with surprising quickness and agility. Carried by its six tentacles, it can move along the ground and especially cave walls and ceilings with unsettling speed. Bane of Mages. In the underdark, balhannoths are infamous for their appetite for magical creatures. Not only do they favor spellcasters as meals, they are innately equipped to be especially dangerous to those who rely on magic for defense. A balhannoth senses magic in its vicinity and tracks its prey by following trails of residual magical energy. It instinctively recognizes illusion spells for what they are and can not be deterred or distracted by such magic. The balhannoth’s tentacles have antimagical properties, trapping a victim in the creature’s grasp in a small antimagical field that prevents it from using its magic to defend itself. Once caught by a balhannoth, a spellcaster without allies, or any physical means of defense is nearly completely helpless against this monster. Because of this, savvy underdark travellers recommend spellcasters to never brave the tunnels without the accompaniment of armed cohorts. Ambush Predators. “Balhannoth” in the language of the drow translates roughly to “skilled–” or “cunning hunter”. Balhannoths do not chase their prey, but track down their target to set up an ambush. They use their powerful tentacles to grasp on to stalactites and press their body against the cavern ceiling, using their natural ability to change their skin color to blend in with the environment. When its prey passes underneath, a balhannoth lashes out with its tentacles, catching its victims and pulling them toward its slavering maw. Power from Magic. A balhannoth draws its supernatural abilities directly from its favored prey. It absorbs the magical energy of creatures and even enchanted items it consumes, fuelling its ability to sense and suppress magic. This need makes them surprisingly useful and reliable allies if handled correctly. Some powerful creatures use balhannoths as guardian creatures, sating them with meat and occasional offerings of magical items to maintain their power. Paradoxically, spellcasters sometimes like to employ these creatures, since their abilities are well suited to sniff out those who would be most likely to try and steal a spellcaster’s secrets: other spellcasters."
+    ],
+    "Climbing": 50,
+    "Walking": 50,
+    "Actions": [
+      "Tentacles. Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 13 (2d6 + 6) bludgeoning damage. If the target is a Medium or smaller creature, it is grappled (escape DC 14). Until this grapple ends, the target is restrained and cannot cast any spells, even ones that do not require a somatic component. The Balhannoth has 5 tentacles, each of which can grapple one target. Until the grapple ends, the tentacle can’t attack another target.",
+      "Bite. Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 10 (1d8 + 6) piercing damage.",
+      "The balhannoth makes four melee attacks: three with its tentacles and one with its bite."
+    ],
+    "HP": 147,
+    "HP Rolls": "(14d10 + 70)",
+    "AC": 17,
+    "AC Notes": "(natural armor)",
+    "Abilities": [
+      "Dweomersight. The balhannoth can see magic auras as if affected by a constant detect magic spell.",
+      "Immunity to Illusion. The balhannoth automatically succeeds on saving throws against illusions and illusion spells.",
+      "Camouflage. The balhannoth has advantage on Dexterity (Stealth) checks made to hide in any sort of natural underground terrain."
+    ],
+    "Alignment": "Chaotic Neutral",
+    "CR": 8,
+    "Type": "Aberration",
+    "Languages": [
+      "—"
+    ],
+    "Senses": {
+      "Blindsight (blind beyond this radius)": 60,
+      "passive Perception": 11
+    },
+    "Condition Immunities": [
+      "charmed"
+    ],
+    "STR": 23,
+    "DEX": 17,
+    "CON": 20,
+    "INT": 5,
+    "WIS": 12,
+    "CHA": 8,
+    "Size": "Large"
+  },
+  "Banderhobb Filch": {
+    "Details": [
+      "Legends tell of a tower in the Shadowfell where the essence of banderhobbs that served their purpose and outlived their lifespans reforms. There, the banderhobbs roam. Some say these banderhobbs sometimes return from their domain in the Shadowfell and make their lairs in small caverns, abandoned dungeons, and sewers on the Material Plane. Banderhobbs are thought to be able to cross between the Material Plane and the Shadowfell where the veil between the worlds is thin, and groups of them occasionally use this ability to return to where they were first created. While many of the banderhobbs returning from the Shadowfell are identical to the form they had when they were first created, there are others among their number, significantly smaller than the common banderhobb, while yet others are larger. Macabre Bedtime Stories. Parents tell their children stories that if they misbehave, the banderhobbs will come and take them away. All the more is the parents’ horror when they wake up in the morning, finding nothing but sticky saliva and ruffled sheets in the bed in which they kissed their child good night the evening prior. But not only the young have to fear the loping, froglike monsters. Banderhobbs take humanoids of all ages to their lairs. For what purpose a banderhobb steals people, it never gives away, but theories hold that they use their victims to spawn more of their kind. Scuttling through the dark of the night, a small humanoid creature with a stout, round body and gangly arms and legs, drags a squirming burlap sack, its contents larger than the creature itself, across the street and vanishes from the dim moonlight into an alleyway, accompanied by the faint sound of sobbing. Significantly smaller than most of their kin, banderhobb filches are thought to be what becomes of children and small creatures abducted by banderhobbs. They are especially vicious, clawing madly at enemies and dragging their victims away in large sacks, which they steal from wherever they may find them to compensate for a lack of a stomach large enough to hold victims. While they may be small, banderhobb filches are surprisingly strong and can drag creatures larger than themselves back to their lair, virtually unhindered by the additional weight. Their main purpose however appears to be scouting. Banderhobb filches slink through the shadows at night, seeking out potential victims. They steal locks of hair, nail clippings, blood, or whatever else they can get their hands on to help other banderhobbs find their target. Whether filches continue to grow and eventually mature into the more common larger banderhobbs or are simply a different type of fully grown banderhobb altogether, is unknown."
+    ],
+    "Abilities": [
+      "Distracting Frenzy (Recharges after a Short or Long Rest). When the banderhobb uses its multiattack to only attack one creature, allies within 5 feet ot the target may immediately use their reaction to make a single melee attack against the target.",
+      "Drag Away. The banderhobb may move its full speed and even take Dash actions while grappling a creature.",
+      "Shadow Stealth. While in dim light or darkness, the banderhobb can take the Hide action as a bonus action.",
+      "Resonant Connection. If the banderhobb has even a tiny piece of a creature or an object in its possession, such as a lock of hair or a splinter of wood, it knows the most direct route to that creature or object within 1 mile of the banderhobb."
+    ],
+    "Actions": [
+      "Shadow Step. The banderhobb magically teleports up to 30 feet to an unoccupied space of dim light or darkness that it can see. Before or after teleporting, it can make a Multiattack action or stinking gob attack.",
+      "Sack. The banderhobb pulls the sack it is carrying over a Medium or smaller creature it is grappling. The banderhobb makes a Strength (Athletics) check, opposed by the target’s Dexterity (Acrobatics) or Strength (Athletics) check. If the banderhobb succeeds, the target is restrained in addition to being grappled. The target cannot end the grapple while restrained. It may attempt to end the restrained condition by destroying the sack. The sack has an armor class of 5, 10 hit points, resistance to piercing damage and immunity to bludgeoning damage.",
+      "Stinking Gob. Ranged Weapon Attack: +8 to hit, range 30 ft., one target. Hit: 11 (3d8) poison damage. The target must succeed on a DC 13 Constitution saving throw or be poisoned for 1 minute.",
+      "Claws. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) slashing damage and the target is grappled (escape DC 13) if it is a Medium or smaller creature. Until this grapple ends, the banderhobb can’t use its claw attack on another target.",
+      "The banderhobb makes two claw attacks."
+    ],
+    "Alignment": "Neutral Evil",
+    "Type": "Monstrosity",
+    "CR": 2,
+    "Languages": [
+      "understands Common but can’t speak"
+    ],
+    "Senses": {
+      "darkvision": 120,
+      "passive Perception": 12
+    },
+    "Condition Immunities": [
+      "charmed,",
+      "frightened"
+    ],
+    "Climbing": 20,
+    "Skills": {
+      "Athletics": 5,
+      "Stealth": 8
+    },
+    "Size": "Small",
+    "STR": 16,
+    "DEX": 14,
+    "CON": 17,
+    "INT": 11,
+    "WIS": 14,
+    "CHA": 8,
+    "Walking": 30,
+    "HP": 39,
+    "HP Rolls": "(6d6 + 18)",
+    "AC": 14,
+    "AC Notes": "(natural armor)"
+  },
+  "Banderhobb Mother": {
+    "Details": [
+      "Enormous, bloated banderhobbs, even larger than their normal kin, banderhobb mothers are named so more in a figurative sense. It is unclear whether banderhobbs have genders or mothers are all of the same gender. Banderhobb mothers have developed the ability to spawn new banderhobbs by swallowing creatures and transforming them with the shadow essence coalescing within their cavernous gullets. When a group of banderhobbs makes its lair on the Material Plane, they bring with them a single mother. The mother usually remains in its lair and waits passively for other banderhobbs to kidnap victims and bring them back. The mother then swallows the kidnapped creatures one by one to transform them. Once the population of a banderhobb lair becomes too large, some among them will leave to find a new lair and bring a new mother with them. As with most knowledge and ideas about banderhobbs, the origin of the banderhobb mothers is subject to speculation: The most common belief is that they develop from regular banderhobbs that absorb large amounts of the essence of the Shadowfell, eventually growing to extreme proportions and assimilating some of its properties, which gives them their ability to spawn new banderhobbs."
+    ],
+    "Alignment": "Neutral Evil",
+    "Abilities": [
+      "Shadow Stealth. While in dim light or darkness, the banderhobb can take the Hide action as a bonus action.",
+      "Resonant Connection. If the banderhobb has even a tiny piece of a creature or an object in its possession, such as a lock of hair or a splinter of wood, it knows the most direct route to that creature or object within 1 mile of the banderhobb."
+    ],
+    "Type": "Monstrosity",
+    "Actions": [
+      "Shadow Step. The banderhobb magically teleports up to 30 feet to an unoccupied space of dim light or darkness that it can see. Before or after teleporting, it may make a bite or tongue attack.",
+      "Swallow. The banderhobb mother makes one bite attack against a Large or smaller creature it is grappling. If the attack hits, the target is swallowed and the grapple ends. While swallowed, the creature is blinded and restrained, it has total cover against attacks and other effects outside the banderhobb, and it takes 18 (4d8) necrotic damage at the start of each of the banderhobb mother’s turns. A creature that dies this way starts transforming into a banderhobb. If the creature was a Medium or Large humanoid, the banderhobb mother regurgitates a fully formed regular banderhobb (see Volo’s Guide to Monsters p. 122) 1d6 rounds after the creature died. If the creature was a Small or Tiny humanoid, the banderhobb mother regurgitates a banderhobb filch 1d4 rounds after it died. A newly spawned banderhobb filch cannot use its sack action until it acquired a sack or other bag large enough to hold the creature it intends to sack. If the creature was not a humanoid, it transforms into a lifeless, deformed mass of flesh vaguely resembling banderhobb features and is regurgitated dead. The banderhobb mother must use its action to do so and cannot choose not to regurgitate a banderhobb, once it is fully gestated. The banderhobb mother will regurgitate a banderhobb even when it is incapacitated or otherwise prevented from taking an action, unless it is frozen, petrified, or otherwise suspended in a similar state of stasis. When the banderhobb mother regurgitates a creature, that creature exits prone in a space within 5 feet of the banderhobb mother. If the banderhobb mother dies, any swallowed creatures are likewise regurgitated. The banderhobb mother can only have one Medium or Large creature, or up to two Small or smaller creatures swallowed at a time. If multiple swallowed creatures die at the same time, roll for each individually to see how long it takes for them to transform into banderhobbs.",
+      "Bite. Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 30 (7d6 + 6) piercing damage and the target is grappled (escape DC 17) if it is a Large or smaller creature. Until this grapple ends, the target is restrained and the banderhobb can’t use its bite against another creature.",
+      "Tongue. Melee Weapon Attack: +10 to hit, reach 20 ft., one target. Hit: 18 (4d8) necrotic damage and the target must make a DC 15 Strength saving throw. On a failed save, the target is pulled to a space within 5 feet of the banderhobb, which can use a bonus action to make a bite attack against the target."
+    ],
+    "Size": "Huge",
+    "CR": 10,
+    "Languages": [
+      "understands Common and the languages of its creator but can’t speak"
+    ],
+    "Senses": {
+      "darkvision": 120,
+      "passive Perception": 13
+    },
+    "Condition Immunities": [
+      "charmed,",
+      "frightened"
+    ],
+    "Skills": {
+      "Athletics": 10,
+      "Stealth": 8
+    },
+    "STR": 22,
+    "DEX": 10,
+    "CON": 21,
+    "INT": 14,
+    "WIS": 16,
+    "CHA": 10,
+    "Walking": 20,
+    "HP": 191,
+    "HP Rolls": "(18d12 + 74)",
+    "AC": 16,
+    "AC Notes": "(natural armor)"
+  },
+  "Banedead": {
+    "Size": "Medium",
+    "Type": "Undead",
+    "Alignment": "Lawful Evil",
+    "Excess": [
+      "Appearing as a withered human corpse with its teeth and one hand extended into vicious fangs and claws, a banedead is the terrible result of evil rituals. Undead Fanatics. Banedead are the undead remains of some of the most fanatical followers of evil deities of undeath. Their creation requires a powerful cleric and at least twelve willing worshippers to be transformed into banedead, as well as another twenty-four worshippers to aid in the ritual. The whole ritual must be performed in a temple or other consecrated ground dedicated to the deity the subjects are offering themselves to. The resulting banedead are under the cleric’s sway and serve as tireless servants. They are both more powerful and more resourceful than the more common skeletons and zombies, as banedead retain a large measure of their mortal cunning, but are just as obedient as lower forms of undead. Banedead understand how to apply tactics and are capable of making effective use of teamwork in order to outwit or outmaneuver enemies. They do however have an irrational disdain for servants of good deities and will go out of their way to destroy clerics, paladins or similarly favored individuals worshipping good-aligned gods. Lifestealers. Though their teeth and claws are sharp enough to be deadly, the twisted, large hands of banedead have a chilling effect on their victims that is their primary weapon. They drain the very life from the target and slow its movements and reflexes considerably, making it less effective in combat and a more easy target for the banedead and its allies. Undead Nature. A banedead doesn’t require air, food, drink, or sleep."
+    ],
+    "Actions": [
+      "Bite. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 5 (1d8 + 1) piercing damage.",
+      "Claw. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) slashing damage plus 7 (2d6) necrotic damage, and the target must succeed on a DC 12 Constitution saving throw or it gains disadvantage on attack rolls, Dexterity checks and saving throws, and its maximum hit points are reduced by an amount equal to the necrotic damage taken until it finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.",
+      "The banedead makes two melee attacks, one with its claw and one with its bite."
+    ],
+    "CR": 2,
+    "Languages": [
+      "any languages it knew in life"
+    ],
+    "Senses": {
+      "darkvision": 60,
+      "passive Perception": 11
+    },
+    "Condition Immunities": [
+      "poisoned"
+    ],
+    "Damage Immunities": [
+      "poison"
+    ],
+    "Damage Resistances": [
+      "bludgeoning, piercing, and slashing from nonmagical weapons"
+    ],
+    "STR": 13,
+    "DEX": 10,
+    "CON": 15,
+    "INT": 10,
+    "WIS": 12,
+    "CHA": 15,
+    "Walking": 30,
+    "AC": 18,
+    "AC Notes": "(natural armor)",
+    "HP": 84,
+    "HP Rolls": "(13d8 + 26)"
+  },
+  "Banshrae": {
+    "Size": "Medium",
+    "Type": "Fey",
+    "Alignment": "Chaotic Evil",
+    "HP": 39,
+    "HP Rolls": "(6d8 + 12)",
+    "AC": 18,
+    "AC Notes": "(Sylvan Warrior)",
+    "Walking": 60,
+    "STR": 14,
+    "DEX": 19,
+    "CON": 15,
+    "INT": 14,
+    "WIS": 15,
+    "CHA": 19,
+    "CR": 5,
+    "Abilities": [
+      "Innate Spellcasting. The banshrae’s innate spellcasting ability is Charisma (spell save DC 15). It can innately cast the following spells, requiring no material components: 1/day: bestow curse",
+      "Sylvan Warrior. A banshrae’s armor class is 10 + its Charisma modifier + its Dexterity modifier.",
+      "Blowgun Flute. At will, the banshrae can call into being a flute that also acts as a blowgun, as if drawing a weapon that is on its person. This flute disappears if the banshrae loses possession of it. Each round the banshrae can play the flute as a bonus action to create one of the effects detailed below. Creatures witin a 60 ft. radius that can hear the Banshrae must succeed on a DC 14 wisdom saving throw, or are affected. Dread Dirge. Affected creatures are frightened of the banshrae until the end of its next turn. Gibbering Sing-Along. Affected creatures are compelled to sing along in incoherent sounds, automatically failing all Dexterity (Stealth) checks trying to be inaudible and unable to cast spells using verbal components or abilities relying on voice or speech until the end of the banshrae’s next turn. Creatures singing along to the tune can be heard clearly over the music. Traveller’s Tune. Affected creatures must move on their next turn, and end their move at least 20 feet from the starting point or as far as they can if they are slowed by difficult terrain or their speed is less than that."
+    ],
+    "Actions": [
+      "Dart Salvo (Recharge 5–6). The banshrae fires a hail of blow darts in a 20 foot cone. Creatures in the area must make a DC 14 Dexterity saving throw, taking 14 (4d6) piercing damage on a failed save, or half as much on a successful one.",
+      "Blowgun. Ranged Weapon Attack: +7 to hit, range 30/120 ft., one target. Hit: 5 (1 + 4) piercing damage.",
+      "Unarmed Strike. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) bludgeoning damage. The target must succeed on a DC 12 Constitution saving throw or it gains disadvantage on Dexterity checks on saving throws for the next 24 hours.",
+      "The banshrae makes three attacks with any combination of unarmed strikes and blowgun shots."
+    ],
+    "Details": [
+      "Banshraes are strange, lithe humanoid fey of pale skin, their only facial feature is a pair of large, deep eyes. They prefer dark finery and elaborate headdresses under which they wear their hair tidy. Their appearance reveals little about their malevolent and spiteful inclinations. Distant Betrayal. Banshraes have a taste for wanton robbery and murder, although they weren’t always as violent. Originally banshraes reveled among their less dangerous kin of the Feywild, but a betrayal in the distant past by an elder banshrae, whose name and crime are since forgotten, set them to become what they are today. The vengeful fey queen whose trust the banshrae misused cursed all banshraes by stealing their mouths. The banshraes pacted with dark spirits to regain some of their musical ability. They have since kept to themselves fostering a culture devoted to grief and fear. Banshrae Flutes. Infused with the dark magic of the spirits they once pacted with, banshraes can magically produce a flute they can play despite their lack of a mouth. These flutes create bone-chilling and compelling magical effects which the banshraes can use to gain an upper hand over their enemies, in order to finish them off using their exceptional martial skill."
+    ],
+    "Languages": [
+      "Common",
+      "Sylvan"
+    ],
+    "Senses": {
+      "darkvision": 60,
+      "passive Perception": 15
+    },
+    "Skills": {
+      "Acrobatics": 7,
+      "Perception": 5,
+      "Stealth": 7
+    }
+  },
+  "Berbalang": {
+    "Size": "Medium",
+    "Type": "Monstrosity",
+    "Alignment": "Chaotic Evil",
+    "AC": 15,
+    "AC Notes": "(natural armor)",
+    "HP": 120,
+    "HP Rolls": "(16d8 + 48)",
+    "Walking": 30,
+    "Flying": 40,
+    "STR": 14,
+    "CR": 7,
+    "Abilities": [
+      "Duplication (Psionics). As a bonus action, the berbalang manifests an exact duplicate of itself in an unoccupied space within 5 feet of itself. This duplicate is identical to the berbalang in all aspects except the following: Whenever a berbalang manifests a duplicate it loses 40 hit points, and the duplicate manifests with 40 maximum hit points. All damage the duplicate deals with any of its actions is psychic damage, and the duplicate cannot manifest or absorb other duplicates. The duplicate acts on the berbalang’s initiative on the following turns. The berbalang can’t manifest a duplicate if this would reduce the berbalang to 0 hit points or less.",
+      "Duplicate Pack Tactics. Once per round when the berbalang hits a creature threatened by another berbalang or berbalang duplicate with a claw attack, it may deal an additional 10 (3d6) slashing damage to the target."
+    ],
+    "Details": [
+      "Berbalangs hunger for the flesh of the dead, whether recently deceased or long dead. They are monstrous humanoid creatures with dark blue skin and batlike wings. Dead Memories. A berbalang lives off the memories from the dead it consumes. It relives these echoes of the past in its sleep after a meal. A berbalang regularly needs more dead flesh to feed on, and it requires the flesh of humanoids to sustain itself, though it makes no dfference between fresh corpses and long since rotting meat. It is neither above defiling graves nor murder in order to fulfill its needs. Necrophagous Despots. Sometimes a berbalang can even be found striking deals with remote humanoid settlements, being offered the remains of any freshly deceased villagers in return for not slaughtering anyone within the village. If the creature’s demand can not be filled however, because too few deaths happened naturally within the community, elders are forced to determine a living sacrifice by lot, in order to sate the monster and dissuade it from causing greater damage to the population. Such a deal is a fragile affair. Berbalangs are fickle, and the moment they feel the bargain is not fulfilled by the villagers or is not to the best benefit of the berbalang any longer, it will quickly go back on the agreement and attack. Swarm of One. A berbalang has the remarkable ability of creating psionic duplicates of itself, by projecting a part of its essence into a copy of its own form. Typically a berbalang is capable of creating two such copies of itself, though some particularly powerful berbalangs have been rumored to be able to generate even more duplicates of themselves. The berbalang coordinates flawlessly with its duplicates and uses them to divide its enemies’ attention, so that it—or one of the duplicates—can exploit the opening and claw at vital points. When it gets weaker, the berbalang will usually reabsorb one or more of its duplicates in order to regain its power. Once the berbalang is out of duplicates or other berbalang allies, it will retreat from the battle. It hates fighting on its own, without the distraction provided by its psionic duplicates, that makes it so deadly in the first place."
+    ],
+    "Actions": [
+      "Absorb Duplicate. The berbalang reaborbs a duplicate it touches and immediately regains 40 hit points.",
+      "Claws. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) slashing damage.",
+      "The berbalang makes two melee attacks with its claws."
+    ],
+    "Languages": [
+      "Deep Speech"
+    ],
+    "Senses": {
+      "darkvision": 120,
+      "passive Perception": 13
+    },
+    "Damage Immunities": [
+      "necrotic"
+    ],
+    "Skills": {
+      "Stealth": 7
+    },
+    "DEX": 19,
+    "CON": 16,
+    "INT": 17,
+    "WIS": 16,
+    "CHA": 16
+  },
+  "Bladeling": {
+    "Size": "Medium",
+    "Type": "Humanoid",
+    "Details": [
+      "Bladelings are metal skinned humanoid creatures that have sharp metal shards embedded in in their flesh, they tend to wield swords that seem too large for their scrawny forms, but they are not unskilled with these weapons. Bladelings are brave combatants who are not afraid to face the most dangerous foe they see, making them excellent foot soldiers. Planar Migrants. Bladelings hail from Acheron, but many scholars believe this to not be their original home plane. They may have emigrated from the Nine Hells or Gehenna, or perhaps even some other unknown plane of metal. Xenophobic Society. Most bladelings call the city of Zoronor on the fourth layer of Acheron their home. They are superstitious and defensive and abhor any foreign intrusions into their home. Though they are prone to fighting internally, a foreign thread will have them quickly band together to defend their home. Their disdain for strangers may be another hint at their history: Perhaps the evil, oppressive nature of other creatures in their home plane drove the bladelings to flee. Bladelings who travel the planes become more accepting of strangers, out of necessity for tolerance due to their constant exposure to strange creatures. Such bladelings often end up working as sellswords. Bladeling NPCs: As their name suggests, bladelings are partial toward using bladed weapons as their primary instruments. The Assassin and Veteran NPC statblocks from the Monster Manual as well as the Blackguard, Champion and Warlord from Volo’s Guide to Monsters make for suitable bladeling NPCs. See the Monsters as Characters section on page 220 for bladeling racial features."
+    ],
+    "Actions": [
+      "Razor Storm (1/day). The bladeling launches the shrapnel-like metal bits from its skin, creatures in a 20-foot cone must make a DC 11 Dexterity saving throw, taking 7 (2d6) piercing damage on a failed saving throw, or half as much damage on a successful one.",
+      "Longsword. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 6 (1d10 + 1) slashing damage."
+    ],
+    "STR": 12,
+    "Walking": 30,
+    "HP": 11,
+    "HP Rolls": "(2d8 + 2)",
+    "AC": 15,
+    "AC Notes": "(scale mail)",
+    "Alignment": "Lawful Neutral",
+    "Subtype": "(Bladeling)",
+    "CR": 0.5,
+    "Languages": [
+      "Infernal",
+      "Common,"
+    ],
+    "Senses": {
+      "darkvision": 60,
+      "passive Perception": 10
+    },
+    "Damage Immunities": [
+      "acid"
+    ],
+    "DEX": 13,
+    "CON": 12,
+    "INT": 10,
+    "WIS": 10,
+    "CHA": 10
+  },
+  "Blood Fiend": {
+    "Size": "Medium",
+    "Type": "Fiend",
+    "Alignment": "Chaotic Evil",
+    "AC": 19,
+    "AC Notes": "(natural armor)",
+    "HP": 168,
+    "HP Rolls": "(16d8 + 96)",
+    "Walking": 30,
+    "STR": 24,
+    "DEX": 20,
+    "Damage Resistances": [
+      "cold,",
+      "lightning,",
+      "bludgeoning, piercing, and slashing from nonmagical weapons that aren’t silvered"
+    ],
+    "Damage Immunities": [
+      "fire,",
+      "poison"
+    ],
+    "Condition Immunities": [
+      "frightened,",
+      "poisoned"
+    ],
+    "Senses": {
+      "darkvision": 60,
+      "passive Perception": 13
+    },
+    "Languages": [
+      "Abyssal"
+    ],
+    "CR": 14,
+    "Details": [
+      "A blood fiend is little more than a mountain of muscles with four arms tipped with bladelike claws. Living Engines of Bloodshed. Blood fiends have been created for one purpose and one purpose alone: to spill blood. A blood fiend is consumed by its thirst for blood, it tears into foes with a ferocious flurry of claws, only becoming more frenzied as its target becomes more injured. The blood fiend will not stop its bloody onslaught until its target is dead, at which point the blood fiend pounces on the next victim, tearing it apart with unfettered fury. A blood fiend is prodigiously powerful for a creature of its size, stronger even than many larger demons and unusually fast and agile for its bulk. The demon lords of the abyss prefer to employ these monstrously powerful creatures as shock troops in their armies. Though they are not true demons, blood fiends are often found fighting alongside the fiendish rulers of the Abyss. Resourceful Foes. Despite its brutish appearance and blood crazed frenzy, a blood fiend is extremely cunning and has a host of useful abilities at its disposal. It is capable of magical flight and radiates an aura of fear that staves off other foes while the blood fiend rips apart its current target. Finally, the blood fiend can consume the blood of other creatures to replenish its own health, making it an enduring enemy."
+    ],
+    "Abilities": [
+      "Bloodthirst. The bloodfiend has advantage on attack rolls against creatures that are currently below their maximum hit points."
+    ],
+    "Actions": [
+      "Frightful Presence. Each creature of the blood fiend’s choice that is in a 15 foot radius around the blood fiend and aware of it must succeed on a DC 18 Wisdom saving throw or become frightened for one minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature’s saving throw is successful or the effect ends for it, the creature is immune to the blood fiend’s frightful presence for the next 24 hours.",
+      "Bite. Melee Weapon Attack: +12 to hit, reach 5 ft., one target. Hit: 11 (1d8 + 7) piercing damage. If the target is a creature that is not undead or a construct, the blood fiend heals 9 (2d8) hit points immediately. If the target is a creature, it is grappled (escape DC 15). Until the grapple ends, the blood fiend can’t bite another creature.",
+      "The blood fiend can use its frightful presence. It then makes five melee attacks, one with its bite and four with its claws Claws. Melee Weapon Attack: +12 to hit, reach 5 ft., one target. Hit: 16 (2d8 + 7) slashing damage."
+    ],
+    "CON": 22,
+    "INT": 17,
+    "WIS": 16,
+    "CHA": 20
+  },
+  "Bloodfire Ooze": {
+    "Size": "Huge",
+    "Type": "Ooze",
+    "Alignment": "Neutral Evil",
+    "Languages": [
+      "—"
+    ],
+    "CR": 11,
+    "Details": [
+      "Bloodfire oozes appear as pools of roiling, bubbling blood that occasionally manifest humanoid faces, expelling cinders from their mouths as they contort into silent screams. Unnatural Essence. A bloodfire ooze springs from the admixture of an immense volume of blood from innocent creatures with demonic ichor. Bloodfire oozes are often created to serve as guard creatures, often by other fire-based creatures, such as salamanders and efreeti. The bloodfire is dimly aware of its surroundings, burning with intense heat and following nothing but a vague desire to inflict suffering and grow from the blood it consumes from its victims. Consume with Blood and Fire. A bloodfire ooze grows by consuming the blood of other creatures. Good aligned creatures provide better nourishment, naturally attracting the bloodfire’s attention. The bloodfire knows little more than to overwhelm and burn. It bursts with sulfuric fire and strikes its victims with flaming pseudopods."
+    ],
+    "Actions": [
+      "Flame Burst. Any creature within 10 feet of the bloodfire ooze must make a DC 16 Dexterity saving throw, taking 24 (7d6) fire damage on a failed save, or half as much damage on a successful one.",
+      "Pseudopods. Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 16 (1d8 + 6) bludgeoning damage and 7 (2d6) fire damage.",
+      "The bloodfire ooze makes two melee attacks with its pseudopods."
+    ],
+    "Shorthand Abilities": [
+      "Magic Resistance."
+    ],
+    "Abilities": [
+      "Amorphous. The ooze can move through a space as narrow as 1 inch wide without squeezing.",
+      "Burning Blood. A creature that touches the ooze, or hits it with a melee attack while within 5 feet of it, takes 9 (2d8) fire damage. Any nonmagical weapon made of wood that hits the ooze burns. After dealing damage, the weapon takes a permanent cumulative -1 penalty to damage rolls. If its penalty drops to -5, the weapon is destroyed. Nonmagical ammunition of wood that hits the ooze is destroyed after dealing damage. The ooze can burn through 2-inch-thick, nonmagical wood in 1 round."
+    ],
+    "Senses": {
+      "Blindsight (blind beyond this radius)": 60,
+      "passive Perception": 10
+    },
+    "Condition Immunities": [
+      "blinded,",
+      "charmed,",
+      "deafened,",
+      "exhaustion,",
+      "frightened,",
+      "prone"
+    ],
+    "Damage Immunities": [
+      "fire"
+    ],
+    "Damage Resistances": [
+      "acid,",
+      "lightning"
+    ],
+    "DEX": 15,
+    "CON": 20,
+    "INT": 5,
+    "WIS": 11,
+    "CHA": 4,
+    "STR": 22,
+    "Walking": 30,
+    "HP": 195,
+    "HP Rolls": "(17d12 + 85)",
+    "AC": 12
+  },
+  "Blighted Bloodfires": {
+    "Details": [
+      "Blighted bloodfires are bloodfire oozes that have been further twisted into even more unnatural beings. Imbued with negative energy, these bloodfires visibly surge with streams of darkness, flowing across their surface. The very presence of these abominations against everything that is natural eats away at the lifeforce of nearby ceatures. The blighted bloodfire can project the necrotic energy surging through its amorphous form into a deadly blast of darkness which it can release over a distance."
+    ],
+    "Actions": [
+      "Necrotic Aura. A creature other than a construct or undead that starts its turn within 10 feet of a blighted bloodfire takes 4 (1d8) necrotic damage. Magic Resistance. The ooze has advantage on saving throws against spells and magical effects.",
+      "Necrotic Blast. Ranged Weapon Attack: +6 to hit, range 30/120 ft., one target. Hit: 10 (4d4) necrotic damage.",
+      "Flame Burst. Any creature within 10 feet of the bloodfire ooze must make a DC 17 Dexterity saving throw, taking 24 (7d6) fire damage on a failed save, or half as much damage on a successful one.",
+      "The blighted bloodfire makes two melee attacks with its pseudopods and fires its necrotic blast. The necrotic blast does not suffer disadvantage from an enemy that is threatening the ooze. Pseudopods. Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 16 (1d8 + 6) bludgeoning damage plus 7 (2d6) fire damage."
+    ],
+    "Alignment": "Neutral Evil",
+    "Abilities": [
+      "Amorphous. The ooze can move through a space as narrow as 1 inch wide without squeezing.",
+      "Burning Blood. A creature that touches the ooze or hits it with a melee attack while within 5 feet of it, takes 9 (2d8) fire damage and 4 (1d8) necrotic damage. Any nonmagical weapon made of wood that hits the ooze burns. After dealing damage, the weapon takes a permanent cumulative -1 penalty to damage rolls. If its penalty drops to -5, the weapon is destroyed. Nonmagical ammunition of wood that hits the ooze is destroyed after dealing damage. The ooze can burn through 2-inch-thick, nonmagical wood in 1 round."
+    ],
+    "Type": "Ooze",
+    "CR": 14,
+    "Size": "Huge",
+    "Languages": [
+      "—"
+    ],
+    "Senses": {
+      "Blindsight (blind beyond this radius)": 60,
+      "passive Perception": 10
+    },
+    "Condition Immunities": [
+      "blinded,",
+      "charmed,",
+      "deafened,",
+      "exhaustion,",
+      "frightened,",
+      "prone"
+    ],
+    "Damage Immunities": [
+      "fire,",
+      "necrotic"
+    ],
+    "Damage Resistances": [
+      "acid,",
+      "lightning"
+    ],
+    "DEX": 15,
+    "CON": 22,
+    "INT": 6,
+    "WIS": 11,
+    "CHA": 4,
+    "STR": 22,
+    "Walking": 30,
+    "HP": 195,
+    "HP Rolls": "(17d12 + 85)",
+    "AC": 12
+  },
+  "Bloodhulk Crusher": {
+    "Size": "Huge",
+    "Type": "Undead",
+    "Alignment": "Neutral Evil",
+    "HP": 362,
+    "HP Rolls": "(25d12 + 200)",
+    "Walking": 30,
+    "STR": 26,
+    "DEX": 6,
+    "Damage Vulnerabilities": [
+      "piercing,",
+      "slashing"
+    ],
+    "Damage Immunities": [
+      "poison"
+    ],
+    "Condition Immunities": [
+      "poisoned"
+    ],
+    "Senses": {
+      "darkvision": 60,
+      "passive Perception": 10
+    },
+    "Languages": [
+      "understands all languages it knew in life but can't speak"
+    ],
+    "CR": 13,
+    "Shorthand Abilities": [
+      "Undead Fortitude."
+    ],
+    "Details": [
+      "Bloated corpses, reddened by masses of blood surging through their swollen veins, bloodhulks are slow, but powerful zombie-like undead. They are created by infusing the blood of sacrificed victims into a corpse in a necromantic ritual. Mountains of Flesh. Despite having no special supernatural resistance to any form of damage, bloodhulks are capable of receiving absurd amounts of punishment before they even run the risk of being destroyed. However, open wounds in their flesh appear to be their one weakness, piercing and cutting weapons easily open the undeads’ distended blood vessels, causing their blood to stream out, though even then, a bloodhulk can still withstand amazing amounts of abuse. Undead Nature. A bloodhulk doesn’t require air, food, drink, or sleep. Crushers are the rarest and most powerful version of this undead. Several stories tall, a bloodhulk crusher is nothing short of an undead siege engine."
+    ],
+    "Actions": [
+      "Slam. Melee Weapon Attack: +13 to hit, reach 10 ft., one target. Hit: 35 (6d8 + 8) bludgeoning damage.",
+      "The bloodhulk makes two slam attacks."
+    ],
+    "CON": 26,
+    "INT": 5,
+    "WIS": 10,
+    "CHA": 3,
+    "AC": 14,
+    "AC Notes": "(natural armor)"
+  },
+  "Bloodhulk Fighter": {
+    "AC": 13,
+    "AC Notes": "(natural armor)",
+    "HP": 153,
+    "HP Rolls": "(18d8 + 72)",
+    "Walking": 25,
+    "STR": 18,
+    "DEX": 10,
+    "Damage Vulnerabilities": [
+      "piercing,",
+      "slashing"
+    ],
+    "Damage Immunities": [
+      "poison"
+    ],
+    "Condition Immunities": [
+      "poisoned"
+    ],
+    "Senses": {
+      "darkvision": 60,
+      "passive Perception": 10
+    },
+    "Languages": [
+      "understands all languages it knew in life but can't speak"
+    ],
+    "CR": 5,
+    "Shorthand Abilities": [
+      "Undead Fortitude."
+    ],
+    "Details": [
+      "The lowest form, bloodhulk fighters are the smallest and easiest to create and therefor most common form of bloodhulk."
+    ],
+    "Actions": [
+      "Slam. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 17 (3d8 + 4) bludgeoning damage.",
+      "The bloodhulk makes two slam attacks."
+    ],
+    "CON": 18,
+    "INT": 5,
+    "WIS": 10,
+    "CHA": 3,
+    "Alignment": "Neutral Evil",
+    "Type": "Undead",
+    "Size": "Medium"
+  },
+  "Bloodhulk Giant": {
+    "AC": 14,
+    "AC Notes": "(natural armor)",
+    "HP": 253,
+    "HP Rolls": "(22d10 + 132)",
+    "Walking": 25,
+    "Damage Vulnerabilities": [
+      "piercing,",
+      "slashing"
+    ],
+    "Damage Immunities": [
+      "poison"
+    ],
+    "Condition Immunities": [
+      "poisoned"
+    ],
+    "Senses": {
+      "darkvision": 60,
+      "passive Perception": 10
+    },
+    "Languages": [
+      "understands all languages it knew in life but can't speak"
+    ],
+    "CR": 8,
+    "Details": [
+      "Bloodhulk giants are often used by necromancers as bodyguards, that keep enemies at a distance while the necromancer casts their spells."
+    ],
+    "Shorthand Abilities": [
+      "Undead Fortitude."
+    ],
+    "Actions": [
+      "Slam. Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 24 (4d8 + 6) bludgeoning damage.",
+      "The bloodhulk makes two slam attacks."
+    ],
+    "DEX": 8,
+    "CON": 22,
+    "INT": 5,
+    "WIS": 10,
+    "CHA": 3,
+    "STR": 22,
+    "Alignment": "Neutral Evil",
+    "Type": "Undead",
+    "Size": "Large"
+  },
+  "Unmarked Bodak": {
+    "Details": [
+      "Unmarked Bodaks normally have a hole in their chest, where a heart should be, marking them as creatures of Orcus, some however lack this mark. Their chest is intact and just as smooth as the rest of their emaciated bodies. These weaker bodaks are an aberration, even from the abominable creatures they are related to and can become a plague on the land, as they create more of their own through their death gaze. Mistakes of the Unnatural. Unmarked bodaks are created when careless and unexperienced worshippers of Orcus attempt to recreate the ritual sacrifice to turn themselves into bodaks but make mistakes, reciting the ritual vows incorrectly, or carving an inaccurate depiction of demon lord’s symbol into their flesh. The resulting bodaks are devoid of all memories of their past life and do not have the innate connection to Orcus. Their destroyed minds are more akin to a simple zombie’s or skeleton’s than that of a bodak, and lack the ability to recognize creatures of Orcus. Wandering Plague. Unmarked bodaks wander aimlessly, with no necromancer that created them to control their actions, they mindlessly slay any living creature they come across, even worshippers of the Lord of Undeath are not exempt from their lust of killing. Unlike true bodaks, the death gaze of the unmarked causes humanoids it kills to transform into unmarked bodaks themselves, which rise a day later to begin wandering and killing without direction as well. If they are left unchecked, a group these creatures can grow into an infestation that threatens cities. Hunted by Good and Evil. Being undead monsters, it is only natural that unmarked bodaks are hunted down and exterminated by servants of good, but even worshippers of evil do not tolerate the unchecked danger of these abominations, and especially Orcus cults seek to eradicate these mistakes. Though a few true bodaks occasionally round up the unmarked to use as minions of their own. Undead Nature. An unmarked bodak doesn’t require air, food, drink, or sleep."
+    ],
+    "Actions": [
+      "Fist. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) bludgeoning damage."
+    ],
+    "Shorthand Abilities": [
+      "Sunlight Hypersensitivity."
+    ],
+    "Abilities": [
+      "Death Gaze. If a creature starts its turn within 30 feet of the bodak and the two of them can see each other, the bodak can force the creature to make a DC 11 Constitution saving throw, if the bodak isn’t incapacitated, taking 10 (3d6) psychic damage on a failed save, or half as much damage on a successful one. A creature that isn’t surprised can avert its eyes to avoid the saving throw at the start of its turn. If it does so, it can’t see the bodak until the start of its next turn, when it can avert its eyes again. A Medium humanoid creature that dies after being reduced to 0 hit points by this ability, transforms into an unmarked bodak within the next 24 hours. True bodaks are immune to this ability."
+    ],
+    "Alignment": "Chaotic Evil",
+    "Type": "Undead",
+    "Size": "Medium",
+    "CR": 2,
+    "Languages": [
+      "understands any languages it knew in life but can’t speak"
+    ],
+    "Senses": {
+      "darkvision": 60,
+      "passive Perception": 13
+    },
+    "Condition Immunities": [
+      "charmed,",
+      "frightened,",
+      "poisoned"
+    ],
+    "Damage Immunities": [
+      "lightning,",
+      "poison"
+    ],
+    "Damage Resistances": [
+      "cold,",
+      "fire,",
+      "necrotic;",
+      "bludgeoning, piercing, and slashing damage from nonmagical weapons"
+    ],
+    "Skills": {
+      "Stealth": 4,
+      "Perception": 3
+    },
+    "DEX": 15,
+    "CON": 14,
+    "INT": 2,
+    "WIS": 12,
+    "CHA": 12,
+    "STR": 13,
+    "Walking": 30,
+    "HP": 39,
+    "HP Rolls": "(6d8 + 12)",
+    "AC": 14,
+    "AC Notes": "(natural armor)"
+  },
+  "Boggoul": {
+    "Size": "Small",
+    "Type": "Undead",
+    "Alignment": "Chaotic Evil",
+    "Climbing": 30,
+    "STR": 10,
+    "Details": [
+      "Boggoul It takes much for a boggoul to spawn, as the boggles they are created from do not easily take to cannibalism. A boggle usually has to be corrupted by an evil influence to begin down the path that would turn it into this ghoulish monster, or be transformed by necromantic magic. Boggle Ghouls. Boggouls are a type of ghoul spawning from the mischievous, but generally not malevolent boggles. They share the same insatiable desire for flesh, but have several curious features, setting them apart from more common ghouls. For one, boggouls retain their living form’s ability to create dimensional rifts, through which they can reach otherwise difficult to access places. They also continue to secrete an oily fluid. This fluid however is corrupted by necrotic essence and no longer assumes the slippery or sticky consistency it did in life. Instead it harms living creatures. This bilious fluid is the boggoul’s only way to paralyze prey, as the touch of its claws does not confer the same effect. The boggoul can also shift the properties of its bile to rot living flesh, making its mere touch deadly. Boggouls use the paralyzing state of their bile to immobilize prey, before shifting it to its more deadly noxious state to finish off their helpless targets. They often leave puddles of their paralyzing bile as traps to set up dangerous ambushes. Necromancers may create a boggoul if a boggle spawns in their lonely domain and they grow weary of the fey’s mischief, or if they have some interest in capturing living creatures, as the boggouls create excellent traps for the purpose. Undead Nature. A boggoul doesn’t require air, food, drink, or sleep."
+    ],
+    "Abilities": [
+      "Dimensional Rift. As a bonus action, the boggoul can create an invisible and immobile rift within an opening or frame it can see within 5 feet of it, provided that the space is no bigger than 10 feet on any side. The dimensional rift bridges the distance between that space and any point within 30 feet of it that the boggoul can see or specify by distance and direction (such as “30 feet straight up”). While next to the rift, the boggoul can see through it and is considered to be next to the destination as well, and anything the boggoul puts through the rift (including a portion of its body) emerges at the destination. Only the boggoul can use the rift, and it lasts until the end of the boggoul’s next turn.",
+      "Boggoul Bile. The boggoul excretes a bilious fluid from its pores. The boggoul chooses whether the bile is noxious or paralyzing. It can change the property of its bile from one to another as a bonus action. Noxious Bile. A creature other than an undead, that touches the boggoul takes 9 (2d8) necrotic damage. Paralyzing Bile. A creature other than an elf or undead, that touches the boggoul must succeed on a DC 10 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
+    ],
+    "Actions": [
+      "Claw. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d4 + 4) slashing damage. If the boggoul is covered in noxious bile, and the target is a creature other than an undead, it takes an additional 4 (1d8) necrotic damage. If the boggoul is covered in paralyzing bile, and the target is a creature other than an elf or undead, it must succeed on a DC 10 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. Bile Puddle. The boggoul creates a puddle of bile that is either noxious or paralyzing (boggoul’s choice). The puddle is 1 inch deep and covers the ground in the boggoul’s space. The puddle lasts 1 hour. If the bile is noxious, any creature other than an undead, that enters the puddle’s area or starts its turn there must succeed on a DC 10 Constitution saving throw or take 9 (2d8) necrotic damage. If the bile is paralyzing, any creature other than an elf or undead, that enters the puddle’s area or starts its turn there must succeed on a DC 10 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the start of each of its turns, ending the effect on itself on a success. Creatures wearing footwear that is completely waterproof automatically succeed on saving throws against the bile puddle unless its depth reaches past the footwear."
+    ],
+    "CR": 1,
+    "Languages": [
+      "Sylvan"
+    ],
+    "Senses": {
+      "darkvision": 60,
+      "passive Perception": 11
+    },
+    "Condition Immunities": [
+      "charmed,",
+      "exhaustion,",
+      "poisoned"
+    ],
+    "Damage Immunities": [
+      "poison"
+    ],
+    "Damage Resistances": [
+      "fire,",
+      "necrotic"
+    ],
+    "Skills": {
+      "Stealth": 6
+    },
+    "DEX": 18,
+    "CON": 10,
+    "INT": 5,
+    "WIS": 12,
+    "CHA": 6,
+    "Walking": 40,
+    "HP": 21,
+    "HP Rolls": "(6d6)",
+    "AC": 14
+  },
+  "Boneclaw": {
+    "Size": "Large",
+    "Type": "Undead",
+    "Alignment": "Chaotic Evil",
+    "AC": 16,
+    "AC Notes": "(natural armor)",
+    "HP": 133,
+    "HP Rolls": "(14d10 + 56)",
+    "Walking": 30,
+    "STR": 20,
+    "DEX": 18,
+    "Damage Resistances": [
+      "necrotic"
+    ],
+    "Damage Immunities": [
+      "poison,",
+      "cold"
+    ],
+    "Condition Immunities": [
+      "exhaustion,",
+      "poisoned"
+    ],
+    "Senses": {
+      "darkvision": 60,
+      "passive Perception": 12
+    },
+    "Languages": [
+      "Common,",
+      "Abyssal"
+    ],
+    "Details": [
+      "Boneclaws are large skeletal creatures covered in sinewy muscles. The fingers on their large hands are fused into three long, almost spearlike claws. They are created by binding a powerful evil soul into a specially prepared body, constructed of bone and muscle. They serve as defenders, often being employed as bodyguards for the necromancer itself. Dreadful Reach. A boneclaw’s arms and claws are already enormous, but what makes them truly dreadful is their ability to extend their claws to lengths of easily fifteen feet. They love to engage foes at a distance, surprising creatures that try to approach with the jab of an extending claw that impales the assailant and stops them in their track. Because of its quick reflexes, it is difficult to approach a boneclaw to get into close range or to get past the creature to approach whatever the monster is guarding. Gleeful Killers. Boneclaws are mostly skeletal creatures, but they are much more sophisticated than ordinary skeletonal undead, not simply driven by the commands of their creators. They are highly intelligent and take perverse pleasure in impaling living creatures on their extending claws but rarely seek to indulge in anything beyond these basal pleasures. Undead Nature. A boneclaw doesn’t require air, food, drink, or sleep."
+    ],
+    "Abilities": [
+      "Quick Reaction. A boneclaw has advantage on initiative rolls.",
+      "No Passing. The boneclaw gets an additional reaction every turn that can only be used to make opportunity attacks. A boneclaw may make opportunity attacks when creatures enter the reach of its claws. When a creature takes damage from a boneclaw’s opportunity attack, the creature’s speed is reduced to 0 for the rest of the turn."
+    ],
+    "CR": 7,
+    "Actions": [
+      "Claws. Melee Weapon Attack: +8 to hit, reach 15 ft., one target. Hit: 19 (3d6 + 5) piercing damage.",
+      "The boneclaw makes two claw attacks."
+    ],
+    "CON": 19,
+    "INT": 13,
+    "WIS": 14,
+    "CHA": 19
+  },
+  "Bonedrinker": {
+    "Size": [
+      "Medium",
+      "Small"
+    ],
+    "Details": [
+      "Their gaunt, humanoid shapes with emaciated, goblinoid faces and long taloned arms make bonedrinkers appear very similar to ghasts, save for a pair of pale tendrils piercing out of their skin at their sides and large sores that cover their skin, constantly oozing a pale white fluid. Thirst for Bones. A bonedrinker uses its tentacle growths to seize prey and then sinks its sharp, oversized fangs through the victim’s flesh into its very bones. The bonedrinker’s saliva begins dissolving and liquefying the bone, and the undead sucks the liquid directly out of the victim’s body. The many sores and wounds covering its body however constantly weep the bone fluid the bonedrinker consumed, causing it to constantly thirst for more. A bonedrinker instinctually goes for prey with an internal bone structure and cares not for creatures like oozes, elementals and insects or spiders, as it understands that these creatures provide no nutrition, though skeletal undead also make decent, albeit messy, meals. Hobgoblin Creations. The first bonedrinkers were created by hobgoblin wizards from fallen goblins and bugbears in a ritual, not dissimilar to how a mummy is created. The tradition to use goblins and bugbears has held with the hobgoblins, making most, if not all, existing bonedrinkers either of these two creatures. Other humanoids could potentially be used to make bonedrinkers, but other than for hobgoblins, which most hobgoblin wizards refuse to use out of respect for their own people, the creation rituals would have to be twisted and adjusted to make the creation of such bonedrinkers possible. Some hobgoblin necromancers use bonedrinkers to bolster the ranks of their armies, recycling the bodies of slain goblin and bugbear slaves and in the process, supplanting them with more powerful alternatives. Some hobgoblin bands quickly regret their decision to create bonedrinkers, as their thirst becomes uncontrollable. These bonedrinkers are then locked away and abandoned in underground crypts or wherever the hobgoblins might be able to get rid of them. Undead Nature. A bonedrinker doesn’t require air, food, drink, or sleep, although it constantly craves bone mass."
+    ],
+    "STR": 18,
+    "Walking": 30,
+    "HP": 97,
+    "HP Rolls": "(15d8 + 30)",
+    "AC": 15,
+    "AC Notes": "(natural armor)",
+    "Alignment": "Chaotic Evil",
+    "Type": "Undead",
+    "CR": 6,
+    "Abilities": [
+      "Pounce. If the bonedrinker moves at least 15 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 15 Strength saving throw or be knocked prone. If the target is prone, the bonedrinker can make two tentacle attacks against it as a bonus action."
+    ],
+    "Actions": [
+      "Tentacle. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) bludgeoning damage, and the target is grappled (Escape DC 12). The bonedrinker has two tentacles, each of which can grapple one creature.",
+      "Bonedrink. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d4 + 4) piercing damage and 14 (4d6) necrotic damage. This attack can only be used against a creature the bonedrinker is grappling. Until the grapple ends or the bonedrinker uses its bonedrink ability on another creature, the target automatically takes 14 (4d6) necrotic damage at the beginning of each of the bonedrinker’s turns. Each time the bonedrinker deals necrotic damage with its bonedrink ability it gains half as many temporary hit points.",
+      "Claws. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) slashing damage.",
+      "The bonedrinker makes two melee attacks with any combination of claws and tentacles."
+    ],
+    "Languages": [
+      "any languages it knew in life (usually Common and Goblin)"
+    ],
+    "Senses": {
+      "darkvision": 60,
+      "passive Perception": 12
+    },
+    "Condition Immunities": [
+      "charmed,",
+      "exhaustion,",
+      "poisoned"
+    ],
+    "Damage Immunities": [
+      "poison"
+    ],
+    "Damage Resistances": [
+      "necrotic"
+    ],
+    "DEX": 16,
+    "CON": 15,
+    "INT": 8,
+    "WIS": 14,
+    "CHA": 15
+  },
+  "Bonesinger": {
+    "Size": "Medium",
+    "Type": "Undead",
+    "Alignment": "Neutral Evil",
+    "AC": 16,
+    "AC Notes": "(studded leather)",
+    "HP": 32,
+    "HP Rolls": "(5d8 + 10)",
+    "Walking": 30,
+    "STR": 9,
+    "DEX": 18,
+    "Skills": {
+      "Acrobatics": 4,
+      "Arcana": 3
+    },
+    "Details": [
+      "A humanoid skeleton, dressed in the tattered garbs of a minstrel and wielding a musical instrument, a bonesinger is a bard turned undead. The bonesinger is constantly surrounded by a subtle whirling breeze of air. Musical to the Bone. A bonesinger is created from the remains of an evil bard in a sophisticated ritual often conducted by other bonesingers. The bones must be stripped of all remaining flesh and then carved by a master musician or instrument maker, to have grooves and holes which whistle with an eerie keening as the constant breeze surrounding the bonesinger blows through them. This unnatural music augments the music the bonesinger plays on its instrument Undead Band. A bonesinger is rarely encountered alone. They prefer to organize with other bonesingers into a band and synergize by bolstering each others abilities—both physical and magical—with their music. Bonesingers often assist powerful necromancers as support for their undead battalions. Undead Nature. A bonesinger doesn’t require air, food, drink, or sleep."
+    ],
+    "Abilities": [
+      "Singing Bones. As long as it is not affected by magical silence or submerged in water, the bonesinger has advantage on Charisma (Performance) checks and disadvantage on Dexterity (Stealth checks).",
+      "Spellcasting. The bonesinger is a 6th level spellcaster. It’s spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). It knows the following bard spells: Cantrips (at will): mage hand, true strike, vicious mockery 1st level (4 slots): disguise self, heroism, sleep, silent image 2nd level (3 slots): crown of madness, hold person 3rd level (2 slots): clairvoyance, fear",
+      "Cooperative Magic. The bonesinger aids an allied bonesinger in casting a spell or using its Wind of Death action. Saving throws against the ally’s spell or Wind of Death have disadvantage, and spell attack rolls the ally makes have advantage. The bonesinger can only use this ability by using the Ready action to trigger when an allied bonesinger within 5 feet of the bonesinger casts a spell or uses its Wind of Death ability.",
+      "Bardic Inspiration (3/Day). As a bonus action, the bonesinger can inspire one creature other than itself. The creature gains a bardic inspiration die, a d8. Once within the next 10 minutes, the creature can roll the die and add the number rolled to one ability check, attack roll or saving throw it makes. The creature adds this die after the roll is made but before success or failure is determined. A creature can only have one bardic inspiration die at a time.",
+      "Wind of Death. The bonesinger summons a deathly magical wind, smelling of rotting corpses. The effect of this ability is identical to a gust of wind spell but creatures caught in the area must also succeed on a DC 14 Constitution saving throw or become poisoned for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
+    ],
+    "CR": 3,
+    "Languages": [
+      "any languages it knew in life"
+    ],
+    "Senses": {
+      "darkvision": 60,
+      "passive Perception": 10
+    },
+    "Actions": [
+      "Rapier. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) piercing damage."
+    ],
+    "Condition Immunities": [
+      "exhaustion,",
+      "poisoned"
+    ],
+    "Damage Immunities": [
+      "poison,",
+      "cold"
+    ],
+    "Damage Vulnerabilities": [
+      "bludgeoning"
+    ],
+    "Tools": "any three musical instruments",
+    "CON": 14,
+    "INT": 13,
+    "WIS": 11,
+    "CHA": 18
+  },
+  "Briarvex": {
+    "Size": "Large",
+    "Details": [
+      "A briarvex is a roughly ogre-sized, humanoid-shaped amalgamation of plants, bristling with wicked spikes and thorns, that roams the darkest areas of old growth forests, dense swamps, and other areas packed with dense plantlife. They are often referred to as vine-ogres. Seeking to Dominate. Vicious and aggressive creatures, briarvexes are constantly trying to expand their influence and control over the forest. Their numbers are limited, and each briarvex is concerned only with its own survival and prosperity, spreading its seed far and wide, to populate as much area with its own spawn as possible. Briarvexes see non-plant creatures as little more than nuisances, fit for little more than fertilizer, and tend to attack such creatures when they can, using their ability to cast entangle to trap them and then close in to pummel and impale their targets with their deadly spikes. In rare cases, briarvexes have been observed cooperating with non-plant creatures living nearby, such as tribes of gnolls or lizardfolk. Enemies of Treants. Briarvexes have an innate disdain for treants, a feeling that is mutual. They see treants as the greatest threat to their dominion over the forest and will attack the tree herders on sight. They prefer to attack from a position of strength and so they often gather in greater numbers before engaging a treant in combat."
+    ],
+    "STR": 22,
+    "Walking": 30,
+    "HP": 95,
+    "HP Rolls": "(10d10 + 40)",
+    "AC": 16,
+    "AC Notes": "(natural armor)",
+    "Alignment": "Neutral Evil",
+    "Type": "Plant",
+    "Abilities": [
+      "Briarstride. The briarvex is not slowed by forest terrain, can’t be restrained or slowed by entangle spells, and never takes damage from thorns, briars, or other hazardous plants in the terrain.",
+      "Innate Spellcasting. The briarvex’s innate spellcasting ability is Wisdom (spell save DC 12). It can innately cast the following spells, requiring no material components: At will: entangle"
+    ],
+    "Actions": [
+      "Spikes. Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 13 (2d6 + 6) piercing damage. If the target is a creature, it must succeed on a DC 15 Dexterity saving throw or spikes embed themselves in its flesh. A creature can use an action to remove the spikes. As a bonus action, the briarvex can cause the spikes it embedded in a single creature that is within 100 feet and within line of sight of the briarvex to twist and burrow deeper, dealing 14 (4d6) piercing damage.",
+      "The briarvex makes two melee attacks with its spikes."
+    ],
+    "CR": 5,
+    "Languages": [
+      "Common,",
+      "Sylvan"
+    ],
+    "Senses": {
+      "darkvision": 60,
+      "passive Perception": 11
+    },
+    "Damage Resistances": [
+      "bludgeoning,",
+      "piercing"
+    ],
+    "Damage Vulnerabilities": [
+      "fire"
+    ],
+    "DEX": 10,
+    "CON": 18,
+    "INT": 11,
+    "WIS": 12,
+    "CHA": 11
+  },
+  "Cadaver Collector": {
+    "Size": "Large",
+    "Type": "Construct",
+    "Alignment": "Unaligned",
+    "Shorthand Abilities": [
+      "Immutable Form.",
+      "Magic Weapons.",
+      "Magic Resistance."
+    ],
+    "Details": [
+      "These creatures are hunched golem-like constructs of metal and stone. Their bodies are covered in wicked spikes, often dripping with gore and torn body parts impaled upon them. Corpse Gatherers. Cadaver collectors were invented for exactly the purpose their name implies: Gather the bodies of the dead. They were originally meant to scour battlefields and bring back the corpses it finds for medical or magical research or to obtain information on enemy forces. The most common purpose however is to gather materials for necromancers. The sight of a cadaver collector after a battle often triggers retaliatory action from both sides of the battle, since neither like to see their own return from the dead as undead abominations. Dormant Tools or Dangerous Foes. Sometimes a cadaver collector’s master is less discerning about where to collect corpses and will have the construct gather the dead wherever it may find them. When there are no orders for a cadaver collector to follow however it will normally sit idle, finding an out of the way place near the site it was last employed and wait for a new master to give it orders. Some cadaver collectors become corrupted and find their own ways to collect corpses. Either their logic becomes somehow twisted and they seek to stir conflict in order to be able to fulfill their purpose, or their ability to discern living from dead ceases to function and they will simply collect both indiscriminately, oblivious to the suffering they cause. Constructed Nature. A cadaver collector doesn’t require air, food, drink, or sleep."
+    ],
+    "Actions": [
+      "Impale. The cadaver collector attempts to impale a Medium or Small creature it is grappling on its backspikes. It makes a Strength (Athletics) check contested by the creature’s Strength (Athletics) or Dexterity (Acrobatics) check. If the cadaver collector is successful, the grapple ends and the creature takes 27 (6d6 + 6) piercing damage and is restrained on the cadaver collector’s back, sharing space with the cadaver collector. On the cadaver collector’s following turns, the creature takes an additional 10 (3d6) piercing damage once per round if the collector moves or takes an action. A creature can use an action to attempt to pull itself or another creature in arm’s reach free from the spikes by making a DC 16 Strength (Athletics) check. If the check is successful, the impaled creature is no longer restrained and drops off the cadaver collector’s back, immediately being moved to an unoccupied space within 5 feet of the collector. The cadaver collector can have up to six Medium or Small creatures impaled on its backspikes.",
+      "Paralyzing Breath (Recharge 5–6). The cadaver collector releases a paralyzing gas in a 20-foot cone. Creatures in the area must succeed on a DC 16 Constitution saving throw or be paralyzed for 1 minute. At the end of each of its turns, a creature can repeat the saving throw, ending the effect on itself on a success.",
+      "Fist. Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 13 (2d6 + 6) bludgeoning damage and the target is grappled (escape DC 15). The cadaver collecter has two fists, each of which can grapple one Medium or smaller creature. Until the grapple ends, the fist can’t be used to make attacks.",
+      "The cadaver collector makes two fist attacks."
+    ],
+    "CR": 11,
+    "Languages": [
+      "understands the languages of its creator but can’t speak"
+    ],
+    "Senses": {
+      "darkvision": 120,
+      "passive Perception": 13
+    },
+    "Condition Immunities": [
+      "charmed,",
+      "exhaustion,",
+      "frightened,",
+      "paralyzed,",
+      "petrified,",
+      "poisoned,"
+    ],
+    "Damage Immunities": [
+      "poison,",
+      "psychic;",
+      "bludgeoning, piercing, and slashing from nonmagical weapons that aren't adamantine"
+    ],
+    "DEX": 10,
+    "CON": 18,
+    "INT": 6,
+    "WIS": 16,
+    "CHA": 14,
+    "STR": 23,
+    "Walking": 30,
+    "HP": 133,
+    "HP Rolls": "(14d10 + 56)",
+    "AC": 19,
+    "AC Notes": "(natural armor)"
+  },
+  "Catfolk": {
+    "Size": "Medium",
+    "Type": "Humanoid",
+    "Subtype": "(Catfolk)",
+    "Alignment": "Chaotic Good",
+    "AC": 12,
+    "AC Notes": "(leather armor)",
+    "HP": 9,
+    "HP Rolls": "(2d8)",
+    "Walking": 40,
+    "STR": 9,
+    "Details": [
+      "Catfolk NPCs Catfolk are people of the wild and prefer stealth and agility. The Druid, Scout, and Spy NPC statblocks from the Monster Manual as well as the Archer, Bard and Swashbuckler from Volo’s Guide to Monsters are typical catfolk NPCs. See the Monsters as Characters section on page 210 for catfolk racial features. Catfolk are lithe humanoids, covered in sleek fur, with feline features. Graceful, quick, and observant, they are master hunters of the savannah. Catfolk resemble lithe humanoids with the head of a great predatory cat, most commonly lions, but the appearances of tigers, cheetahs, or leopards are not uncommon either. Catfolk organize in great tribes segreagated by these differences in appearance but are by no means hostile to different looking catfolk or even other races. They are open to relations with other people but prefer the company of people of the wild over that of city dwellers. Male catfolk wear their mane-like hair long and in thick braids while females usually keep it short and sleek. Both often wear braids decorated with trinkets or small trophies found in their travels. Tireless Nomads. Catfolk do not form large nations and have little exposure to the politics and power struggles that other races experience in their societies. Catfolk tribes however are largely organzied in nomadic communities and roam the open plains of subtropical and warmer temperate regions. They do not settle down for any extended period of time or get attached to any location the way nomads of other races might. Their short-lived settlements are focused equally on defensibility and escapability, since the loss of the settlement itself is of little consequence to the ever-moving catfolk tribe. Bursts of Activity. Catfolk prefer to accomplish tasks in short bursts of energy, quickly completing a task, if possible, before taking a rest, making the methods of other races appear determined and plodding by comparison. This is mirrored in the way they move, as they dash forward a distance before stopping for a short time while creatures moving more slowly and consistently catch up to them."
+    ],
+    "Abilities": [
+      "Savannah Stalker. The catfolk has advantage on Dexterity (Stealth) and Dexterity (Acrobatics) checks made to move in plains terrain."
+    ],
+    "CR": 0.25,
+    "Actions": [
+      "Shortbow. Ranged Weapon Attack: +3 to hit, range 80/320 ft., one target. Hit: 4 (1d6 + 1) piercing damage.",
+      "Scimitar. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) slashing damage."
+    ],
+    "Languages": [
+      "Feline",
+      "Common,"
+    ],
+    "Senses": {
+      "darkvision": 60,
+      "passive Perception": 12
+    },
+    "Skills": {
+      "Acrobatics": 5,
+      "Perception": 2
+    },
+    "DEX": 12,
+    "CON": 11,
+    "INT": 10,
+    "WIS": 10,
+    "CHA": 12
+  },
+  "Catfolk Hunter": {
+    "Size": "Medium",
+    "Type": "Humanoid",
+    "Subtype": "(Catfolk)",
+    "Alignment": "Chaotic Good",
+    "AC": 15,
+    "AC Notes": "(studded leather)",
+    "HP": 22,
+    "HP Rolls": "(4d8 + 4)",
+    "Walking": 40,
+    "STR": 8,
+    "Abilities": [
+      "Savannah Stalker. The catfolk has advantage on Dexterity (Stealth) and Dexterity (Acrobatics) checks made to move in plains terrain."
+    ],
+    "CR": 1,
+    "Languages": [
+      "Feline",
+      "Common,"
+    ],
+    "Actions": [
+      "Shortbow. Ranged Weapon Attack: +5 to hit, range 80/320 ft., one target. Hit: 6 (1d6 + 3) piercing damage.",
+      "Rapier. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage.",
+      "The catfolk hunter makes two melee attacks or two ranged attacks."
+    ],
+    "Senses": {
+      "darkvision": 60,
+      "passive Perception": 13
+    },
+    "Skills": {
+      "Acrobatics": 5,
+      "Perception": 3,
+      "Stealth": 5,
+      "Survival": 3
+    },
+    "DEX": 16,
+    "CON": 13,
+    "INT": 12,
+    "WIS": 13,
+    "CHA": 12
+  },
+  "Toxic Cave Fisher": {
+    "Size": "Medium",
+    "Type": "Monstrosity",
+    "Alignment": "Unaligned",
+    "AC": 16,
+    "AC Notes": "(natural armor)",
+    "HP": 67,
+    "HP Rolls": "(9d8 + 27)",
+    "Walking": 30,
+    "Climbing": 30,
+    "STR": 16,
+    "Damage Vulnerabilities": [
+      "fire"
+    ],
+    "Condition Immunities": [
+      "poisoned"
+    ],
+    "Senses": {
+      "passive Perception": 12
+    },
+    "Languages": [
+      "—"
+    ],
+    "CR": 3,
+    "Abilities": [
+      "Fear of Fire. If the cave fisher takes fire damage, it is frightened of the source of that damage for 1 round.",
+      "Toxic Filament. The cave fisher can use its action to extend a sticky filament up to 60 feet, and the filament adheres to anything that touches it. A creature adhered to the filament is grappled by the cave fisher (escape DC 13), and ability checks made to escape this grapple have disadvantage. A creature that begins its turn adhered to the cave fisher’s filament, must succeed on a DC 13 Constitution saving throw or become poisoned for one minute. While poisoned, the creature must succeed on a DC 13 Constitution saving throw at the start of each of its turns or be stunned for 1 round and take 4 (1d8) poison damage. A creature that succeeds on this saving throw on two consecutive turns, ends the poisoned condition on itself. The filament can be attacked (AC 15; 5 hit points; immunity to poison and psychic damage; vulnerability to fire damage), but a weapon that fails to sever it becomes stuck to it, requiring an action and a successful DC 13 Strength check to pull free. Destroying the filament deals no damage to the cave fisher, which can extrude a replacement filament on its next turn.",
+      "Volatile Blood. If the cave fisher has half its maximum hit points or fewer, it must make a DC 13 Constitution saving throw each time it takes fire damage. If it fails the save, its blood combusts violently and the cave fisher takes 10 (3d6) slashing damage."
+    ],
+    "Details": [
+      "Cave fishers are known for their alcoholic blood which is often used for the production of dwarven spirits or can even be drunken pure, much like a strong liquor. Certain cave fisher subspecies have a much stronger concentration of alcohol in their blood, to a point where it is toxic. Hypertoxic. Toxic cave fishers are distinguished by their green coloration, as opposed to the pale white of their more common kin. Their filament lures carry some of the toxicity of their blood, making extended contact with the filament deadly. In addition the poison weakens and can temporarily stun the cave fisher’s victims, making capturing large prey significantly easier for toxic cave fishers. Imbibing the pure blood of such a cave fisher can have severe consequences, and even when diluted and processed into a mixture, the blood of toxic cave fishers makes for extremely strong drinks, and generally does not taste very good. It is however also even more flammable than a regular cave fisher’s blood, making for a potent, albeit dangerous, explosive. Scared of Fire. Unlike common cave fishers, toxic cave fishers cannot be coaxed by the threat of fire, as the sight of it overrides their higher functions and causes them to flee instinctively."
+    ],
+    "Shorthand Abilities": [
+      "Spider Climb."
+    ],
+    "Actions": [
+      "Filament. One creature grappled by the cave fisher’s toxic filament must make a DC 12 Strength saving throw, provided that the target weighs 200 pounds or less. On a failure, the target is pulled into an unoccupied space within 5 feet of the cave fisher, and the cave fisher makes a claw attack against it as a bonus action. Reeling up the target releases anyone else who was attached to the filament. Until the grapple ends on the target, the cave fisher can’t extrude another filament.",
+      "Claw. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage.",
+      "The cave fisher makes two claw attacks."
+    ],
+    "Damage Immunities": [
+      "poison"
+    ],
+    "Skills": {
+      "Stealth": 5,
+      "Perception": 2
+    },
+    "DEX": 13,
+    "CON": 16,
+    "INT": 3,
+    "WIS": 10,
+    "CHA": 3
+  }
+}

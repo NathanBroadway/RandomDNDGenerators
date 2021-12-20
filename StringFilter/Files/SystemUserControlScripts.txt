@@ -1,0 +1,68 @@
+$(function () {
+    $("#refreshsystemusercache").click(function () {
+        var confirmText = "Are you sure you want to refresh the SystemUser Service?" +
+            "\nThis will impact the performance of GetLead attempts over the next few minutes. " +
+            "If you're sure, click \"OK\". If this was a mistake, click \"Cancel\".";
+        if (confirm(confirmText)) {
+            window.SystemUserControl.RefreshSystemUserCache();
+        }
+    });
+});
+
+(function (SystemUserControl, $) {
+    var Xrm = parent.Xrm;
+
+    SystemUserControl.RefreshSystemUserCache = function () {
+        var requiredConfiguration = ["CrmSystemUserService_NodeOne", "CrmSystemUserService_NodeTwo", "CrmSystemUserService_NodeThree", "CrmSystemUserService_NodeFour"];
+        var configurationCollection = SystemUserControl.RetrieveConfiguration(requiredConfiguration);
+        var userId = Xrm.Page.data.entity.getId();
+        
+        $(configurationCollection).each(function (i, configuration) {
+            var endpoint = configuration.vu_value + userId;
+
+            $.ajax({
+                type: "GET",
+                url: endpoint,
+                success: function () {
+                    alert("Refreshed SystemUser Cache.");
+                },
+                error: function (xHR, textStatus, errorThrown) {
+                    alert("Failed to Refresh SystemUser Cache for Node." + "\n\nException: " + errorThrown);
+                }
+            });
+        });
+    };
+
+    SystemUserControl.RetrieveConfiguration = function (requestedConfiguration) {
+        var configuration = {};
+        $.ajax({
+            contentType: "application/json; charset=utf-8",
+            dataType: "json",
+            url: SystemUserControl.BuildConfigurationUrl(requestedConfiguration),
+            beforeSend: function (request) {
+                request.setRequestHeader("Accept", "application/json");
+            },
+            async: false
+        }).done(function (configurationResponse) {
+            configuration = configurationResponse.value;
+        });
+
+        return configuration;
+    };
+
+    SystemUserControl.BuildConfigurationUrl = function (configurationNames) {
+        var url = Xrm.Page.context.getClientUrl() + "/api/data/v8.2/vu_configurations";
+        url += "?$select=vu_name,vu_value&$filter=";
+
+        var configUrlComponents = [];
+        configurationNames.forEach(function (configuration) {
+            configUrlComponents.push("vu_name%20eq%20%27" + configuration + "%27");
+        });
+
+        url += configUrlComponents.join("%20or%20");
+        return url;
+    };
+
+    return SystemUserControl;
+
+})(window.SystemUserControl = window.SystemUserControl || {}, jQuery);

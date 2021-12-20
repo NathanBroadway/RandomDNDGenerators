@@ -1,0 +1,32 @@
+<html><head>
+<link rel="stylesheet" href="https://my.veteransunited.com/standalone.css">
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<script src="ClientGlobalContext.js.aspx"></script>
+<script type="text/javascript" src="new_SystemUserControlScript"></script>
+
+  <style>
+    html,
+    body {
+      background: inherit;
+      min-width: 320px;
+    }
+
+    .button {
+      width: 100%;
+    }
+
+    .fields {
+      margin: 10px 0;
+    }
+  </style>
+<meta><meta><meta><meta></head>
+
+<body onfocusout="parent.setEmailRange();" style="overflow-wrap: break-word;">
+    <ul class="fields">
+      <li class="field field-submit">
+        <a id="refreshsystemusercache" class="button sm">
+          Refresh SystemUser Cache
+        </a>
+      </li>
+    </ul>
+</body></html>

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oJYNM2ORFfXjR1i6mPlzJfvM9pFojO0/SGbuKL97elisene3TN44TznYcyZ678kvIFM67y9rh6MbCCdloduYEQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nathaniel.Broadway\\Documents\\PDT\\RandomDNDGenerators\\SupportClasses\\SupportClasses.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nathaniel.Broadway\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

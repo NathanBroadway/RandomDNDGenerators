@@ -1,0 +1,2011 @@
+Category,Secondary Category,Tertiary Categories,Rarity,Attunement,Item,Cost (GP)
+NA,Wondrous,Wondrous,Common,NA,Holy Water (Flask),25
+NA,Manual,Manual,Common,NA,Spellbook (Empty),50
+NA,Wondrous,Wondrous,Common,NA,Totem,1
+NA,Wand,Wand,Common,NA,Wand,10
+NA,Staff,Staff,Common,NA,Wooden Staff,5
+NA,Wand,Wand,Common,NA,Yew Wand,10
+Armor,Any Medium or Heavy,Hide Armor;Chain Shirt Armor;Scale Mail Armor;Breastplate Armor;Half Plate Armor;Ring Mail Armor;Chain Mail Armor;Splint Armor;Plate Armor,Common,NA,Armor of Gleaming,200
+Wondrous,Wondrous,Wondrous,Common,NA,Bead of Nourishment,50
+Wondrous,Wondrous,Wondrous,Common,NA,Bead of Refreshment,50
+Boots,Boots,Boots,Common,NA,Boots of False Tracks,75
+Wondrous,Wondrous,Wondrous,Common,NA,Breathing Bubble,50
+Wondrous,Wondrous,Wondrous,Common,NA,Candle of the Deep,50
+Wondrous,Wondrous,Wondrous,Common,NA,Cartographer's Map Case,50
+Armor,"Light, Medium, or Heavy",Padded Armor;Leather Armor;Studded Leather Armor;Hide Armor;Chain Shirt Armor;Scale Mail Armor;Breastplate Armor;Half Plate Armor;Ring Mail Armor;Chain Mail Armor;Splint Armor;Plate Armor,Common,NA,Cast-Off Armor,200
+Wondrous,Wondrous,Wondrous,Common,Required,Charlatan's Die,63
+Wondrous,Magic Stone,Magic Stone,Common,NA,Cleansing Stone,50
+Clothing,Cloak,Cloak,Common,NA,Cloak of Billowing,100
+Clothing,Cloak,Cloak,Common,NA,Cloak of Many Fashions,100
+Amulet,Amulet,Amulet,Common,NA,Clockwork Amulet,150
+Clothing,Clothing,Clothing,Common,NA,Clothes of Mending,100
+Wondrous,Coin,Coin,Common,NA,Coin of Decisionry,50
+Wondrous,Coin,Coin,Common,NA,Coin of Delving,50
+Amulet,Amulet,Amulet,Common,Required,Dark Shard Amulet,188
+Helmet,Helmet,Helmet,Common,NA,Dread Helm,100
+Wondrous,Wondrous,Wondrous,Common,NA,Ear Horn of Hearing,50
+Manual,Manual,Manual,Common,NA,Enduring Spellbook,500
+Wondrous,Wondrous,Wondrous,Common,Required,Ersatz Eye,63
+Wondrous,Wondrous,Wondrous,Common,NA,Everbright Lantern,50
+Wondrous,Wondrous,Wondrous,Common,NA,Feather Token (Feather Fall),50
+Wondrous,Wondrous,Wondrous,Common,Required,Fernian Ash Focus,63
+Clothing,Hat,Hat,Common,NA,Hat of Vermin,100
+Clothing,Hat,Hat,Common,Required,Hat of Wizardry,125
+Wondrous,Bag,Bag,Common,NA,Heward's Handy Spice Pouch,50
+Wondrous,Horn,Horn,Common,NA,Horn of Silent Alarm,50
+Wondrous,Wondrous,Wondrous,Common,Required,Imbued Wood Focus,63
+Wondrous,Instrument,Instrument,Common,Required,Instrument of Illusions,63
+Wondrous,Instrument,Instrument,Common,Required,Instrument of Scribing,63
+Wondrous,Wondrous,Wondrous,Common,Required,Keycharm,63
+Wondrous,Wondrous,Wondrous,Common,Required,Kythrian Manchineel Focus,63
+Wondrous,Wondrous,Wondrous,Common,Required,Lamannian Oak Focus,63
+Wondrous,Wondrous,Wondrous,Common,NA,Lock of Trickery,50
+Wondrous,Wondrous,Wondrous,Common,Required,Mabaran Ebony Focus,63
+Wondrous,Wondrous,Wondrous,Common,NA,Moodmark Paint,50
+Weapon,Any Sword,Greatsword;Longsword;Rapier;Scimitar;Shortsword,Common,NA,Moon-Touched Sword,100
+Wondrous,Wondrous,Wondrous,Common,NA,Mystery Key,50
+Wondrous,Orb,Orb,Common,NA,Orb of Direction,50
+Wondrous,Orb,Orb,Common,Required,Orb of Shielding,63
+Wondrous,Orb,Orb,Common,NA,Orb of Time,50
+Wondrous,Wondrous,Wondrous,Common,NA,Perfume of Bewitching,50
+Wondrous,Wondrous,Wondrous,Common,NA,Pipe of Smoke Monsters,50
+Wondrous,Wondrous,Wondrous,Common,NA,Pole of Angling,50
+Wondrous,Wondrous,Wondrous,Common,NA,Pole of Collapsing,50
+Wondrous,Wondrous,Wondrous,Common,NA,Pot of Awakening,50
+Wondrous,Wondrous,Wondrous,Common,NA,Pressure Capsule,50
+Wondrous,Wondrous,Wondrous,Common,NA,Prosthetic Limb,50
+Weapon,Scimitar,Scimitar,Common,NA,Revenant Double-Bladed Scimitar,100
+Wondrous,Wondrous,Wondrous,Common,Required,Risian Pine Focus,63
+Wondrous,Wondrous,Wondrous,Common,NA,Rope of Mending,50
+Wondrous,Wondrous,Wondrous,Common,NA,Scribe's Pen,50
+Wondrous,Wondrous,Wondrous,Common,NA,Sekolahian Worshipping Statuette,50
+Wondrous,Wondrous,Wondrous,Common,Required,Shavarran Birch Focus,63
+Armor,Shield,Shield,Common,NA,Shield of Expression,200
+Clothing,Clothing,Clothing,Common,NA,Shiftweave,100
+Armor,Any Armor,Padded Armor;Leather Armor;Studded Leather Armor;Hide Armor;Chain Shirt Armor;Scale Mail Armor;Breastplate Armor;Half Plate Armor;Ring Mail Armor;Chain Mail Armor;Splint Armor;Plate Armor;Spiked Armor;Pride Silk Outfit,Common,NA,Smoldering Armor,200
+Wondrous,Magic Stone,Magic Stone,Common,NA,Spellshard,50
+Staff,Staff,Staff,Common,NA,Staff of Adornment,150
+Staff,Staff,Staff,Common,NA,Staff of Birdcalls,150
+Staff,Staff,Staff,Common,NA,Staff of Flowers,150
+Wondrous,Wondrous,Wondrous,Common,Required,Talking Doll,63
+Wondrous,Wondrous,Wondrous,Common,NA,Tankard of Plenty,50
+Wondrous,Wondrous,Wondrous,Common,NA,Tankard of Sobriety,50
+Weapon,Arrow,Arrow,Common,NA,Unbreakable Arrow,100
+Wondrous,Wondrous,Wondrous,Common,NA,Veteran's Cane,50
+Weapon,Ammunition,Arrows;Blowgun Needles;Crossbow Bolts;Sling Bullets;Arrow,Common,NA,Walloping Ammunition,100
+Wand,Wand,Wand,Common,NA,Wand of Conduting,100
+Wand,Wand,Wand,Common,NA,Wand of Pyrotechnics,100
+Wand,Wand,Wand,Common,NA,Wand of Scowls,100
+Wand,Wand,Wand,Common,NA,Wand of Smiles,100
+Wand,Wand,Wand,Common,Required,Wand Sheath,125
+Wondrous,Wondrous,Wondrous,Common,NA,Spyglass of Clairvoyance,50
+Potion,Healing Potion,Healing Potion,Common,NA,Potion of Healing,50
+Wondrous,Wondrous,Wondrous,Uncommon,NA,Alchemy Jug,300
+Armor,"Medium or Heavy, but Not Hide",Chain Shirt Armor;Scale Mail Armor;Breastplate Armor;Half Plate Armor;Ring Mail Armor;Chain Mail Armor;Splint Armor;Plate Armor,Uncommon,NA,Adamantine Armor,700
+Weapon,Ammunition,Arrows;Blowgun Needles;Crossbow Bolts;Sling Bullets;Arrow,Uncommon,NA,"Ammunition, +1",500
+Amulet,Amulet,Amulet,Uncommon,Required,Amulet of Proof against Detection and Location,750
+Amulet,Amulet,Amulet,Uncommon,NA,Amulet of the Drunkard,500
+Armor,"Light, Medium, or Heavy",Padded Armor;Leather Armor;Studded Leather Armor;Hide Armor;Chain Shirt Armor;Scale Mail Armor;Breastplate Armor;Half Plate Armor;Ring Mail Armor;Chain Mail Armor;Splint Armor;Plate Armor,Uncommon,NA,"Armor, +1",700
+Wondrous,Bag,Bag,Uncommon,NA,Bag of Bounty,300
+Wondrous,Bag,Bag,Uncommon,NA,Bag of Holding,300
+Wondrous,Bag,Bag,Uncommon,NA,Bag of Tricks,300
+Weapon,Boomerang,Boomerang,Uncommon,NA,"Boomerang, +1",500
+Boots,Boots,Boots,Uncommon,NA,Boots of Elvenkind,250
+Boots,Boots,Boots,Uncommon,Required,Boots of Striding and Springing,375
+Boots,Boots,Boots,Uncommon,Required,Boots of the Winterlands,375
+Gauntlets,Gauntlets,Gauntlets,Uncommon,Required,Bracers of Archery,413
+Wondrous,Wondrous,Wondrous,Uncommon,Required,Brooch of Living Essence,450
+Wondrous,Wondrous,Wondrous,Uncommon,Required,Brooch of Shielding,450
+Wondrous,Wondrous,Wondrous,Uncommon,NA,Broom of Flying,300
+Clothing,Hat,Hat,Uncommon,NA,Cap of Water Breathing,300
+Wondrous,Hat,Hat,Uncommon,NA,Circlet of Blasting,300
+Clothing,Cloak,Cloak,Uncommon,Required,Cloak of Elvenkind,450
+Clothing,Cloak,Cloak,Uncommon,Required,Cloak of Protection,450
+Clothing,Cloak,Cloak,Uncommon,NA,Cloak of the Manta Ray,300
+Wondrous,Wondrous,Wondrous,Uncommon,NA,Decanter of Endless Water,300
+Wondrous,Wondrous,Wondrous,Uncommon,NA,Deck of Illusions,300
+Wondrous,Bag,Bag,Uncommon,NA,Documancy Satchel,300
+Wondrous,Instrument,Instrument,Uncommon,Required,Doss Lute,450
+Wondrous,Wondrous,Wondrous,Uncommon,NA,Driftglobe,300
+Wondrous,Dust,Dust,Uncommon,NA,Dust of Deliciousness,300
+Wondrous,Dust,Dust,Uncommon,NA,Dust of Disappearance,300
+Wondrous,Dust,Dust,Uncommon,NA,Dust of Dryness,300
+Wondrous,Dust,Dust,Uncommon,NA,Dust of Sneezing and Choking,300
+Wondrous,Wondrous,Wondrous,Uncommon,Required,Earworm,450
+Wondrous,Quiver,Quiver,Uncommon,NA,Efficient Quiver,300
+Wondrous,Wondrous,Wondrous,Uncommon,NA,Elder's Cartographer's Glossgraphy,300
+Wondrous,Magic Stone,Magic Stone,Uncommon,NA,Elemental Gem,300
+Wondrous,Wondrous,Wondrous,Uncommon,NA,Eversmoking Bottle,300
+Goggles,Goggles,Goggles,Uncommon,Required,Eyes of Charming,300
+Goggles,Goggles,Goggles,Uncommon,NA,Eyes of Minute Seeing,200
+Goggles,Goggles,Goggles,Uncommon,Required,Eyes of the Eagle,300
+Wondrous,Wondrous,Wondrous,Uncommon,Required,Fochluncan Bandore,450
+Gauntlets,Gauntlets,Gauntlets,Uncommon,Required,Gauntlets of Ogre Power,413
+Wondrous,Magic Stone,Magic Stone,Uncommon,NA,Gem of Brightness,300
+Clothing,Clothing,Clothing,Uncommon,NA,Glamerweave,300
+Gloves,Gloves,Gloves,Uncommon,Required,Gloves of Missile Snaring,300
+Gloves,Gloves,Gloves,Uncommon,Required,Gloves of Swimming and Climbing,300
+Gloves,Gloves,Gloves,Uncommon,NA,Gloves of Thievery,200
+Goggles,Goggles,Goggles,Uncommon,NA,Goggles of Night,200
+Goggles,Goggles,Goggles,Uncommon,Required,Goggles of Object Reading,300
+Clothing,Hat,Hat,Uncommon,Required,Hat of Disguise,450
+Clothing,Hat,Hat,Uncommon,Required,Headband of Intellect,450
+Weapon,Any Weapon,Club;Dagger;Greatclub;Handaxe;Javelin;Light Hammer;Mace;Quarterstaff;Sickle;Spear;Yklwa;Boomerang;Light Crossbow;Dart;Shortbow;Sling;Battleaxe;Flail;Glaive;Greataxe;Greatsword;Halberd;Lance;Longsword;Maul;Morningstar;Pike;Rapier;Scimitar;Shortsword;Trident;War Pick;Warhammer;Whip;Blowgun;Hand Crossbow;Heavy Crossbow;Longbow;Net,Uncommon,NA,Hellfire Weapon,500
+Helmet,Helmet,Helmet,Uncommon,NA,Helm of Comprehending Languages,300
+Helmet,Helmet,Helmet,Uncommon,Required,Helm of Telepathy,450
+Weapon,Battleaxe,Battleaxe,Uncommon,NA,Hew,500
+Rod,Rod,Rod,Uncommon,NA,Immovable Rod,400
+Goggles,Goggles,Goggles,Uncommon,Required,Inquisitive's Goggles,300
+Weapon,Javelin,Javelin,Uncommon,NA,Javelin of Lightning,500
+Wondrous,Wondrous,Wondrous,Uncommon,NA,Keoghtom's Ointment,300
+Wondrous,Wondrous,Wondrous,Uncommon,NA,Lantern of Revealing,300
+Weapon,Mace,Mace,Uncommon,NA,Lightbringer,500
+Gloves,Gloves,Gloves,Uncommon,Required,Living Gloves,300
+Wondrous,Instrument,Instrument,Uncommon,Required,Mac-Fuirmidh Cittern,450
+Armor,Any Armor,Padded Armor;Leather Armor;Studded Leather Armor;Hide Armor;Chain Shirt Armor;Scale Mail Armor;Breastplate Armor;Half Plate Armor;Ring Mail Armor;Chain Mail Armor;Splint Armor;Plate Armor;Spiked Armor;Pride Silk Outfit,Uncommon,NA,Mariner's Armor,700
+Amulet,Amulet,Amulet,Uncommon,Required,Medallion of Thoughts,750
+Armor,Any Heavy Armor,Ring Mail Armor;Chain Mail Armor;Splint Armor;Plate Armor,Uncommon,Required,Mind Carapace Armor,"1,050"
+Armor,"Medium or Heavy, but Not Hide",Chain Shirt Armor;Scale Mail Armor;Breastplate Armor;Half Plate Armor;Ring Mail Armor;Chain Mail Armor;Splint Armor;Plate Armor,Uncommon,NA,Mithral Amor,700
+Wondrous,Wondrous,Wondrous,Uncommon,Required,Mizzium Apparatus,450
+Amulet,Amulet,Amulet,Uncommon,Required,Necklace of Adaptation,750
+Potion,Potion,Potion,Uncommon,NA,Oil of Slipperiness,300
+Wondrous,Magic Stone,Magic Stone,Uncommon,Required,Pearl of Power,450
+Wondrous,Wondrous,Wondrous,Uncommon,NA,Periapt of Health,300
+Wondrous,Wondrous,Wondrous,Uncommon,Required,Periapt of Wound Closure,450
+Potion,Potion,Potion,Uncommon,NA,Philter of Love,300
+Wondrous,Instrument,Instrument,Uncommon,NA,Pipes of Haunting,300
+Wondrous,Instrument,Instrument,Uncommon,Required,Pipes of the Sewers,450
+Wondrous,Wondrous,Wondrous,Uncommon,NA,Portfolio Keeper,300
+Helmet,Helmet,Helmet,Uncommon,NA,Propeller Helm,300
+Wondrous,Quiver,Quiver,Uncommon,NA,Quiver of Ehlonna,300
+Wondrous,Wondrous,Wondrous,Uncommon,NA,Restorative Ointment,300
+Ring,Ring,Magic Ring,Uncommon,Required,Ring of Jumping,375
+Ring,Ring,Magic Ring,Uncommon,Required,Ring of Mind Shielding,375
+Ring,Ring,Magic Ring,Uncommon,Required,Ring of Obscuring,375
+Ring,Ring,Magic Ring,Uncommon,NA,Ring of Swimming,250
+Ring,Ring,Magic Ring,Uncommon,Required,Ring of Truth Telling,375
+Ring,Ring,Magic Ring,Uncommon,Required,Ring of Warmth,375
+Ring,Ring,Magic Ring,Uncommon,NA,Ring of Water Walking,250
+Ring,Ring,Magic Ring,Uncommon,Required,Rings of Shared Suffering,375
+Clothing,Clothing,Clothing,Uncommon,Required,Robe of Serpents,450
+Clothing,Clothing,Clothing,Uncommon,NA,Robe of Useful Items,300
+Rod,Rod,Rod,Uncommon,Required,Rod of Retribution,600
+Rod,Rod,Rod,Uncommon,Required,"Rod of the Pact Keeper, +1",600
+Wondrous,Wondrous,Wondrous,Uncommon,NA,Rope of Climbing,300
+Wondrous,Wondrous,Wondrous,Uncommon,NA,Saddle of the Cavalier,300
+Weapon,Dart,Dart,Uncommon,NA,Seeker Dart,500
+Wondrous,Magic Stone,Magic Stone,Uncommon,NA,Sending Stone,300
+Wondrous,Magic Stone,Magic Stone,Uncommon,NA,Sending Stones,300
+Armor,Shield,Shield,Uncommon,NA,Sentinel Shield,700
+Weapon,Longsword,Longsword,Uncommon,Required,Shatterspike,750
+Armor,Shield,Shield,Uncommon,NA,"Shield, +1",700
+Staff,Staff,Staff,Uncommon,Required,Skyblinder Staff,750
+Wondrous,Boots,Boots,Uncommon,Required,Slippers of Spider Climbing,450
+Wondrous,Wondrous,Wondrous,Uncommon,NA,Smokepowder,300
+Wondrous,Coin,Coin,Uncommon,NA,Soul Coin,300
+Wondrous,Wondrous,Wondrous,Uncommon,Required,Spies' Murmur,450
+Staff,Staff,Staff,Uncommon,Required,Staff of the Adder,750
+Staff,Staff,Staff,Uncommon,Required,Staff of the Python,750
+Wondrous,Magic Stone,Magic Stone,Uncommon,Required,Stone of Good Luck,450
+Wondrous,Magic Stone,Magic Stone,Uncommon,Required,Stone of Ill Luck,450
+Weapon,Boomerang,Boomerang,Uncommon,NA,Storm Boomerang,500
+Weapon,Any Sword,Greatsword;Longsword;Rapier;Scimitar;Shortsword,Uncommon,Required,Sword of Vengeance,750
+Potion,Potion,Potion,Uncommon,NA,Thessaltoxin Antidote,300
+Weapon,Trident,Trident,Uncommon,Required,Trident of Fish Command,750
+Clothing,Clothing,Clothing,Uncommon,NA,Uncommon Glamerweave,300
+Wand,Wand,Wand,Uncommon,Required,Wand of Entangle,375
+Wand,Wand,Wand,Uncommon,NA,Wand of Magic Detection,250
+Wand,Wand,Wand,Uncommon,NA,Wand of Magic Missiles,250
+Wand,Wand,Wand,Uncommon,NA,Wand of Secrets,250
+Wand,Wand,Wand,Uncommon,Required,Wand of Web,375
+Wondrous,Wondrous,Wondrous,Uncommon,NA,Wheel of Wind and Water,300
+Wondrous,Wondrous,Wondrous,Uncommon,NA,Wind Fan,300
+Boots,Boots,Boots,Uncommon,Required,Winged Boots,375
+Clothing,Clothing,Clothing,Uncommon,Required,Wingwear,450
+Weapon,Greatsword,Greatsword,Uncommon,NA,Winter's Dark Bite,500
+Weapon,Yklwa,Yklwa,Uncommon,NA,"Yklwa, +1",500
+Ring,Ring,Magic Ring,Uncommon,Required,Ring of Preferred Death,375
+Wondrous,Instrument,Instrument,Uncommon,Required,Fochlucan Bandore,450
+Potion,Healing Potion,Healing Potion,Uncommon,NA,Potion of Greater Healing,300
+Wondrous,Magic Stone,Magic Stone,Uncommon,Required,Feywild Shard,450
+Wondrous,Wondrous,Wondrous,Uncommon,Required,Guardian Emblem,450
+Wondrous,Sickle,Sickle,Uncommon,Required,"Moon Sickle, +1",450
+Wondrous,Cloak,Cloak,Uncommon,Required,Nature's Mantle,450
+Wondrous,Instrument,Instrument,Uncommon,Required,Rhythm- Maker’s Drum,450
+Wondrous,Wondrous,Wondrous,Uncommon,Required,Bloodwell Vial,450
+Manual,Manual,Manual,Uncommon,Required,Arcane Grimoire,"1,500"
+Amulet,Amulet,Amulet,Uncommon,Required,Amulet of the Devout,750
+Wondrous,Wondrous,Wondrous,Uncommon,Required,All-Purpose Tool,450
+Wondrous,Cloak,Cloak,Uncommon,Required,Piwafwi (Cloak of Elvenkind),450
+Weapon,Any Sword,Greatsword;Longsword;Rapier;Scimitar;Shortsword,Rare,Required,Acheron Blade,"8,750"
+Weapon,Ammunition,Arrows;Blowgun Needles;Crossbow Bolts;Sling Bullets;Arrow,Rare,NA,"Ammunition, +2","5,000"
+Amulet,Amulet,Amulet,Rare,Required,Amulet of Health,"13,125"
+Armor,"Light, Medium, or Heavy (with Resistance)",Padded Armor (Acid);Leather Armor (Acid);Studded Leather Armor (Acid);Hide Armor (Acid);Chain Shirt Armor (Acid);Scale Mail Armor (Acid);Breastplate Armor (Acid);Half Plate Armor (Acid);Ring Mail Armor (Acid);Chain Mail Armor (Acid);Splint Armor (Acid);Plate Armor (Acid);Padded Armor (Cold);Leather Armor (Cold);Studded Leather Armor (Cold);Hide Armor (Cold);Chain Shirt Armor (Cold);Scale Mail Armor (Cold);Breastplate Armor (Cold);Half Plate Armor (Cold);Ring Mail Armor (Cold);Chain Mail Armor (Cold);Splint Armor (Cold);Plate Armor (Cold);Padded Armor (Fire);Leather Armor (Fire);Studded Leather Armor (Fire);Hide Armor (Fire);Chain Shirt Armor (Fire);Scale Mail Armor (Fire);Breastplate Armor (Fire);Half Plate Armor (Fire);Ring Mail Armor (Fire);Chain Mail Armor (Fire);Splint Armor (Fire);Plate Armor (Fire);Padded Armor (Force);Leather Armor (Force);Studded Leather Armor (Force);Hide Armor (Force);Chain Shirt Armor (Force);Scale Mail Armor (Force);Breastplate Armor (Force);Half Plate Armor (Force);Ring Mail Armor (Force);Chain Mail Armor (Force);Splint Armor (Force);Plate Armor (Force);Padded Armor (Lightning);Leather Armor (Lightning);Studded Leather Armor (Lightning);Hide Armor (Lightning);Chain Shirt Armor (Lightning);Scale Mail Armor (Lightning);Breastplate Armor (Lightning);Half Plate Armor (Lightning);Ring Mail Armor (Lightning);Chain Mail Armor (Lightning);Splint Armor (Lightning);Plate Armor (Lightning);Padded Armor (Necrotic);Leather Armor (Necrotic);Studded Leather Armor (Necrotic);Hide Armor (Necrotic);Chain Shirt Armor (Necrotic);Scale Mail Armor (Necrotic);Breastplate Armor (Necrotic);Half Plate Armor (Necrotic);Ring Mail Armor (Necrotic);Chain Mail Armor (Necrotic);Splint Armor (Necrotic);Plate Armor (Necrotic);Padded Armor (Poison);Leather Armor (Poison);Studded Leather Armor (Poison);Hide Armor (Poison);Chain Shirt Armor (Poison);Scale Mail Armor (Poison);Breastplate Armor (Poison);Half Plate Armor (Poison);Ring Mail Armor (Poison);Chain Mail Armor (Poison);Splint Armor (Poison);Plate Armor (Poison);Padded Armor (Psychic);Leather Armor (Psychic);Studded Leather Armor (Psychic);Hide Armor (Psychic);Chain Shirt Armor (Psychic);Scale Mail Armor (Psychic);Breastplate Armor (Psychic);Half Plate Armor (Psychic);Ring Mail Armor (Psychic);Chain Mail Armor (Psychic);Splint Armor (Psychic);Plate Armor (Psychic);Padded Armor (Radiant);Leather Armor (Radiant);Studded Leather Armor (Radiant);Hide Armor (Radiant);Chain Shirt Armor (Radiant);Scale Mail Armor (Radiant);Breastplate Armor (Radiant);Half Plate Armor (Radiant);Ring Mail Armor (Radiant);Chain Mail Armor (Radiant);Splint Armor (Radiant);Plate Armor (Radiant);Padded Armor (Thunder);Leather Armor (Thunder);Studded Leather Armor (Thunder);Hide Armor (Thunder);Chain Shirt Armor (Thunder);Scale Mail Armor (Thunder);Breastplate Armor (Thunder);Half Plate Armor (Thunder);Ring Mail Armor (Thunder);Chain Mail Armor (Thunder);Splint Armor (Thunder);Plate Armor (Thunder),Rare,Required,Armor of Resistance,"12,250"
+Armor,Plate,Plate,Rare,Required,Armor of Vulnerability,"12,250"
+Armor,"Light, Medium, or Heavy",Padded Armor;Leather Armor;Studded Leather Armor;Hide Armor;Chain Shirt Armor;Scale Mail Armor;Breastplate Armor;Half Plate Armor;Ring Mail Armor;Chain Mail Armor;Splint Armor;Plate Armor,Rare,NA,"Armor, +2","7,000"
+Armor,Shield,Shield,Rare,Required,Arrow-Catching Shield,"12,250"
+Wondrous,Bag,Bag,Rare,NA,Bag of Beans,"8,000"
+Armor,Shield,Shield,Rare,Required,Battering Shield,"12,250"
+Wondrous,Wondrous,Wondrous,Rare,NA,Bead of Force,"8,000"
+Wondrous,Belt,Belt,Rare,NA,Belt of Dwarvenkind,"8,000"
+Wondrous,Belt,Belt,Rare,NA,Belt of Giant Strength,"8,000"
+Weapon,Any Axe,Handaxe;Battleaxe;Greataxe,Rare,Required,Berserker Axe,"8,750"
+Weapon,Mace,Mace,Rare,NA,Bonecounter,"5,000"
+Weapon,Boomerang,Boomerang,Rare,NA,"Boomerang, +2","5,000"
+Boots,Boots,Boots,Rare,Required,Boots of Levitation,"6,125"
+Boots,Boots,Boots,Rare,Required,Boots of Speed,"6,125"
+Wondrous,Wondrous,Wondrous,Rare,NA,Bowl of Commanding Water,"8,000"
+Gauntlets,Gauntlets,Gauntlets,Rare,Required,Bracers of Defense,"7,000"
+Wondrous,Wondrous,Wondrous,Rare,NA,Brazier of Commanding Fire Elementals,"8,000"
+Clothing,Clothing,Clothing,Rare,Required,Butcher's Bib,"8,750"
+Wondrous,Instrument,Instrument,Rare,Required,Canaith Mandolin,"14,000"
+Clothing,Cloak,Cloak,Rare,NA,Cape of the Mountebank,"5,000"
+Wondrous,Wondrous,Wondrous,Rare,NA,Censer of Controlling Air Elementals,"8,000"
+Wondrous,Instrument,Instrument,Rare,NA,Chime of Opening,"8,000"
+Wondrous,Instrument,Instrument,Rare,Required,Cli Lyre,"14,000"
+Clothing,Cloak,Cloak,Rare,Required,Cloak of Displacement,"8,750"
+Clothing,Cloak,Cloak,Rare,Required,Cloak of the Bat,"8,750"
+Weapon,Any Weapon,Club;Dagger;Greatclub;Handaxe;Javelin;Light Hammer;Mace;Quarterstaff;Sickle;Spear;Yklwa;Boomerang;Light Crossbow;Dart;Shortbow;Sling;Battleaxe;Flail;Glaive;Greataxe;Greatsword;Halberd;Lance;Longsword;Maul;Morningstar;Pike;Rapier;Scimitar;Shortsword;Trident;War Pick;Warhammer;Whip;Blowgun;Hand Crossbow;Heavy Crossbow;Longbow;Net,Rare,Required,Corpse Slayer,"8,750"
+Wondrous,Wondrous,Wondrous,Rare,Required,Cube of Force,"14,000"
+Wondrous,Wondrous,Wondrous,Rare,NA,Daern's Instant Fortress,"8,000"
+Weapon,Dagger,Dagger,Rare,NA,Dagger of Venom,"5,000"
+Wondrous,Wondrous,Wondrous,Rare,NA,Dimensional Shackles,"8,000"
+Weapon,Any Sword,Greatsword;Longsword;Rapier;Scimitar;Shortsword,Rare,NA,Dragon Slayer,"5,000"
+Armor,Breastplate,Breastplate Armor,Rare,NA,Dragonguard,"7,000"
+Potion,Healing Potion,Healing Potion,Rare,NA,Elixir of Health,"5,000"
+Armor,Chain Shirt,Chain Shirt Armor,Rare,NA,Elven Chain,"7,000"
+Wand,Wand,Wand,Rare,Required,Failed Experiment Wand,"6,125"
+Wondrous,Wondrous,Wondrous,Rare,NA,Feather Token,"8,000"
+Weapon,Any Sword,Greatsword;Longsword;Rapier;Scimitar;Shortsword,Rare,Required,Flame Tongue,"8,750"
+Wondrous,Vehicle,Vehicle,Rare,NA,Flying Chariot,"8,000"
+Wondrous,Vehicle,Vehicle,Rare,NA,Folding Boat,"8,000"
+Wondrous,Wondrous,Wondrous,Rare,Required,Galdur's Bubble Pipe,"14,000"
+Weapon,Any Sword,Greatsword;Longsword;Rapier;Scimitar;Shortsword,Rare,Required,Gambler's Blade,"8,750"
+Wondrous,Magic Stone,Magic Stone,Rare,Required,Gem of Seeing,"14,000"
+Weapon,Any Axe or Sword,Handaxe;Battleaxe;Greataxe;Greatsword;Longsword;Rapier;Scimitar;Shortsword,Rare,NA,Giant Slayer,"5,000"
+Armor,Studded Leather,Studded Leather Armor,Rare,NA,Glamoured Studded Leather,"7,000"
+Wondrous,Bag,Bag,Rare,NA,Handy Haversack,"8,000"
+Helmet,Helmet,Helmet,Rare,Required,Helm of Teleportation,"8,750"
+Helmet,Helmet,Helmet,Rare,Required,Helm of the Gods,"8,750"
+Wondrous,Bag,Bag,Rare,NA,Heward's Handy Haversack,"8,000"
+Wondrous,Horn,Horn,Rare,NA,Horn of Blasting,"8,000"
+Wondrous,Horn,Horn,Rare,NA,Horn of Valhalla,"8,000"
+Wondrous,Wondrous,Wondrous,Rare,NA,Horseshoes of Speed,"8,000"
+Wondrous,Wondrous,Wondrous,Rare,NA,Instant Fortress,"8,000"
+Wondrous,Wondrous,Wondrous,Rare,NA,Iron Bands of Bilarro,"8,000"
+Wondrous,Wondrous,Wondrous,Rare,NA,Iron Bands of Binding,"8,000"
+Armor,Leather,Leather Armor,Rare,Required,Leather Golem Armor,"12,250"
+Weapon,Mace,Mace,Rare,Required,Mace of Disruption,"8,750"
+Weapon,Mace,Mace,Rare,NA,Mace of Smiting,"5,000"
+Weapon,Mace,Mace,Rare,Required,Mace of Terror,"8,750"
+Clothing,Cloak,Cloak,Rare,Required,Mantle of Spell Resistance,"8,750"
+Amulet,Amulet,Amulet,Rare,NA,Master's Amulet,"7,500"
+Weapon,Any Sword,Greatsword;Longsword;Rapier;Scimitar;Shortsword,Rare,Required,Mind Blade,"8,750"
+Weapon,Whip,Whip,Rare,Required,Mind Lash,"8,750"
+Armor,Half Plate,Half Plate Armor,Rare,NA,"Mithral Half Plate, +1","7,000"
+Armor,"Medium or Heavy, but Not Hide",Chain Shirt Armor;Scale Mail Armor;Breastplate Armor;Half Plate Armor;Ring Mail Armor;Chain Mail Armor;Splint Armor;Plate Armor,Rare,NA,Mizzium Armor,"7,000"
+Wondrous,Wondrous,Wondrous,Rare,NA,Mizzium Mortar,"8,000"
+Armor,"Breastplate, Half Plate, or Plate",Breastplate Armor;Half Plate Armor;Plate Armor,Rare,Required,Molten Bronze Skin,"12,250"
+Amulet,Amulet,Amulet,Rare,NA,Necklace of Fireballs,"7,500"
+Amulet,Amulet,Amulet,Rare,Required,Necklace of Prayer Beads,"13,125"
+Weapon,Dagger,Dagger,Rare,Required,Needle of Mending,"8,750"
+Potion,Potion,Potion,Rare,NA,Oil of Etherealness,"5,000"
+Armor,Shield,Shield,Rare,Required,Pariah's Shield,"12,250"
+Wondrous,Wondrous,Wondrous,Rare,NA,Periapt of Proof against Poison,"8,000"
+Weapon,Shortsword,Shortsword,Rare,Required,Piercer,"8,750"
+Wondrous,Wondrous,Wondrous,Rare,NA,Portable Hole,"8,000"
+Wondrous,Orb,Orb,Rare,NA,Professor Orb,"8,000"
+Ring,Ring,Magic Ring,Rare,NA,Ring of Animal Influence,"3,000"
+Ring,Ring,Magic Ring,Rare,Required,Ring of Evasion,"5,250"
+Ring,Ring,Magic Ring,Rare,Required,Ring of Feather Falling,"5,250"
+Ring,Ring,Magic Ring,Rare,Required,Ring of Free Action,"5,250"
+Ring,Ring,Magic Ring,Rare,Required,Ring of Protection,"5,250"
+Ring,Ring,Magic Ring,Rare,Required,Ring of Resistance,"5,250"
+Ring,Ring,Magic Ring,Rare,Required,Ring of Spell Storing,"5,250"
+Ring,Ring,Magic Ring,Rare,Required,Ring of Temporal Salvation,"5,250"
+Ring,Ring,Magic Ring,Rare,Required,Ring of the Ram,"5,250"
+Ring,Ring,Magic Ring,Rare,Required,Ring of X-ray Vision,"5,250"
+Clothing,Clothing,Clothing,Rare,Required,Robe of Eyes,"8,750"
+Clothing,Clothing,Clothing,Rare,Required,Robe of Summer,"8,750"
+Rod,Rod,Rod,Rare,Required,Rod of Rulership,"10,500"
+Rod,Rod,Rod,Rare,Required,"Rod of the Pact Keeper, +2","10,500"
+Rod,Rod,Rod,Rare,NA,Rod of the Vonindod,"6,000"
+Wondrous,Wondrous,Wondrous,Rare,NA,Rope of Entanglement,"8,000"
+Armor,Plate,Plate Armor,Rare,NA,Scorpion Armor,"7,000"
+Scroll,Manual,Manual,Rare,NA,Scroll of Protection,"7,500"
+Armor,Shield,Shield,Rare,NA,Shield of Far Sight,"7,000"
+Armor,Shield,Shield,Rare,Required,Shield of Missile Attraction,"12,250"
+Armor,Shield,Shield,Rare,NA,"Shield, +2","7,000"
+Wondrous,Instrument,Instrument,Rare,Required,Siren Song Lyre,"14,000"
+Wondrous,Magic Stone,Magic Stone,Rare,NA,Speaking Stone,"8,000"
+Staff,Staff,Staff,Rare,Required,Spider Staff,"13,125"
+Staff,Staff,Staff,Rare,Required,Staff of Charming,"13,125"
+Staff,Staff,Staff,Rare,Required,Staff of Defense,"13,125"
+Staff,Staff,Staff,Rare,Required,Staff of Healing,"13,125"
+Staff,Staff,Staff,Rare,Required,Staff of Swarming Insects,"13,125"
+Staff,Staff,Staff,Rare,Required,Staff of the Ivory Claw,"13,125"
+Staff,Staff,Staff,Rare,Required,Staff of the Woodlands,"13,125"
+Staff,Staff,Staff,Rare,Required,Staff of Withering,"13,125"
+Wondrous,Magic Stone,Magic Stone,Rare,NA,Stone of Controlling Earth Elementals,"8,000"
+Wondrous,Magic Stone,Magic Stone,Rare,Required,Stonespeaker Crystal,"14,000"
+Weapon,Longsword,Longsword,Rare,Required,Sun Blade,"8,750"
+Weapon,Warhammer,Warhammer,Rare,Required,Sunforger,"8,750"
+Weapon,Any Sword,Greatsword;Longsword;Rapier;Scimitar;Shortsword,Rare,Required,Sword of Life Stealing,"8,750"
+Weapon,Any Sword,Greatsword;Longsword;Rapier;Scimitar;Shortsword,Rare,Required,Sword of Wounding,"8,750"
+Rod,Rod,Rod,Rare,Required,Tentacle Rod,"10,500"
+Weapon,Sling,Sling,Rare,NA,Two-Birds Sling,"5,000"
+Weapon,Rapier,Rapier,Rare,NA,"Vicious Rapier, +1","5,000"
+Wand,Wand,Wand,Rare,Required,Wand of Binding,"6,125"
+Wand,Wand,Wand,Rare,Required,Wand of Enemy Detection,"6,125"
+Wand,Wand,Wand,Rare,Required,Wand of Fear,"6,125"
+Wand,Wand,Wand,Rare,Required,Wand of Fireballs,"6,125"
+Wand,Wand,Wand,Rare,Required,Wand of Lightning Bolts,"6,125"
+Wand,Wand,Wand,Rare,Required,Wand of Paralysis,"6,125"
+Wand,Wand,Wand,Rare,Required,Wand of Viscid Globs,"6,125"
+Wand,Wand,Wand,Rare,Required,Wand of Winter,"6,125"
+Wand,Wand,Wand,Rare,Required,Wand of Wonder,"6,125"
+Clothing,Cloak,Cloak,Rare,Required,Wings of Flying,"8,750"
+Weapon,Yklwa,Yklwa,Rare,NA,"Yklwa, +2","5,000"
+Potion,Healing Potion,Healing Potion,Rare,NA,Potion of Superior Healing,"5,000"
+Wondrous,Sickle,Sickle,Rare,Required,"Moon Sickle, +2","14,000"
+Wondrous,Instrument,Instrument,Rare,Required,Rhythm- Maker’s Drum,"14,000"
+Wondrous,Wondrous,Wondrous,Rare,Required,Bloodwell Vial,"14,000"
+Manual,Manual,Manual,Rare,Required,Arcane Grimoire,"17,500"
+Amulet,Amulet,Amulet,Rare,Required,Amulet of the Devout,"13,125"
+Wondrous,Wondrous,Wondrous,Rare,Required,All-Purpose Tool,"14,000"
+Manual,Manual,Manual,Rare,Required,Alchemical Compendium,"17,500"
+Wondrous,Magic Stone,Magic Stone,Rare,Required,Astral Shard,"14,000"
+Wondrous,Wondrous,Wondrous;Manual;Orb,Rare,Required,Astromancy Archive,"14,000"
+Manual,Manual,Manual,Rare,Required,Atlas of Endless Horizons,"17,500"
+Wondrous,Wondrous,Wondrous;Instrument,Rare,Required,Bell Branch,"14,000"
+Weapon,Flail,Flail,Rare,Required,Devotee's Censer,"8,750"
+Manual,Manual,Manual,Rare,Required,Duplicitous Manuscript,"17,500"
+Wondrous,Magic Stone,Magic Stone,Rare,Required,Elemental Essence Shard,"14,000"
+Wondrous,Magic Stone,Magic Stone,Rare,Required,Far Realm Shard,"14,000"
+Manual,Manual,Manual,Rare,Required,Fulminating Treatise,"17,500"
+Manual,Manual,Manual,Rare,Required,Heart Weaver’s Primer,"17,500"
+Manual,Manual,Manual,Rare,Required,Libram of Souls and Flesh,"17,500"
+Wondrous,Instrument,Instrument,Rare,Required,Lyre of Building,"14,000"
+Wondrous,Magic Stone,Magic Stone,Rare,Required,Outer Essence Shard,"14,000"
+Manual,Manual,Manual,Rare,Required,Planecaller's Codex,"17,500"
+Manual,Manual,Manual,Rare,Required,Protective Verses,"17,500"
+Wondrous,Instrument,Instrument,Rare,Required,Reveler’s Concertina,"14,000"
+Wondrous,Magic Stone,Magic Stone,Rare,Required,Shadowfell Shard,"14,000"
+Weapon,Any Weapon,Club;Dagger;Greatclub;Handaxe;Javelin;Light Hammer;Mace;Quarterstaff;Sickle;Spear;Yklwa;Boomerang;Light Crossbow;Dart;Shortbow;Sling;Battleaxe;Flail;Glaive;Greataxe;Greatsword;Halberd;Lance;Longsword;Maul;Morningstar;Pike;Rapier;Scimitar;Shortsword;Trident;War Pick;Warhammer;Whip;Blowgun;Hand Crossbow;Heavy Crossbow;Longbow;Net,Rare,NA,Weapon of Certain Death,"5,000"
+Wondrous,Wondrous,Wondrous,Very Rare,Required,All-Purpose Tool,"90,000"
+Weapon,Ammunition,Arrows;Blowgun Needles;Crossbow Bolts;Sling Bullets;Arrow,Very Rare,NA,"Ammunition, +3","50,000"
+Amulet,Amulet,Amulet,Very Rare,Required,Amulet of the Devout,"90,000"
+Amulet,Amulet,Amulet,Very Rare,Required,Amulet of the Planes,"90,000"
+Armor,Shield,Shield,Very Rare,Required,Animated Shield,"150,000"
+Wondrous,Instrument,Instrument,Very Rare,Required,Anstruth Harp,"90,000"
+Manual,Manual,Manual,Very Rare,Required,Arcane Grimoire,"180,000"
+Armor,"Light, Medium, or Heavy",Padded Armor;Leather Armor;Studded Leather Armor;Hide Armor;Chain Shirt Armor;Scale Mail Armor;Breastplate Armor;Half Plate Armor;Ring Mail Armor;Chain Mail Armor;Splint Armor;Plate Armor,Very Rare,NA,"Armor, +3","75,000"
+Weapon,Arrow,Arrow,Very Rare,NA,Arrow of Slaying,"50,000"
+Wondrous,Bag,Bag,Very Rare,NA,Bag of Devouring,"45,000"
+Weapon,Any Sword,Greatsword;Longsword;Rapier;Scimitar;Shortsword,Very Rare,Required,Blade of Medusa,"100,000"
+Weapon,Greataxe,Greataxe,Very Rare,Required,Bloodaxe,"100,000"
+Wondrous,Wondrous,Wondrous,Very Rare,Required,Bloodwell Vial,"90,000"
+Weapon,Boomerang,Boomerang,Very Rare,NA,"Boomerang, +3","50,000"
+Wondrous,Wondrous,Wondrous,Very Rare,Required,Candle of Invocation,"90,000"
+Wondrous,Wondrous,Wondrous,Very Rare,NA,Carpet of Flying,"45,000"
+Wondrous,Wondrous,Wondrous,Very Rare,Required,Cauldron of Rebirth,"90,000"
+Wondrous,Orb,Orb,Very Rare,Required,Chronolometer,"90,000"
+Clothing,Cloak,Cloak,Very Rare,Required,Cloak of Arachnida,"50,000"
+Wondrous,Orb,Orb,Very Rare,Required,Crystal Ball,"90,000"
+Wondrous,Orb,Orb,Very Rare,Required,Crystalline Chronicle,"90,000"
+Weapon,Any Sword,Greatsword;Longsword;Rapier;Scimitar;Shortsword,Very Rare,Required,Dancing Sword,"100,000"
+Armor,Plate,Plate Armor,Very Rare,Required,Demon Armor,"150,000"
+Wondrous,Wondrous,Wondrous,Very Rare,Required,Dimensional Loop,"90,000"
+Wondrous,Magic Stone,Magic Stone,Very Rare,NA,Dispelling Stone,"45,000"
+Armor,Scale Mail,Scale Mail Armor,Very Rare,Required,Dragon Scale Mail,"150,000"
+Weapon,Warhammer,Warhammer,Very Rare,Required,Duskcrusher,"100,000"
+Armor,Plate,Plate Armor,Very Rare,NA,Dwarven Plate,"75,000"
+Weapon,Warhammer,Warhammer,Very Rare,Required,Dwarven Thrower,"100,000"
+Weapon,Whip,Whip,Very Rare,Required,Dyrrn's Tentacle Whip,"100,000"
+Wondrous,Wondrous,Wondrous,Very Rare,NA,Efreeti Bottle,"45,000"
+Wondrous,Wondrous,Wondrous,Very Rare,Required,Far Gear,"90,000"
+Wondrous,Wondrous,Wondrous,Very Rare,NA,Figurine of Wondrous Power,"45,000"
+Weapon,Any Sword,Greatsword;Longsword;Rapier;Scimitar;Shortsword,Very Rare,Required,Frost Brand,"100,000"
+Helmet,Helmet,Helmet,Very Rare,Required,Helm of Brilliance,"50,000"
+Armor,Leather,Leather Armor,Very Rare,Required,Heward's Hireling Armor,"150,000"
+Wondrous,Wondrous,Wondrous,Very Rare,NA,Horseshoes of a Zephyr,"45,000"
+Armor,Leather,Leather Armor,Very Rare,Required,Hunter's Coat,"150,000"
+Gauntlets,Gauntlets,Gauntlets,Very Rare,Required,Illusionist's Bracers,"40,000"
+Wondrous,Instrument,Instrument,Very Rare,Required,Instrument of the Bards (1/7),"90,000"
+Wondrous,Wondrous,Wondrous,Very Rare,Required,Kyrzin's Ooze,"90,000"
+Armor,Any Armor,Padded Armor;Leather Armor;Studded Leather Armor;Hide Armor;Chain Shirt Armor;Scale Mail Armor;Breastplate Armor;Half Plate Armor;Ring Mail Armor;Chain Mail Armor;Splint Armor;Plate Armor;Spiked Armor;Pride Silk Outfit,Very Rare,NA,Last Stand Armor,"75,000"
+Armor,Any Armor,Padded Armor;Leather Armor;Studded Leather Armor;Hide Armor;Chain Shirt Armor;Scale Mail Armor;Breastplate Armor;Half Plate Armor;Ring Mail Armor;Chain Mail Armor;Splint Armor;Plate Armor;Spiked Armor;Pride Silk Outfit,Very Rare,Required,Living Armor,"150,000"
+Manual,Manual,Manual,Very Rare,NA,Manual of Bodily Health,"90,000"
+Manual,Manual,Manual,Very Rare,NA,Manual of Gainful Exercise,"90,000"
+Manual,Manual,Manual,Very Rare,NA,Manual of Golems,"90,000"
+Manual,Manual,Manual,Very Rare,NA,Manual of Quickness of Action,"90,000"
+Wondrous,Wondrous,Wondrous,Very Rare,NA,Marvelous Pigments,"45,000"
+Wondrous,Wondrous,Wondrous,Very Rare,NA,Mirror of Life Trapping,"45,000"
+Wondrous,Sickle,Sickle,Very Rare,Required,"Moon Sickle, +3","90,000"
+Weapon,Any Sword,Greatsword;Longsword;Rapier;Scimitar;Shortsword,Very Rare,Required,Nine Lives Stealer,"100,000"
+Wondrous,Wondrous,Wondrous,Very Rare,NA,Nolzur's Marvelous Pigment,"45,000"
+Weapon,Longbow,Longbow,Very Rare,NA,Oathbow,"50,000"
+Potion,Potion,Potion,Very Rare,NA,Oil of Sharpness,"20,000"
+Wondrous,Orb,Orb,Very Rare,Required,Orb of the Veil,"90,000"
+Helmet,Helmet,Helmet,Very Rare,Required,Peregrine Mask,"50,000"
+Weapon,Any Sword,Greatsword;Longsword;Rapier;Scimitar;Shortsword,Very Rare,Required,Polymorph Blade,"100,000"
+Wondrous,Dust,Dust,Very Rare,NA,Reincarnation Dust,"45,000"
+Wondrous,Instrument,Instrument,Very Rare,Required,Rhythm- Maker’s Drum,"90,000"
+Ring,Ring,Magic Ring,Very Rare,Required,Ring of Regeneration,"30,000"
+Ring,Ring,Magic Ring,Very Rare,Required,Ring of Shooting Stars,"30,000"
+Ring,Ring,Magic Ring,Very Rare,Required,Ring of Telekinesis,"30,000"
+Clothing,Clothing,Clothing,Very Rare,Required,Robe of Scintillating Colors,"50,000"
+Clothing,Clothing,Clothing,Very Rare,Required,Robe of Stars,"50,000"
+Rod,Rod,Rod,Very Rare,Required,Rod of Absorption,"60,000"
+Rod,Rod,Rod,Very Rare,Required,Rod of Alertness,"60,000"
+Rod,Rod,Rod,Very Rare,Required,"Rod of the Pact Keeper, +3","60,000"
+Rod,Rod,Rod,Very Rare,NA,Rod of Security,"30,000"
+Weapon,Scimitar,Scimitar,Very Rare,NA,Scimitar of Speed,"50,000"
+Wondrous,Magic Stone,Magic Stone,Very Rare,Required,Shard of the Ise Rune,"90,000"
+Armor,Shield,Shield,Very Rare,Required,Shield of the Uven Rune,"150,000"
+Armor,Shield,Shield,Very Rare,NA,"Shield, +3","75,000"
+Weapon,Sling Bullets,Sling Bullets,Very Rare,NA,Sling Bullets of Althemone,"50,000"
+Weapon,Spear,Spear,Very Rare,NA,Spear of Backbiting,"50,000"
+Armor,Shield,Shield,Very Rare,NA,Spellguard Shield,"75,000"
+Staff,Staff,Staff,Very Rare,Required,Staff of Fire,"90,000"
+Staff,Staff,Staff,Very Rare,Required,Staff of Frost,"90,000"
+Staff,Staff,Staff,Very Rare,Required,Staff of Power,"90,000"
+Staff,Staff,Staff,Very Rare,Required,Staff of Striking,"90,000"
+Staff,Staff,Staff,Very Rare,Required,Staff of Thunder and Lightning,"90,000"
+Potion,Healing Potion,Healing Potion,Very Rare,NA,Supreme Healing,"20,000"
+Weapon,Any Sword that Deals Slashing Damage,Greatsword;Longsword;Scimitar,Very Rare,Required,Sword of Sharpness,"100,000"
+Weapon,Longsword,Longsword,Very Rare,Required,Sword of the Paruns,"100,000"
+Wondrous,Wondrous,Wondrous,Very Rare,Required,Timepiece of Travel,"90,000"
+Manual,Manual,Manual,Very Rare,NA,Tome of Clear Thought,"90,000"
+Manual,Manual,Manual,Very Rare,NA,Tome of Leadership and Influence,"90,000"
+Manual,Manual,Manual,Very Rare,NA,Tome of Understanding,"90,000"
+Staff,Staff,Staff,Very Rare,Required,Voyager Staff,"90,000"
+Wand,Wand,Wand,Very Rare,Required,Wand of Polymorph,"70,000"
+Wondrous,Wondrous,Wondrous,Very Rare,Required,Wheel of Stars,90000
+Weapon,Yklwa,Yklwa,Very Rare,NA,"Yklwa, +3",50000
+General Store,,General,,,Abacus,2
+General Store,,General,,,Vial of Acid,25
+General Store,,General,,,Alms Box,0.3
+General Store,,General,,,Amulet,5
+General Store,,General,,,Backpack,2
+General Store,,General,,,Bagpipes,30
+General Store,,General,,,"Ball Bearings (1,000)",2
+General Store,,General,,,Banded Agate,10
+General Store,,General,,,Barrel,2
+General Store,,General,,,Basket,0.4
+General Store,,General,,,Bedroll,1
+General Store,,General,,,Bell,1
+General Store,,General,,,Birdpipes,12
+General Store,,General,,,Bit and Bridle,2
+General Store,,General,,,Blanket,0.5
+General Store,,General,,,Blasting Powder (5),50
+General Store,,General,,,Block and Tackle,1
+General Store,,General,,,Block of Incense,0.5
+General Store,,General,,,Blowgun,10
+General Store,,General,,,Blowgun Needles (10),1
+General Store,,General,,,Boomerang,2
+General Store,,General,,,Boots,0.5
+General Store,,General,,,Glass Bottle,2
+General Store,,General,,,Brewer's Supplies,20
+General Store,,General,,,Bucket,0.05
+General Store,,General,,,Burglar's Pack,16
+General Store,,General,,,Calligrapher's Supplies,10
+General Store,,General,,,Caltrops (20),1
+General Store,,General,,,Candle,0.01
+General Store,,General,,,Canoe,50
+General Store,,General,,,Carpenter's Tools,8
+General Store,,General,,,Carriage,100
+General Store,,General,,,Cart,15
+General Store,,General,,,Cartographer's Tools,15
+General Store,,General,,,Crossbow Bolt Case,1
+General Store,,General,,,Map or Scroll Case,1
+General Store,,General,,,Censer,0.5
+General Store,,General,,,Chain (10 ft),5
+General Store,,General,,,Chalk (10),0.1
+General Store,,General,,,Chariot,250
+General Store,,General,,,Chest,5
+General Store,,General,,,Climber's Kit,25
+General Store,,General,,,Common Clothes,0.5
+General Store,,General,,,Costume Clothes,5
+General Store,,General,,,Fine Clothes,15
+General Store,,General,,,Traveler's Clothes,2
+General Store,,General,,,Cold Weather Clothes,10
+General Store,,General,,,Club,0.1
+General Store,,General,,,Cobbler's Tools,5
+General Store,,General,,,Component Pouch,25
+General Store,,General,,,Cook's Utensils,1
+General Store,,General,,,Crowbar,2
+General Store,,General,,,Dice Set,0.1
+General Store,,General,,,Diplomat's Pack,39
+General Store,,General,,,Disguise Kit,25
+General Store,,General,,,Dragonchess Set,1
+General Store,,General,,,Drum,6
+General Store,,General,,,Dulcimer,25
+General Store,,General,,,Dungeoneer's Pack,12
+General Store,,General,,,Entertainer's Pack,40
+General Store,,General,,,Feed (per day),0.05
+General Store,,General,,,Fishing Tackle,1
+General Store,,General,,,Flask or Tankard,0.02
+General Store,,General,,,Flute,2
+General Store,,General,,,Forgery Kit,15
+General Store,,General,,,Glassblower's Tools,20
+General Store,,General,,,Glaur,3
+General Store,,General,,,Grappling Hook,2
+General Store,,General,,,Greatclub,0.2
+General Store,,General,,,Sledge Hammer,2
+General Store,,General,,,Hammer,1
+General Store,,General,,,Hand Drum,6
+General Store,,General,,,Healer's Kit,5
+General Store,,General,,,Horn,3
+General Store,,General,,,Hourglass,25
+General Store,,General,,,Hunting Trap,5
+General Store,,General,,,Ink (1oz bottle),10
+General Store,,General,,,Ink Pen,0.1
+General Store,,General,,,Insect Repellent-Incense,0.1
+General Store,,General,,,Insect Repellent-Salve,1
+General Store,,General,,,Jeweler's Tools,25
+General Store,,General,,,Jug or Pitcher,0.02
+General Store,,General,,,Ladder (10 ft),0.1
+General Store,,General,,,Lamp,0.5
+General Store,,General,,,Bullseye Lantern,10
+General Store,,General,,,Hooded Lantern,5
+General Store,,General,,,Leatherworker's Tools,5
+General Store,,General,,,Lock,10
+General Store,,General,,,Longhorn,2
+General Store,,General,,,Lute,35
+General Store,,General,,,Lyre,30
+General Store,,General,,,Magnifying Glass,100
+General Store,,General,,,Manacles,2
+General Store,,General,,,Mason's Tools,10
+General Store,,General,,,Mess Kit,0.2
+General Store,,General,,,Steel Mirror,5
+General Store,,General,,,Monster Hunter's Pack,33
+General Store,,General,,,Navigator's Tools,25
+General Store,,General,,,Net,1
+General Store,,General,,,Oil Flask,0.1
+General Store,,General,,,Painter's Supplies,10
+General Store,,General,,,Pan Flute,12
+General Store,,General,,,Paper (1 sheet),0.2
+General Store,,General,,,Parchment (1 sheet),0.1
+General Store,,General,,,Vial of Perfume,5
+General Store,,General,,,Miner's Pick,2
+General Store,,General,,,Piton,0.05
+General Store,,General,,,Playing Card Set,0.5
+General Store,,General,,,Iron Pot,2
+General Store,,General,,,Potter's Tools,10
+General Store,,General,,,Pouch,0.5
+General Store,,General,,,Pride Silk,100
+General Store,,General,,,Priest's Pack,19
+General Store,,General,,,Rain Catcher,1
+General Store,,General,,,Quiver,1
+General Store,,General,,,Portable Ram,4
+General Store,,General,,,Rations (3 Meals),0.5
+General Store,,General,,,Robes,1
+General Store,,General,,,Rod,10
+General Store,,General,,,Hempen Rope (50 ft),1
+General Store,,General,,,Silk Rope (50 ft),10
+General Store,,General,,,Rowboat,50
+General Store,,General,,,Sack,0.01
+General Store,,General,,,Exotic Saddle,60
+General Store,,General,,,Military Saddle,20
+General Store,,General,,,Pack Saddle,5
+General Store,,General,,,Riding Saddle,10
+General Store,,General,,,Saddlebags,4
+General Store,,General,,,Merchant's Scale,5
+General Store,,General,,,Scholar's Pack,40
+General Store,,General,,,Sealing Wax,0.5
+General Store,,General,,,Shawn,2
+General Store,,General,,,Shovel,2
+General Store,,General,,,Sickle,1
+General Store,,General,,,Signal Whistle,0.05
+General Store,,General,,,Small Knife,0.5
+General Store,,General,,,Soap,0.02
+General Store,,General,,,Songhorn,2
+General Store,,General,,,Spellbook,50
+General Store,,General,,,Spyglass,1000
+General Store,,General,,,Staff,5
+General Store,,General,,,Tantan,6
+General Store,,General,,,Two-Person Tent,2
+General Store,,General,,,Thelarr,2
+General Store,,General,,,Thieves' Tools,25
+General Store,,General,,,Three-Dragon Ante Set,1
+General Store,,General,,,Tinderbox,0.5
+General Store,,General,,,Tinker's Tools,50
+General Store,,General,,,Tocken,6
+General Store,,General,,,Torch,0.01
+General Store,,General,,,Vial,1
+General Store,,General,,,Viol,30
+General Store,,General,,,Wargong,30
+General Store,,General,,,Waterskin,0.2
+General Store,,General,,,Weaver's Tools,1
+General Store,,General,,,Whetstone,0.01
+General Store,,General,,,Woodcarver's Tools,1
+General Store,,General,,,Yarting,35
+General Store,,General,,,Zulkoon,30
+Blacksmith,,Black Smith,,,Arrows (10),1
+Blacksmith,,Black Smith,,,"Ball Bearings (1,000)",2
+Blacksmith,,Black Smith,,,Battleaxe,10
+Blacksmith,,Black Smith,,,Blowgun,15
+Blacksmith,,Black Smith,,,Blowgun Needles (10),1
+Blacksmith,,Black Smith,,,Boomerang,5
+Blacksmith,,Black Smith,,,Breastplate Armor,400
+Blacksmith,,Black Smith,,,Caltrops (20),1
+Blacksmith,,Black Smith,,,Crossbow Bolt Case,1
+Blacksmith,,Black Smith,,,Chain (10 ft),5
+Blacksmith,,Black Smith,,,Chain Mail Armor,75
+Blacksmith,,Black Smith,,,Chain Shirt Armor,50
+Blacksmith,,Black Smith,,,Crossbow Bolts (10),1
+Blacksmith,,Black Smith,,,Hand Crossbow,75
+Blacksmith,,Black Smith,,,Heavy Crossbow,50
+Blacksmith,,Black Smith,,,Light Crossbow,25
+Blacksmith,,Black Smith,,,Crowbar,2
+Blacksmith,,Black Smith,,,Dagger,2
+Blacksmith,,Black Smith,,,Dart,0.05
+Blacksmith,,Black Smith,,,Double-Bladed Scimitar,100
+Blacksmith,,Black Smith,,,Dragonchess Set,5
+Blacksmith,,Black Smith,,,Flail,10
+Blacksmith,,Black Smith,,,Glaive,20
+Blacksmith,,Black Smith,,,Grappling Hook,2
+Blacksmith,,Black Smith,,,Greataxe,30
+Blacksmith,,Black Smith,,,Greatsword,50
+Blacksmith,,Black Smith,,,Halberd,20
+Blacksmith,,Black Smith,,,Half-Plate Armor,750
+Blacksmith,,Black Smith,,,Sledge Hammer,2
+Blacksmith,,Black Smith,,,Handaxe,5
+Blacksmith,,Black Smith,,,Hide Armor,10
+Blacksmith,,Black Smith,,,Hunting Trap,5
+Blacksmith,,Black Smith,,,Javelin,0.5
+Blacksmith,,Black Smith,,,Lance,0.5
+Blacksmith,,Black Smith,,,Leather Armor,10
+Blacksmith,,Black Smith,,,Light Hammer,2
+Blacksmith,,Black Smith,,,Longbow,50
+Blacksmith,,Black Smith,,,Longsword,15
+Blacksmith,,Black Smith,,,Mace,5
+Blacksmith,,Black Smith,,,Maul,10
+Blacksmith,,Black Smith,,,Steel Mirror,5
+Blacksmith,,Black Smith,,,Morningstar,15
+Blacksmith,,Black Smith,,,Net,1
+Blacksmith,,Black Smith,,,Padded Armor,5
+Blacksmith,,Black Smith,,,Miner's Pick,2
+Blacksmith,,Black Smith,,,Pike,5
+Blacksmith,,Black Smith,,,Piton,0.05
+Blacksmith,,Black Smith,,,Plate Mail Armor,1500
+Blacksmith,,Black Smith,,,Pole (10 ft),0.05
+Blacksmith,,Black Smith,,,Pride Silk Outfit,500
+Blacksmith,,Black Smith,,,Quarterstaff,0.2
+Blacksmith,,Black Smith,,,Quiver,1
+Blacksmith,,Black Smith,,,Rapier,25
+Blacksmith,,Black Smith,,,Ring Mail Armor,30
+Blacksmith,,Black Smith,,,Rod,10
+Blacksmith,,Black Smith,,,Scale Mail Armor,50
+Blacksmith,,Black Smith,,,Scimitar,25
+Blacksmith,,Black Smith,,,Shield,10
+Blacksmith,,Black Smith,,,Shortbow,25
+Blacksmith,,Black Smith,,,Shortsword,10
+Blacksmith,,Black Smith,,,Signet Ring,5
+Blacksmith,,Black Smith,,,Sling,0.1
+Blacksmith,,Black Smith,,,Sling Bullets,0.04
+Blacksmith,,Black Smith,,,Smith's Tools,20
+Blacksmith,,Black Smith,,,Spear,1
+Blacksmith,,Black Smith,,,Spiked Armor,75
+Blacksmith,,Black Smith,,,Iron Spikes (10),1
+Blacksmith,,Black Smith,,,Splint,200
+Blacksmith,,Black Smith,,,Studded Leather Armor,45
+Blacksmith,,Black Smith,,,Trident,5
+Blacksmith,,Black Smith,,,War Pick,5
+Blacksmith,,Black Smith,,,Warhammer,15
+Blacksmith,,Black Smith,,,Whip,2
+Blacksmith,,Black Smith,,,Yklwa,1
+Blacksmith,,Black Smith,,,Cured Leather,0.1
+Blacksmith,,Black Smith,,,"Silver and Iron, powdered mixture",5
+Blacksmith,,Black Smith,,,"Silver and Iron, powdered mixture",100
+Blacksmith,,Black Smith,,,"Silver and Iron, powdered mixture",5
+Blacksmith,,Black Smith,,,"Silver Bar, ornately carved",100
+Blacksmith,,Black Smith,,,Silver powder,25
+Blacksmith,,Black Smith,,,Silver powder,5
+Blacksmith,,Black Smith,,,Silver Rod,10
+Jewelry Shop,,Jewels,,,Azurite Adamantine Bracelet,1510
+Jewelry Shop,,Jewels,,,Aquamarine Steel Necklace,502
+Jewelry Shop,,Jewels,,,Quartz Cold-Iron Encrusted Bowl,50
+Jewelry Shop,,Jewels,,,Spinel Adamantine Ring,600
+Jewelry Shop,,Jewels,,,Sardonyx Copper Circlet,50
+Jewelry Shop,,Jewels,,,Onyx Copper Ring,50
+Jewelry Shop,,Jewels,,,Obsidian Electrum Circlet,30
+Jewelry Shop,,Jewels,,,Peridot Copper Encrusted Dagger,501
+Jewelry Shop,,Jewels,,,Ruby Lead Encrusted Dagger,5000
+Jewelry Shop,,Jewels,,,Onyx Adamantine Encrusted Dagger,5050
+Jewelry Shop,,Jewels,,,Sapphire Dust Bronze Bracelet,1000
+Jewelry Shop,,Jewels,,,Star Rose Quartz Silver Ring,51
+Jewelry Shop,,Jewels,,,Eye Agate Electrum Encrusted Dagger,35
+Jewelry Shop,,Jewels,,,Carnelian Cold-Iron Encrusted Bowl,50
+Jewelry Shop,,Jewels,,,Fire Opal Dust Silver Circlet,1004
+Jewelry Shop,,Jewels,,,Chrysoprase Iron Circlet,50
+Jewelry Shop,,Jewels,,,Diamond (10 carat) Brass Amulet,1000
+Jewelry Shop,,Jewels,,,Turquoise Brass Necklace,10
+Jewelry Shop,,Jewels,,,Diamond (10 carat) Brass Amulet,1000.12
+Jewelry Shop,,Jewels,,,Turquoise Brass Necklace,10.12
+Potions,,Healing Potion,,,Potion of Healing,50
+Potions,,Healing Potion,,,Potion of Greater Healing,300
+Potions,,Healing Potion,,,Potion of Superior Healing,5000
+Potions,,Healing Potion,,,Supreme Healing,20000
+Potions,,Poisons,,,Drow Poison,200
+Potions,,Poisons,,,Burnt Othur Fumes,500
+Potions,,Poisons,,,Assassin's Blood,150
+Potions,,Poisons,,,Crawler Mucus,200
+Potions,,Poisons,,,Essence of Ether,300
+Potions,,Poisons,,,Malice,250
+Potions,,Poisons,,,Midnight Tears,1500
+Potions,,Poisons,,,Oil of Taggit,400
+Potions,,Poisons,,,Pale Tincture,250
+Potions,,Poisons,,,Purple Worm Poison,2000
+Potions,,Poisons,,,Serpent Venom,200
+Potions,,Poisons,,,Torpor,600
+Potions,,Poisons,,,Wyvern Poison,1200
+Potions,,Poisons,,,Dreamlily,1
+Potions,,Poisons,,,Dragon's Blood,2000
+Potions,,Poisons,,,Blood of the Lycanthrope,150
+Potions,,Poisons,,,Dust of the Mummy,200
+Potions,,Poisons,,,Vial of Basic Poison,100
+Potions,,Poisons,,,Thessaltoxin,200
+Potions,,Potions;Poisons,,,Truth Serum,150
+Potions,,Potions,,,Alchemist's Fire (Flask),50
+Potions,,Potions,,,Alchemist's Supplies,50
+Potions,,Potions,,,Vial of Acid,25
+Potions,,Potions,,,Antitoxin,50
+Potions,,Potions,,,Explorer's Pack,10
+Potions,,Potions,,,Poisoner's Kit,50
+Potions,,Potions,,,Herbalism Kit,0.5
+Potions,,Potions,,,Elixir of Health,5075
+Potions,,Potions,,,Oil of Etherealness,5100
+Potions,,Potions,,,Oil of Sharpness,50100
+Potions,,Potions,,,Oil of Slipperiness,600
+Potions,,Potions,,,Philter of Love,600
+Potions,,Potions,,,Potion of Animal Friendship,300
+Potions,,Potions,,,Potion of Aqueous Form,5000
+Potions,,Potions,,,Potion of Clairvoyance,5000
+Potions,,Potions,,,Potion of Climbing,50
+Potions,,Potions,,,Potion of Comprehension,50
+Potions,,Potions,,,Potion of Diminution,5000
+Potions,,Potions,,,Potion of Fire Breath,300
+Potions,,Potions,,,Potion of Flying,20000
+Potions,,Potions,,,Potion of Gaseous Form,5000
+Potions,,Potions,,,Potion of HIll Giant Strength,5000
+Potions,,Potions,,,Potion of Frost Giant Strength,5000
+Potions,,Potions,,,Potion of Stone Giant Strength,5000
+Potions,,Potions,,,Potion of Fire Giant Strength,5000
+Potions,,Potions,,,Potion of Cloud Giant Strength,5000
+Potions,,Potions,,,Potion of Storm Giant Strength,5000
+Potions,,Potions,,,Potion of Growth,300
+Potions,,Potions,,,Potion of Heroism,5000
+Potions,,Potions,,,Potion of Invisibility,20000
+Potions,,Potions,,,Potion of Invulnerability,5000
+Potions,,Potions,,,Potion of Longevity,20000
+Potions,,Potions,,,Potion of Maximum Power,5000
+Potions,,Potions,,,Potion of Mind Control,5000
+Potions,,Potions,,,Potion of Mind Reading,5000
+Potions,,Potions,,,Potion of Poison,300
+Potions,,Potions,,,Potion of Possibility,20000
+Potions,,Potions,,,Potion of Resistance,300
+Potions,,Potions,,,Potion of Speed,20000
+Potions,,Potions,,,Potion of Vitality,20000
+Potions,,Potions,,,Potion of Watchful Rest,50
+Potions,,Potions,,,Potion of Water Breathing,300
+Potions,,Potions,,,Thessaltoxin Antidote,300
+Potions,,Potions,,,Bottled Breath,300
+Ingredients,Coastal; Swamp,Ingredients,Common,Plant,Amanita Cap,10
+Ingredients,Arctic; Mountain,Ingredients,Common,Plant,Arctic Creeper,10
+Ingredients,Desert; Forest; Grassland,Ingredients,Uncommon,Plant,Arrow Root,15
+Ingredients,Mountain; Coastal,Ingredients,Very Rare,Plant,Basilisk Breath,25
+Ingredients,Forest; Swamp,Ingredients,Very Rare,Plant,Black Sap,300
+Ingredients,Forest; Swamp; Coastal,Ingredients,Rare,Plant,Blight Ichor,200
+Ingredients,Arctic; Desert; Coastal; Underwater; Forest; Grassland; Hill; Mountain; Swamp; Underdark,Ingredients,Very Common,Plant,Bloodgrass,5
+Ingredients,Coastal; Forest; Swamp,Ingredients,Rare,Plant,Blue Toadshade,20
+Ingredients,Desert; Grassland,Ingredients,Common,Plant,Cactus Juice,10
+Ingredients,Coastal; Underdark; Underwater,Ingredients,Rare,Plant,Chromus Slime,20
+Ingredients,Coastal; Desert; Underwater,Ingredients,Rare,Plant,Cosmos Glond,20
+Ingredients,Hill; Swamp; Underdark; Underwater,Ingredients,Very Rare,Plant,Devil's Bloodleaf,25
+Ingredients,Desert; Grassland; Mountain,Ingredients,Common,Plant,Drakus Flower,10
+Ingredients,Desert; Mountain,Ingredients,Uncommon,Plant,Dried Ephedra,15
+Ingredients,Arctic; Desert; Coastal; Underwater; Forest; Grassland; Hill; Mountain; Swamp; Underdark,Ingredients,Rare,Plant,Elemental Water,20
+Ingredients,Forest; Swamp,Ingredients,Common,Plant,Emetic Wax,10
+Ingredients,Arctic; Underdark,Ingredients,Common,Plant,Fennel Silk,10
+Ingredients,Arctic; Underdark,Ingredients,Rare,Plant,Fiend's Ivy,20
+Ingredients,Arctic; Mountain,Ingredients,Rare,Plant,Frozen Seedlings,20
+Ingredients,Desert; Forest; Grassland; Mountain; Hill; Underdark,Ingredients,Common,Bug,Giant Ant,0.5
+Ingredients,Forest; Grassland; Hill,Ingredients,Uncommon,Bug,Giant Bumblebee,2
+Ingredients,Arctic; Forest; Grassland; Mountain; Hill; Coastal; Swamp,Ingredients,Common,Bug,Giant Butterfly,10
+Ingredients,Forest; Grassland; Hill; Coastal,Ingredients,Rare,Bug,Giant Caterpillar,1
+Ingredients,Desert; Forest; Grassland; Swamp; Coastal,Ingredients,Uncommon,Bug,Giant Cicada,50
+Ingredients,Desert; Forest; Grassland; Hill; Swamp,Ingredients,Rare,Bug,Giant Cricket,1
+Ingredients,Arctic; Desert; Forest; Grassland; Hill,Ingredients,Uncommon,Bug,Giant Dragonfly,15
+Ingredients,Desert; Grassland; Underdark,Ingredients,Very Rare,Bug,Giant Dung Beetle,45
+Ingredients,Forest; Grassland; Mountain; Hill; Coastal,Ingredients,Common,Bug,Giant Firefly,1
+Ingredients,Arctic; Mountain; Underdark; Swamp,Ingredients,Rare,Bug,Giant Glowworm,30
+Ingredients,Grassland; Hill; Swamp,Ingredients,Very Rare,Bug,Giant Grasshopper,10
+Ingredients,Forest; Mountain; Underdark,Ingredients,Uncommon,Bug,Giant Hornet,80
+Ingredients,Arctic; Desert; Forest; Grassland; Hill; Mountain; Coastal,Ingredients,Very Rare,Bug,Giant Ladybug,0.5
+Ingredients,Forest; Grassland; Hill; Mountain,Ingredients,Common,Bug,Giant Praying Mantis,35
+Ingredients,Forest; Grassland; Hill,Ingredients,Rare,Bug,Giant Rhino Beetle,75
+Ingredients,Desert,Ingredients,Common,Bug,Giant Scarab Beetle,65
+Ingredients,Forest; Grassland; Mountain; Hill; Coastal,Ingredients,Common,Bug,Giant Slug,0.5
+Ingredients,Forest; Grassland; Hill,Ingredients,Rare,Bug,Giant Stag Beetle,80
+Ingredients,Hill; Underdark,Ingredients,Uncommon,Plant,Ginkgo Brush,15
+Ingredients,Forest,Ingredients,Common,Plant,Harrada Leaf,10
+Ingredients,Coastal; Grassland; Underwater,Ingredients,Common,Plant,Hyacinth Nectar,10
+Ingredients,Coastal; Swamp; Underwater,Ingredients,Uncommon,Plant,Hydrathistle,15
+Ingredients,Arctic; Forest; Hill,Ingredients,Uncommon,Plant,Ironwood Heart,15
+Ingredients,Coastal; Grassland; Hill,Ingredients,Common,Plant,Lavender Sprig,10
+Ingredients,Mountain; Underdark,Ingredients,Rare,Plant,Luminous Cap Dust,20
+Ingredients,Arctic; Desert; Coastal; Underwater; Forest; Grassland; Hill; Mountain; Swamp; Underdark,Ingredients,Very Common,Plant,Mandrake Root,5
+Ingredients,Arctic; Desert; Coastal; Underwater; Forest; Grassland; Hill; Mountain; Swamp; Underdark,Ingredients,Very Common,Plant,Milkweed Seeds,5
+Ingredients,Arctic; Underdark,Ingredients,Very Rare,Plant,Mortflesh Powder,25
+Ingredients,Forest; Grassland,Ingredients,Uncommon,Plant,Muroosa Balm,15
+Ingredients,Forest; Hill,Ingredients,Uncommon,Plant,Nightshade Berries,15
+Ingredients,Forest; Grassland; Swamp,Ingredients,Uncommon,Plant,Olisuba Leaf,50
+Ingredients,Mountain; Swamp; Underdark,Ingredients,Rare,Plant,Primordial Balm,20
+Ingredients,Arctic; Desert; Coastal; Underwater; Forest; Grassland; Hill; Mountain; Swamp; Underdark,Ingredients,Very Common,Plant,Quicksilver Lichen,5
+Ingredients,Underdark,Ingredients,Rare,Plant,Radiant Synthseed,20
+Ingredients,Hill; Mountain,Ingredients,Rare,Plant,Rock Vine,20
+Ingredients,Desert; Grassland,Ingredients,Common,Plant,Scillia Beans,10
+Ingredients,Arctic; Underdark,Ingredients,Rare,Plant,Silver Hibiscus,20
+Ingredients,Mountain; Underdark,Ingredients,Rare,Plant,Soothsalts,150
+Ingredients,Desert; Swamp,Ingredients,Uncommon,Plant,Spineflower Berries,15
+Ingredients,Forest; Grassland; Hill,Ingredients,Common,Plant,Sprig of Mistletoe,10
+Ingredients,Grassland; Hill,Ingredients,Very Rare,Plant,Tail Leaf,25
+Ingredients,Swamp,Ingredients,Common,Plant,Theki Root,3
+Ingredients,Forest,Ingredients,Uncommon,Plant,Verdant Nettle,15
+Ingredients,Arctic; Desert,Ingredients,Very Rare,Plant,Voidroot,25
+Ingredients,Arctic; Desert; Coastal; Underwater; Forest; Grassland; Hill; Mountain; Swamp; Underdark,Ingredients,Very Common,Plant,Wild Sageroot,5
+Ingredients,Forest; Swamp; Coastal,Ingredients,Uncommon,Plant,Willowshade Oil,30
+Ingredients,Forest; Underdark,Ingredients,Very Rare,Plant,Wisp Stalks,25
+Ingredients,Coastal; Swamp; Underwater,Ingredients,Rare,Plant,Wrackwort Bulbs,20
+Ingredients,Arctic; Desert; Coastal; Underwater; Forest; Grassland; Hill; Mountain; Swamp; Underdark,Ingredients,Very Common,Plant,Wyrmtongue Petals,5
+Spells,Conjuration,Spells;Artificer Spells;Sorcerer Spells;Wizard Spells;Cleric: Arcana Domain Spells;Conjuration;Cantrip,Cantrip,Aberrant Dragonmark;Artificer Initiate;Magic Initiate;Spell Sniper;Attack,Acid Splash,100
+Spells,Abjuration,Spells;Bard Spells;Sorcerer Spells;Warlock Spells;Wizard Spells;Bloodhunter: Order of the Profane Soul Spells;Cleric: Arcana Domain Spells;Abjuration;Cantrip,Cantrip,Aberrant Dragonmark;Magic Initiate;Defense,Blade Ward,100
+Spells,Evocation,Spells;Artificer Spells;Sorcerer Spells;Warlock Spells;Wizard Spells;Bloodhunter: Order of the Profane Soul Spells;Cleric: Arcana Domain Spells;Evocation;Cantrip,Cantrip,Aberrant Dragonmark;Artificer Initiate;Magic Initiate;Spell Sniper;Attack,Booming Blade,100
+Spells,Necromancy,Spells;Sorcerer Spells;Warlock Spells;Wizard Spells;Bloodhunter: Order of the Profane Soul Spells;Cleric: Arcana Domain Spells;Cleric: Death Domain Spells;Druid: Circle of Spores Spells;Necromancy;Cantrip,Cantrip,Aberrant Dragonmark;Magic Initiate;Spell Sniper;Attack,Chill Touch,100
+Spells,Transmutation,Spells;Druid Spells;Sorcerer Spells;Wizard Spells;Cleric: Arcana Domain Spells;Transmutation;Cantrip,Cantrip,Aberrant Dragonmark;Magic Initiate;Wood Elf Magic;Utility,Control Flames,100
+Spells,Conjuration,Spells;Artificer Spells;Bard Spells;Druid Spells;Sorcerer Spells;Warlock Spells;Wizard Spells;Bloodhunter: Order of the Profane Soul Spells;Cleric: Arcana Domain Spells;Conjuration;Cantrip,Cantrip,Aberrant Dragonmark;Artificer Initiate;Magic Initiate;Spell Sniper;Wood Elf Magic;Attack;Utility,Create Bonfire,100
+Spells,Evocation,Spells;Artificer Spells;Sorcerer Spells;Wizard Spells;Cleric: Arcana Domain Spells;Evocation;Cantrip,Cantrip,Aberrant Dragonmark;Artificer Initiate;Magic Initiate;Utility,Dancing Lights,100
+Spells,Transmutation,Spells;Druid Spells;Transmutation;Cantrip,Cantrip,Wood Elf Magic;Utility,Druidcraft,100
+Spells,Evocation,Spells;Warlock Spells;Bloodhunter: Order of the Profane Soul Spells;Evocation;Cantrip,Cantrip,Magic Initiate;Spell Sniper;Attack,Eldritch Blast,100
+Spells,Enchantment,Spells;Wizard Spells;Cleric: Arcana Domain Spells;Enchantment;Cantrip,Cantrip,,Encode Thoughts,100
+Spells,Evocation,Spells;Artificer Spells;Sorcerer Spells;Wizard Spells;Cleric: Arcana Domain Spells;Evocation;Cantrip,Cantrip,Aberrant Dragonmark;Artificer Initiate;Magic Initiate;Spell Sniper;Attack,Fire Bolt,100
+Spells,Enchantment,Spells;Bard Spells;Sorcerer Spells;Warlock Spells;Wizard Spells;Bloodhunter: Order of the Profane Soul Spells;Cleric: Arcana Domain Spells;Enchantment;Cantrip,Cantrip,Aberrant Dragonmark;Magic Initiate;Utility,Friends,100
+Spells,Evocation,Spells;Artificer Spells;Druid Spells;Sorcerer Spells;Warlock Spells;Wizard Spells;Bloodhunter: Order of the Profane Soul Spells;Cleric: Arcana Domain Spells;Evocation;Cantrip,Cantrip,Aberrant Dragonmark;Artificer Initiate;Magic Initiate;Spell Sniper;Wood Elf Magic;Attack,Frostbite,100
+Spells,Evocation,Spells;Artificer Spells;Sorcerer Spells;Warlock Spells;Wizard Spells;Bloodhunter: Order of the Profane Soul Spells;Cleric: Arcana Domain Spells;Evocation;Cantrip,Cantrip,Aberrant Dragonmark;Artificer Initiate;Magic Initiate;Spell Sniper;Attack,Green-Flame Blade,100
+Spells,Divination,Spells;Artificer Spells;Cleric Spells;Druid Spells;Druid: Circle of Stars Spells;Divination;Cantrip,Cantrip,Artificer Initiate;Magic Initiate;Wood Elf Magic;Utility,Guidance,100
+Spells,Transmutation,Spells;Druid Spells;Sorcerer Spells;Wizard Spells;Cleric: Arcana Domain Spells;Transmutation;Cantrip,Cantrip,Aberrant Dragonmark;Magic Initiate;Wood Elf Magic;Utility;Movement,Gust,100
+Spells,Conjuration,Spells;Druid Spells;Sorcerer Spells;Warlock Spells;Wizard Spells;Bloodhunter: Order of the Profane Soul Spells;Cleric: Arcana Domain Spells;Conjuration;Cantrip,Cantrip,Aberrant Dragonmark;Magic Initiate;Spell Sniper;Wood Elf Magic;Attack,Infestation,100
+Spells,Evocation,Spells;Artificer Spells;Bard Spells;Cleric Spells;Sorcerer Spells;Wizard Spells;Cleric: Arcana Domain Spells;Evocation;Cantrip,Cantrip,Aberrant Dragonmark;Artificer Initiate;Magic Initiate;Utility,Light,100
+Spells,Evocation,Spells;Artificer Spells;Sorcerer Spells;Warlock Spells;Wizard Spells;Bloodhunter: Order of the Profane Soul Spells;Cleric: Arcana Domain Spells;Evocation;Cantrip,Cantrip,Aberrant Dragonmark;Artificer Initiate;Magic Initiate;Spell Sniper;Attack,Lightning Lure,100
+Spells,Conjuration,Spells;Artificer Spells;Bard Spells;Sorcerer Spells;Warlock Spells;Wizard Spells;Bloodhunter: Order of the Profane Soul Spells;Cleric: Arcana Domain Spells;Ranger: Swarmkeeper Spells;Conjuration;Cantrip,Cantrip,Aberrant Dragonmark;Artificer Initiate;Magic Initiate;Utility,Mage Hand,100
+Spells,Transmutation,Spells;Artificer Spells;Druid Spells;Warlock Spells;Bloodhunter: Order of the Profane Soul Spells;Transmutation;Cantrip,Cantrip,Artificer Initiate;Magic Initiate;Spell Sniper;Wood Elf Magic;Attack,Magic Stone,100
+Spells,Transmutation,Spells;Artificer Spells;Bard Spells;Cleric Spells;Druid Spells;Sorcerer Spells;Wizard Spells;Cleric: Arcana Domain Spells;Transmutation;Cantrip,Cantrip,Aberrant Dragonmark;Artificer Initiate;Magic Initiate;Wood Elf Magic;Utility,Mending,100
+Spells,Transmutation,Spells;Artificer Spells;Bard Spells;Sorcerer Spells;Wizard Spells;Cleric: Arcana Domain Spells;Transmutation;Cantrip,Cantrip,Aberrant Dragonmark;Artificer Initiate;Magic Initiate;Utility,Message,100
+Spells,Enchantment,Spells;Sorcerer Spells;Warlock Spells;Wizard Spells;Bloodhunter: Order of the Profane Soul Spells;Cleric: Arcana Domain Spells;Sorcerer: Aberrant Mind Spells;Enchantment;Cantrip,Cantrip,Aberrant Dragonmark;Magic Initiate;Spell Sniper;Attack,Mind Sliver,100
+Spells,Illusion,Spells;Bard Spells;Sorcerer Spells;Warlock Spells;Wizard Spells;Bloodhunter: Order of the Profane Soul Spells;Cleric: Arcana Domain Spells;Illusion;Cantrip,Cantrip,Aberrant Dragonmark;Magic Initiate;Utility,Minor Illusion,100
+Spells,Transmutation,Spells;Druid Spells;Sorcerer Spells;Wizard Spells;Cleric: Arcana Domain Spells;Transmutation;Cantrip,Cantrip,Aberrant Dragonmark;Magic Initiate;Wood Elf Magic;Utility,Mold Earth,100
+Spells,Conjuration,Spells;Artificer Spells;Druid Spells;Sorcerer Spells;Warlock Spells;Wizard Spells;Bloodhunter: Order of the Profane Soul Spells;Cleric: Arcana Domain Spells;Conjuration;Cantrip,Cantrip,Aberrant Dragonmark;Artificer Initiate;Magic Initiate;Spell Sniper;Wood Elf Magic;Attack,Poison Spray,100
+Spells,Transmutation,Spells;Artificer Spells;Bard Spells;Sorcerer Spells;Warlock Spells;Wizard Spells;Bloodhunter: Order of the Profane Soul Spells;Cleric: Arcana Domain Spells;Transmutation;Cantrip,Cantrip,Aberrant Dragonmark;Artificer Initiate;Magic Initiate;Utility,Prestidigitation,100
+Spells,Transmutation,Spells;Druid Spells;Transmutation;Cantrip,Cantrip,Spell Sniper;Wood Elf Magic;Attack,Primal Savagery,100
+Spells,Conjuration,Spells;Druid Spells;Conjuration;Cantrip,Cantrip,Spell Sniper;Wood Elf Magic;Utility;Attack,Produce Flame,100
+Spells,Evocation,Spells;Artificer Spells;Sorcerer Spells;Wizard Spells;Cleric: Arcana Domain Spells;Evocation;Cantrip,Cantrip,Aberrant Dragonmark;Artificer Initiate;Magic Initiate;Spell Sniper;Attack,Ray of Frost,100
+Spells,Abjuration,Spells;Artificer Spells;Cleric Spells;Druid Spells;Abjuration;Cantrip,Cantrip,Artificer Initiate;Magic Initiate;Wood Elf Magic;Defense,Resistance,100
+Spells,Evocation,Spells;Cleric Spells;Evocation;Cantrip,Cantrip,Magic Initiate;Spell Sniper;Attack,Sacred Flame,100
+Spells,Necromancy;Dunamancy,Spells;Wizard: Chronurgy Magic Spells;Wizard: Graviturgy Magic Spells;Cleric: Death Domain Spells;Necromancy;Dunamancy;Cantrip,Cantrip,,Sapping Sting,100
+Spells,Transmutation,Spells;Druid Spells;Sorcerer Spells;Wizard Spells;Cleric: Arcana Domain Spells;Transmutation;Cantrip,Cantrip,Aberrant Dragonmark;Magic Initiate;Wood Elf Magic;Utility,Shape Water,100
+Spells,Transmutation,Spells;Druid Spells;Transmutation;Cantrip,Cantrip,Wood Elf Magic;Attack,Shillelagh,100
+Spells,Evocation,Spells;Artificer Spells;Sorcerer Spells;Wizard Spells;Cleric: Arcana Domain Spells;Evocation;Cantrip,Cantrip,Aberrant Dragonmark;Artificer Initiate;Magic Initiate;Spell Sniper;Attack,Shocking Grasp,100
+Spells,Necromancy,Spells;Artificer Spells;Cleric Spells;Cleric: Death Domain Spells;Necromancy;Cantrip,Cantrip,Artificer Initiate;Magic Initiate;Utility;Healing,Spare the Dying,100
+Spells,Conjuration,Spells;Artificer Spells;Sorcerer Spells;Warlock Spells;Wizard Spells;Cleric: Arcana Domain Spells;Conjuration;Cantrip,Cantrip,Aberrant Dragonmark;Artificer Initiate;Magic Initiate;Spell Sniper;Attack,Sword Burst,100
+Spells,Transmutation,Spells;Cleric Spells;Transmutation;Cantrip,Cantrip,Magic Initiate;Utility,Thaumaturgy,100
+Spells,Transmutation,Spells;Artificer Spells;Druid Spells;Transmutation;Cantrip,Cantrip,Artificer Initiate;Spell Sniper;Wood Elf Magic;Attack,Thorn Whip,100
+Spells,Evocation,Spells;Artificer Spells;Bard Spells;Druid Spells;Sorcerer Spells;Warlock Spells;Wizard Spells;Bloodhunter: Order of the Profane Soul Spells;Cleric: Arcana Domain Spells;Evocation;Cantrip,Cantrip,Aberrant Dragonmark;Artificer Initiate;Magic Initiate;Magic Initiate;Spell Sniper;Wood Elf Magic;Attack,Thunderclap,100
+Spells,Necromancy,Spells;Cleric Spells;Warlock Spells;Wizard Spells;Bloodhunter: Order of the Profane Soul Spells;Cleric: Arcana Domain Spells;Cleric: Death Domain Spells;Necromancy;Cantrip,Cantrip,Magic Initiate;Spell Sniper;Attack,Toll the Dead,100
+Spells,Divination,Spells;Bard Spells;Sorcerer Spells;Warlock Spells;Wizard Spells;Bloodhunter: Order of the Profane Soul Spells;Cleric: Arcana Domain Spells;Divination;Cantrip,Cantrip,Aberrant Dragonmark;Magic Initiate;Attack,True Strike,100
+Spells,Enchantment,Spells;Bard Spells;Enchantment;Cantrip,Cantrip,Magic Initiate;Spell Sniper;Attack,Vicious Mockery,100
+Spells,Evocation,Spells;Cleric Spells;Evocation;Cantrip,Cantrip,Magic Initiate;Spell Sniper;Attack,Word of Radiance,100
+Spells,Abjuration,Spells;Artificer Spells;Druid Spells;Ranger Spells;Sorcerer Spells;Wizard Spells;Abjuration;1st Level Spells,1st,Aberrant Dragonmark;Artificer Initiate;Magic Initiate;Ritual Caster;Attack;Defense,Absorb Elements,300
+Spells,Abjuration,Spells;Artificer Spells;Ranger Spells;Wizard Spells;Paladin: Oath of the Watchers Spells;Sorcerer: Clockwork Soul Spells;Abjuration;Ritual Spells;1st Level Spells,1st,Artificer Initiate;Ritual Caster;Utility,Alarm,300
+Spells,Enchantment,Spells;Bard Spells;Druid Spells;Ranger Spells;Cleric: Nature Domain Spells;Enchantment;1st Level Spells,1st,Fey Touched;Magic Initiate;Ritual Caster;Utility,Animal Friendship,300
+Spells,Abjuration,Spells;Warlock Spells;Paladin: Oath of Conquest Spells;Bloodhunter: Order of the Profane Soul Spells;Abjuration;1st Level Spells,1st,Magic Initiate;Ritual Caster;Healing;Defense,Armor of Agathys,300
+Spells,Conjuration,Spells;Warlock Spells;Bloodhunter: Order of the Profane Soul Spells;Sorcerer: Aberrant Mind Spells;Conjuration;1st Level Spells,1st,Magic Initiate;Ritual Caster;Attack,Arms of Hadar,300
+Spells,Enchantment,Spells;Bard Spells;Cleric Spells;Paladin: Oath of Vengeance Spells;Cleric: Grave Domain Spells;Sorcerer: Divine Soul Spells;Enchantment;1st Level Spells,1st,Fey Touched;Magic Initiate;Ritual Caster;Utility;Attack,Bane,300
+Spells,Divination,Spells;Druid Spells;Ranger Spells;Divination;1st Level Spells,1st,Fey Touched;Ritual Caster;Utility,Beast Bond,300
+Spells,Enchantment,Spells;Cleric Spells;Paladin Spells;Cleric: Life Domain Spells;Sorcerer: Divine Soul Spells;Enchantment;1st Level Spells,1st,Fey Touched;Magic Initiate;Ritual Caster;Utility;Attack;Defense,Bless,300
+Spells,Evocation,Spells;Sorcerer Spells;Wizard Spells;Warlock: The Fiend Spells;Cleric: Light Domain Spells;Warlock: The Genie (Efreeti) Spells;Druid: Circle of Wildfire Spells;Evocation;1st Level Spells,1st,Aberrant Dragonmark;Magic Initiate;Ritual Caster;Attack,Burning Hands,300
+Spells,Transmutation,Spells;Artificer Spells;Sorcerer Spells;Wizard Spells;Transmutation;1st Level Spells,1st,Aberrant Dragonmark;Artificer Initiate;Magic Initiate;Ritual Caster;Attack,Catapult,300
+Spells,Necromancy,Spells;Warlock Spells;Wizard Spells;Bloodhunter: Order of the Profane Soul Spells;Necromancy;1st Level Spells,1st,Magic Initiate;Ritual Caster;Shadow Touched;Utility,Cause Fear,300
+Spells,Abjuration,Spells;Cleric Spells;Paladin Spells;Abjuration;Ritual Spells;1st Level Spells,1st,Magic Initiate;Ritual Caster;Utility,Ceremony,300
+Spells,Evocation,Spells;Sorcerer Spells;Evocation;1st Level Spells,1st,Aberrant Dragonmark;Magic Initiate;Ritual Caster;Attack,Chaos Bolt,300
+Spells,Enchantment,Spells;Bard Spells;Druid Spells;Sorcerer Spells;Warlock Spells;Wizard Spells;Cleric: Trickery Domain Spells;Bloodhunter: Order of the Profane Soul Spells;Ranger: Fey Wanderer Spells;Enchantment;1st Level Spells,1st,Aberrant Dragonmark;Fey Touched;Magic Initiate;Ritual Caster;Utility,Charm Person,300
+Spells,Evocation,Spells;Sorcerer Spells;Wizard Spells;Evocation;1st Level Spells,1st,Aberrant Dragonmark;Magic Initiate;Ritual Caster;Attack,Chromatic Orb,300
+Spells,Illusion,Spells;Sorcerer Spells;Wizard Spells;Illusion;1st Level Spells,1st,Aberrant Dragonmark;Magic Initiate;Ritual Caster;Shadow Touched;Utility,Color Spray,300
+Spells,Enchantment,Spells;Cleric Spells;Paladin Spells;Warlock: The Fiend Spells;Cleric: Knowledge Domain Spells;Paladin: Oath of the Crown Spells;Paladin: Oath of Conquest Spells;Cleric: Order Domain Spells;Enchantment;1st Level Spells,1st,Fey Touched;Magic Initiate;Ritual Caster;Utility,Command,300
+Spells,Enchantment,Spells;Paladin Spells;Paladin: Oath of the Crown;Enchantment;1st Level Spells,1st,Fey Touched;Attack;Utility,Compelled Duel,300
+Spells,Divination,Spells;Bard Spells;Sorcerer Spells;Warlock Spells;Wizard Spells;Bloodhunter: Order of the Profane Soul Spells;Divination;Ritual Spells;1st Level Spells,1st,Aberrant Dragonmark;Fey Touched;Magic Initiate;Ritual Caster;Utility,Comprehend Languages,300
+Spells,Transmutation,Spells;Cleric Spells;Druid Spells;Paladin: Oath of the Open Sea Spells;Warlock: The Fathomless Spells;Transmutation;1st Level Spells,1st,Magic Initiate;Ritual Caster;Utility,Create or Destroy Water,300
+Spells,Evocation,Spells;Artificer Spells;Bard Spells;Cleric Spells;Druid Spells;Paladin Spells;Ranger Spells;Cleric: Life Domain Spells;Warlock: The Celestial Spells;Druid: Circle of Wildfire Spells;Sorcerer: Divine Soul Spells;Evocation;1st Level Spells,1st,Artificer Initiate;Magic Initiate;Ritual Caster;Healing,Cure Wounds,300
+Spells,Divination,Spells;Cleric Spells;Paladin Spells;Warlock: The Genie Spells;Divination;1st Level Spells,1st,Fey Touched;Magic Initiate;Ritual Caster;Utility,Detect Evil and Good,300
+Spells,Divination,Spells;Artificer Spells;Bard Spells;Cleric Spells;Druid Spells;Paladin Spells;Ranger Spells;Sorcerer Spells;Wizard Spells;Cleric: Arcana Domain Spells;Paladin: Oath of the Watchers Spells;Divination;Ritual Spells;1st Level Spells,1st,Aberrant Dragonmark;Artificer Initiate;Fey Touched;Magic Initiate;Ritual Caster;Utility,Detect Magic,300
+Spells,Divination,Spells;Cleric Spells;Druid Spells;Paladin Spells;Ranger Spells;Divination;Ritual Spells;1st Level Spells,1st,Fey Touched;Magic Initiate;Ritual Caster;Utility,Detect Poison and Disease,300
+Spells,Illusion,Spells;Artificer Spells;Bard Spells;Sorcerer Spells;Wizard Spells;Cleric: Trickery Domain Spells;Ranger: Gloom Stalker Spells;Illusion;1st Level Spells,1st,Aberrant Dragonmark;Artificer Initiate;Magic Initiate;Ritual Caster;Shadow Touched;Utility,Disguise Self,300
+Spells,Enchantment,Spells;Bard Spells;Warlock: The Great Old One Spells;Sorcerer: Aberrant Mind Spells;Enchantment;1st Level Spells,1st,Fey Touched;Magic Initiate;Ritual Caster;Attack,Dissonant Whispers,300
+Spells,Illusion,Spells;Bard Spells;Sorcerer Spells;Warlock Spells;Wizard Spells;Bloodhunter: Order of the Profane Soul Spells;Illusion;1st Level Spells,1st,Aberrant Dragonmark;Magic Initiate;Ritual Caster;Shadow Touched;Utility,Distort Value,300
+Spells,Evocation,Spells;Paladin Spells;Cleric: War Domain Spells;Evocation;1st Level Spells,1st,,Divine Favor,300
+Spells,Evocation,Spells;Bard Spells;Druid Spells;Sorcerer Spells;Wizard Spells;Evocation;1st Level Spells,1st,Aberrant Dragonmark;Magic Initiate;Ritual Caster;Attack,Earth Tremor,300
+Spells,Conjuration,Spells;Ranger Spells;Paladin: Oath of the Ancients Spells;Conjuration;1st Level Spells,1st,,Ensnaring Strike,300
+Spells,Conjuration,Spells;Druid Spells;Conjuration;1st Level Spells,1st,Ritual Caster;Movement;Utility;Attack;Defense,Entangle,300
+Spells,Transmutation,Spells;Artificer Spells;Sorcerer Spells;Warlock Spells;Wizard Spells;Paladin: Oath of the Open Sea Spells;Bloodhunter: Order of the Profane Soul Spells;Transmutation;1st Level Spells,1st,Aberrant Dragonmark;Artificer Initiate;Magic Initiate;Ritual Caster;Movement,Expeditious Retreat,300
+Spells,Evocation,Spells;Artificer Spells;Bard Spells;Druid Spells;Cleric: Light Domain Spells;Warlock: The Archfey Spells;Cleric: Twilight Domain Spells;Ranger: Swarmkeeper Spells;Evocation;1st Level Spells,1st,Artificer Initiate;Magic Initiate;Ritual Caster;Attack;Utility,Faerie Fire,300
+Spells,Necromancy,Spells;Artificer Spells;Sorcerer Spells;Wizard Spells;Cleric: Death Domain Spells;Warlock: The Undying Spells;Cleric: Grave Domain Spells;Necromancy;1st Level Spells,1st,Aberrant Dragonmark;Artificer Initiate;Magic Initiate;Ritual Caster;Shadow Touched;Healing,False Life,300
+Spells,Transmutation,Spells;Artificer Spells;Bard Spells;Sorcerer Spells;Wizard Spells;Transmutation;1st Level Spells,1st,Aberrant Dragonmark;Artificer Initiate;Magic Initiate;Ritual Caster;Utility,Feather Fall,300
+Spells,Conjuration,Spells;Wizard Spells;Conjuration;Ritual Spells;1st Level Spells,1st,Ritual Caster;Utility;Attack,Find Familiar,300
+Spells,Conjuration,Spells;Wizard Spells;Conjuration;Ritual Spells;1st Level Spells,1st,Ritual Caster;Utility;Movement,Floating Disk,300
+Spells,Conjuration,Spells;Druid Spells;Ranger Spells;Sorcerer Spells;Wizard Spells;Cleric: Tempest Domain Spells;Warlock: The Genie (Marid) Spells;Conjuration;1st Level Spells,1st,Aberrant Dragonmark;Magic Initiate;Ritual Caster;Utility,Fog Cloud,300
+Spells,Evocation,Spells;Wizard Spells;Evocation;1st Level Spells,1st,Ritual Caster;Attack,Frost Fingers,300
+Spells,Divination;Dunamancy,Spells;Dunamancy Spells;Wizard: Chronurgy Magic Spells;Divination;Dunamancy;1st Level Spells,1st,Fey Touched;Utility,Gift of Alacrity,300
+Spells,Transmutation,Spells;Druid Spells;Ranger Spells;Transmutation;1st Level Spells,1st,Ritual Caster;Healing,Goodberry,300
+Spells,Conjuration,Spells;Artificer Spells;Wizard Spells;Conjuration;1st Level Spells,1st,Artificer Initiate;Ritual Caster;Utility,Grease,300
+Spells,Evocation,Spells;Cleric Spells;Warlock: The Celestial Spells;Paladin: Oath of Glory Spells;Druid: Circle of Stars Spells;Evocation;1st Level Spells,1st,Magic Initiate;Ritual Caster;Attack,Guiding Bolt,300
+Spells,Conjuration,Spells;Ranger Spells;Conjuration;1st Level Spells,1st,,Hail of Thorns,300
+Spells,Evocation,Spells;Bard Spells;Cleric Spells;Druid Spells;Artificer: Alchemist Spells;Evocation;1st Level Spells,1st,Magic Initiate;Ritual Caster;Healing,Healing Word,300
+Spells,Evocation,Spells;Warlock Spells;Paladin: Oathbreaker Spells;Bloodhunter: Order of the Profane Soul Spells;Evocation;1st Level Spells,1st,Magic Initiate;Ritual Caster;Attack,Hellish Rebuke,300
+Spells,Enchantment,Spells;Bard Spells;Paladin Spells;Cleric: Order Domain Spells;Artificer: Battle Smith Spells;Paladin: Oath of Glory Spells;Cleric: Peace Domain Spells;Enchantment;1st Level Spells,1st,Fey Touched;Magic Initiate;Ritual Caster;Utility;Healing,Heroism,300
+Spells,Enchantment,Spells;Warlock Spells;Bloodhunter: Order of the Profane Soul Spells;Enchantment;1st Level Spells,1st,Fey Touched;Magic Initiate;Ritual Caster;Attack;Utility,Hex,300
+Spells,Enchantment,Spells;Bard Spells;Wizard Spells;Warlock: The Great Old One Spells;Enchantment;1st Level Spells,1st,Fey Touched;Magic Initiate;Ritual Caster;Utility,Hideous Laughter,300
+Spells,Divination,Spells;Ranger Spells;Paladin: Oath of Vengeance Spells;Divination;1st Level Spells,1st,Fey Touched;Attack,Hunter's Mark,300
+Spells,Conjuration,Spells;Druid Spells;Sorcerer Spells;Wizard Spells;Conjuration;1st Level Spells,1st,Aberrant Dragonmark;Magic Initiate;Ritual Caster;Attack,Ice Knife,300
+Spells,Divination,Spells;Artificer Spells;Bard Spells;Wizard Spells;Cleric: Knowledge Domain Spells;Cleric: Forge Domain Spells;Divination;Ritual Spells;1st Level Spells,1st,Artificer Initiate;Fey Touched;Magic Initiate;Ritual Caster;Utility,Identify,300
+Spells,Illusion,Spells;Bard Spells;Warlock Spells;Wizard Spells;Bloodhunter: Order of the Profane Soul Spells;Illusion;Ritual Spells;1st Level Spells,1st,Magic Initiate;Ritual Caster;Shadow Touched;Utility,Illusory Script,300
+Spells,Necromancy,Spells;Cleric Spells;Paladin: Oathbreaker Spells;Sorcerer: Divine Soul Spells;Necromancy;1st Level Spells,1st,Magic Initiate;Ritual Caster;Shadow Touched;Attack,Inflict Wounds,300
+Spells,Evocation,Spells;Wizard Spells;Evocation;1st Level Spells,1st,Ritual Caster;Attack,Jim's Magic Missile,300
+Spells,Transmutation,Spells;Artificer Spells;Druid Spells;Ranger Spells;Sorcerer Spells;Wizard Spells;Transmutation;1st Level Spells,1st,Aberrant Dragonmark;Artificer Initiate;Magic Initiate;Ritual Caster;Movement,Jump,300
+Spells,Transmutation,Spells;Artificer Spells;Bard Spells;Druid Spells;Ranger Spells;Wizard Spells;Transmutation;1st Level Spells,1st,Artificer Initiate;Magic Initiate;Ritual Caster;Movement,Longstrider,300
+Spells,Abjuration,Spells;Sorcerer Spells;Wizard Spells;Abjuration;1st Level Spells,1st,Aberrant Dragonmark;Magic Initiate;Ritual Caster;Defense,Mage Armor,300
+Spells,Evocation,Spells;Sorcerer Spells;Wizard Spells;Cleric: Arcana Domain Spells;Artificer: Armorer Spells;Evocation;1st Level Spells,1st,Aberrant Dragonmark;Magic Initiate;Ritual Caster;Attack,Magic Missile,300
+Spells,Transmutation;Dunamancy,Spells;Wizard: Graviturgy Magic Spells;Transmutation;Dunamancy;1st Level Spells,1st,,Magnify Gravity,300
+Spells,Abjuration,Spells;Cleric Spells;Paladin Spells;Warlock Spells;Wizard Spells;Paladin: Oath of Devotion Spells;Bloodhunter: Order of the Profane Soul Spells;Ranger: Horizon Walker Spells;Ranger: Monster Slayer Spells;Sorcerer: Clockwork Soul Spells;Sorcerer: Divine Soul Spells;Abjuration;1st Level Spells,1st,Magic Initiate;Ritual Caster;Defense,Protection from Evil and Good,300
+Spells,Transmutation,Spells;Artificer Spells;Cleric Spells;Druid Spells;Paladin Spells;Transmutation;Ritual Spells;1st Level Spells,1st,Artificer Initiate;Magic Initiate;Ritual Caster;Utility,Purify Food and Drink,300
+Spells,Necromancy,Spells;Sorcerer Spells;Wizard Spells;Warlock: The Undying Spells;Cleric: Death Domain Spells;Artificer: Alchemist Spells;Necromancy;1st Level Spells,1st,Aberrant Dragonmark;Magic Initiate;Ritual Caster;Shadow Touched;Attack,Ray of Sickness,300
+Spells,Abjuration,Spells;Artificer Spells;Cleric Spells;Paladin: Oath of Devotion Spells;Paladin: Oath of Redemption Spells;Warlock: The Genie (Dao) Spells;Cleric: Peace Domain Spells;Abjuration;1st Level Spells,1st,Artificer Initiate;Magic Initiate;Ritual Caster;Defense,Sanctuary,300
+Spells,Evocation,Spells;Paladin Spells;Cleric: Forge Domain Spells;Evocation;1st Level Spells,1st,,Searing Smite,300
+Spells,Abjuration,Spells;Sorcerer Spells;Wizard Spells;Warlock: The Hexblade Spells;Artificer: Artillerest Spells;Artificer: Battle Smith Spells;Abjuration;1st Level Spells,1st,Aberrant Dragonmark;Magic Initiate;Ritual Caster;Defense,Shield,300
+Spells,Abjuration,Spells;Cleric Spells;Paladin Spells;Cleric: War Domain Spells;Abjuration;1st Level Spells,1st,Magic Initiate;Ritual Caster;Defense,Shield of Faith,300
+Spells,Illusion,Spells;Bard Spells;Sorcerer Spells;Wizard Spells;Illusion;1st Level Spells,1st,Aberrant Dragonmark;Magic Initiate;Ritual Caster;Shadow Touched;Utility,Silent Image,300
+Spells,Enchantment,Spells;Bard Spells;Sorcerer Spells;Wizard Spells;Warlock: The Archfey Spells;Paladin: Oath of Redemption Spells;Cleric: Twilight Domain;Enchantment;1st Level Spells,1st,Aberrant Dragonmark;Fey Touched;Magic Initiate;Ritual Caster;Utility,Sleep,300
+Spells,Abjuration,Spells;Artificer Spells;Druid Spells;Ranger Spells;Wizard Spells;Abjuration;1st Level Spells,1st,Artificer Initiate;Ritual Caster;Utility,Snare,300
+Spells,Divination,Spells;Bard Spells;Druid Spells;Ranger Spells;Cleric: Nature Domain Spells;Paladin: Oath of the Ancients Spells;Divination;Ritual Spells;1st Level Spells,1st,Fey Touched;Magic Initiate;Ritual Caster;Utility,Speak with Animals,300
+Spells,Enchantment,Spells;Artificer Spells;Sorcerer Spells;Wizard Spells;Enchantment;1st Level Spells,1st,Aberrant Dragonmark;Artificer Initiate;Fey Touched;Magic Initiate;Ritual Caster;Attack,Tasha's Caustic Brew,300
+Spells,Evocation,Spells;Bard Spells;Wizard Spells;Warlock: The Great Old One Spells;Evocation;1st Level Spells,1st,Magic Initiate;Ritual Caster;Utility,Tasha's Hideous Laughter,300
+Spells,Conjuration,Spells;Wizard Spells;Conjuration;Ritual Spells;1st Level Spells,1st,,Tenser's Floating Disk,300
+Spells,Evocation,Spells;Paladin Spells;Evocation;1st Level Spells,1st,,Thunderous Smite,300
+Spells,Evocation,Spells;Bard Spells;Druid Spells;Sorcerer Spells;Wizard Spells;Cleric: Tempest Domain Spells;Artificer: Artillerest Spells;Artificer: Armorer Spells;Warlock: The Genie (Djinni) Spells;Warlock: The Fathomless Spells;Evocation;1st Level Spells,1st,Aberrant Dragonmark;Magic Initiate;Ritual Caster;Attack,Thunderwave,300
+Spells,Conjuration,Spells;Bard Spells;Warlock Spells;Wizard Spells;Bloodhunter: Order of the Profane Soul Spells;Conjuration;Ritual Spells;1st Level Spells,1st,Magic Initiate;Ritual Caster;Utility,Unseen Servant,300
+Spells,Evocation,Spells;Sorcerer Spells;Warlock Spells;Wizard Spells;Bloodhunter: Order of the Profane Soul Spells;Evocation;1st Level Spells,1st,Aberrant Dragonmark;Magic Initiate;Ritual Caster;Attack,Witch Bolt,300
+Spells,Evocation,Spells;Paladin Spells;Warlock: The Hexblade Spells;Evocation;1st Level Spells,1st,,Wrathful Smite,300
+Spells,Transmutation,Spells;Ranger Spells;Transmutation;1st Level Spells,1st,,Zephyr Strike,300
+Spells,Evocation,Spells;Artificer Spells;Wizard Spells;Druid: Circle of the Land (Swamp) Spells;Artificer: Alchemist Spells;Druid: Circle of the Land (Swamp) Spells;Evocation;2nd Level Spells,2nd,,Acid Arrow,600
+Spells,Evocation,Spells;Sorcerer Spells;Wizard Spells;Evocation;2nd Level Spells,2nd,,Aganazzar's Scorcher,600
+Spells,Abjuration,Spells;Cleric Spells;Paladin Spells;Cleric: Peace Domain Spells;Sorcerer: Clockwork Soul Spells;Abjuration;2nd Level Spells,2nd,,Aid,600
+Spells,Transmutation,Spells;Artificer Spells;Sorcerer Spells;Wizard Spells;Transmutation;2nd Level Spells,2nd,,Alter Self,600
+Spells,Enchantment,Spells;Bard Spells;Druid Spells;Ranger Spells;Enchantment;Ritual Spells;2nd Level Spells,2nd,,Animal Messenger,600
+Spells,Abjuration,Spells;Artificer Spells;Wizard Spells;Abjuration;2nd Level Spells,2nd,,Arcane Lock,600
+Spells,Illusion,Spells;Wizard Spells;Cleric: Arcana Domain Spells;Illusion;2nd Level Spells,2nd,,Arcanist's Magic Aura,600
+Spells,Divination,Spells;Cleric Spells;Cleric: Knowledge Domain Spells;Paladin: Oath of the Open Sea Spells;Divination;Ritual Spells;2nd Level Spells,2nd,,Augury,600
+Spells,Transmutation,Spells;Druid Spells;Ranger Spells;Cleric: Nature Domain Spells;Druid: Circle of the Land (Forest) Spells;Transmutation;2nd Level Spells,2nd,,Barkskin,600
+Spells,Divination,Spells;Druid Spells;Ranger Spells;Divination;Ritual Spells;2nd Level Spells,2nd,,Beast Sense,600
+Spells,Necromancy,Spells;Bard Spells;Cleric Spells;Sorcerer Spells;Wizard Spells;Warlock: The Fiend Spells;Warlock: The Undying Spells;Cleric: Death Domain Spells;Druid: Circle of Spores Spells;Bloodhunter: Order of the Profane Soul (The Undying) Spells;Necromancy;2nd Level Spells,2nd,,Blindness/ Deafness,600
+Spells,Illusion,Spells;Artificer Spells;Sorcerer Spells;Wizard Spells;Druid: Circle of the Land (Desert) Spells;Warlock: The Hexblade Spells;Warlock: The Genie (Marid) Spells;Bloodhunter: Order of the Profane Soul (The Archfey) Spells;Illusion;2nd Level Spells,2nd,,Blur,600
+Spells,Evocation,Spells;Paladin Spells;Warlock: The Hexblade Spells;Artificer: Battle Smith Spells;Bloodhunter: Order of the Profane Soul (The Hexblade) Spells;Evocation;2nd Level Spells,2nd,,Branding Smite,600
+Spells,Enchantment,Spells;Bard Spells;Cleric Spells;Warlock: The Archfey Spells;Paladin: Oath of Redemption Spells;Paladin: Oath of Redemption Spells;Sorcerer: Aberrant Mind Spells;Enchantment;2nd Level Spells,2nd,,Calm Emotions,600
+Spells,Conjuration,Spells;Bard Spells;Sorcerer Spells;Warlock Spells;Wizard Spells;Bloodhunter: Order of the Profane Soul Spells;Conjuration;2nd Level Spells,2nd,,Cloud of Daggers,600
+Spells,Evocation,Spells;Artificer Spells;Cleric Spells;Wizard Spells;Evocation;2nd Level Spells,2nd,,Continual Flame,600
+Spells,Transmutation,Spells;Ranger Spells;Transmutation;2nd Level Spells,2nd,,Cordon of Arrows,600
+Spells,Enchantment,Spells;Bard Spells;Sorcerer Spells;Warlock Spells;Wizard Spells;Paladin: Oathbreaker Spells;Bloodhunter: Order of the Profane Soul Spells;Enchantment;2nd Level Spells,2nd,,Crown of Madness,600
+Spells,Evocation,Spells;Sorcerer Spells;Warlock Spells;Wizard Spells;Druid: Circle of the Land (Swamp) Spells;Paladin: Oathbreaker Spells;Bloodhunter: Order of the Profane Soul Spells;Evocation;2nd Level Spells,2nd,,Darkness,600
+Spells,Transmutation,Spells;Artificer Spells;Druid Spells;Ranger Spells;Sorcerer Spells;Wizard Spells;Transmutation;2nd Level Spells,2nd,,Darkvision,600
+Spells,Divination,Spells;Bard Spells;Sorcerer Spells;Wizard Spells;Warlock: The Great Old One Spells;Bloodhunter: Order of the Profane Soul (The Great Old One) Spells;Sorcerer: Aberrant Mind Spells;Divination;2nd Level Spells,2nd,,Detect Thoughts,600
+Spells,Transmutation,Spells;Sorcerer Spells;Wizard Spells;Transmutation;2nd Level Spells,2nd,,Dragon's Breath,600
+Spells,Conjuration,Spells;Druid Spells;Sorcerer Spells;Wizard Spells;Conjuration;2nd Level Spells,2nd,,Dust Devil,600
+Spells,Transmutation,Spells;Druid Spells;Sorcerer Spells;Warlock Spells;Wizard Spells;Bloodhunter: Order of the Profane Soul Spells;Transmutation;2nd Level Spells,2nd,,Earthbind,600
+Spells,Transmutation,Spells;Artificer Spells;Bard Spells;Cleric Spells;Druid Spells;Sorcerer Spells;Paladin: Oath of Glory Spells;Transmutation;2nd Level Spells,2nd,,Enhance Ability,600
+Spells,Transmutation,Spells;Artificer Spells;Sorcerer Spells;Wizard Spells;Transmutation;2nd Level Spells,2nd,,Enlarge/ Reduce,600
+Spells,Enchantment,Spells;Bard Spells;Warlock Spells;Bloodhunter: Order of the Profane Soul Spells;Enchantment;2nd Level Spells,2nd,,Enthrall,600
+Spells,Conjuration,Spells;Paladin Spells;Conjuration;2nd Level Spells,2nd,,Find Steed,600
+Spells,Divination,Spells;Cleric Spells;Druid Spells;Ranger Spells;Divination;2nd Level Spells,2nd,,Find Traps,600
+Spells,Evocation,Spells;Druid Spells;Evocation;2nd Level Spells,2nd,,Flame Blade,600
+Spells,Conjuration,Spells;Druid Spells;Wizard Spells;Cleric: Light Domain Spells;Warlock: The Celestial Spells;Artificer: Alchemist Spells;Druid: Circle of Wildfire Spells;Conjuration;2nd Level Spells,2nd,,Flaming Sphere,600
+Spells,Conjuration,Spells;Warlock Spells;Wizard Spells;Conjuration;2nd Level Spells,2nd,,Flock of Familiars,600
+Spells,Divination;Dunamancy,Spells;Wizard: Chronurgy Magic Spells;Wizard: Graviturgy Magic Spells;Divination;Dunamancy;2nd Level Spells,2nd,,Fortune's Favor,600
+Spells,Necromancy,Spells;Cleric Spells;Wizard Spells;Cleric: Grave Domain Spells;Druid: Circle of Spores Spells;Necromancy;Ritual Spells;2nd Level Spells,2nd,,Gentle Repose,600
+Spells,Enchantment,Spells;Bard Spells;Wizard Spells;Enchantment;2nd Level Spells,2nd,,Gift of Gab,600
+Spells,Evocation,Spells;Druid Spells;Sorcerer Spells;Cleric: Tempest Domain Spells;Warlock: The Genie (Djinni) Spells;Warlock: The Fathomless Spells;Evocation;2nd Level Spells,2nd,,Gust of Wind,600
+Spells,Conjuration,Spells;Druid Spells;Ranger Spells;Conjuration;2nd Level Spells,2nd,,Healing Spirit,600
+Spells,Transmutation,Spells;Artificer Spells;Bard Spells;Druid Spells;Cleric: Forge Domain Spells;Transmutation;2nd Level Spells,2nd,,Heat Metal,600
+Spells,Enchantment,Spells;Bard Spells;Cleric Spells;Druid Spells;Sorcerer Spells;Warlock Spells;Wizard Spells;Druid: Circle of the Land (Arctic) Spells;Paladin: Oath of Vengeance Spells;Paladin: Oath of Conquest Spells;Paladin: Oath of Redemption;Cleric: Order Domain Spells;Bloodhunter: Order of the Profane Soul Spells;Paladin: Oath of Redemption Spells;Enchantment;2nd Level Spells,2nd,,Hold Person,600
+Spells,Transmutation;Dunamancy,Spells;Wizard: Graviturgy Magic Spells;Transmutation;Dunamancy;2nd Level Spells,2nd,,Immovable Object,600
+Spells,Illusion,Spells;Artificer Spells;Bard Spells;Sorcerer Spells;Warlock Spells;Wizard Spells;Druid: Circle of the Land (Grassland) Spells;Bloodhunter: Order of the Profane Soul Spells;Illusion;2nd Level Spells,2nd,,Invisibility,600
+Spells,Enchantment,Spells;Wizard Spells;Enchantment;2nd Level Spells,2nd,,Jim's Glowing Coin,600
+Spells,Transmutation,Spells;Bard Spells;Sorcerer Spells;Wizard Spells;Transmutation;2nd Level Spells,2nd,,Knock,600
+Spells,Abjuration,Spells;Artificer Spells;Bard Spells;Cleric Spells;Druid Spells;Paladin Spells;Ranger Spells;Cleric: Life Domain Spells;Paladin: Oath of Devotion Spells;Warlock: The Celestial Spells;Bloodhunter: Order of the Profane Soul (The Celestial) Spells;Sorcerer: Clockwork Soul Spells;Abjuration;2nd Level Spells,2nd,,Lesser Restoration,600
+Spells,Transmutation,Spells;Artificer Spells;Sorcerer Spells;Wizard Spells;Transmutation;2nd Level Spells,2nd,,Levitate,600
+Spells,Divination,Spells;Bard Spells;Druid Spells;Ranger Spells;Divination;Ritual Spells;2nd Level Spells,2nd,,Locate Animals or Plants,600
+Spells,Divination,Spells;Bard Spells;Cleric Spells;Druid Spells;Paladin Spells;Ranger Spells;Wizard Spells;Divination;2nd Level Spells,2nd,,Locate Object,600
+Spells,Illusion,Spells;Artificer Spells;Bard Spells;Wizard Spells;Illusion;Ritual Spells;2nd Level Spells,2nd,,Magic Mouth,600
+Spells,Transmutation,Spells;Artificer Spells;Paladin Spells;Wizard Spells;Cleric: War Domain Spells;Cleric: Arcana Domain Spells;Cleric: Forge Domain Spells;Paladin: Oath of Glory Spells;Transmutation;2nd Level Spells,2nd,,Magic Weapon,600
+Spells,Transmutation,Spells;Sorcerer Spells;Wizard Spells;Transmutation;2nd Level Spells,2nd,,Maximilian's Earthen Grasp,600
+Spells,Evocation,Spells;Wizard Spells;Druid: Circle of the Land (Swamp) Spells;Artificer: Alchemist Spells;Evocation;2nd Level Spells,2nd,,Melf's Acid Arrow,600
+Spells,Divination,Spells;Sorcerer Spells;Warlock Spells;Wizard Spells;Bloodhunter: Order of the Profane Soul Spells;Divination;2nd Level Spells,2nd,,Mind Spike,600
+Spells,Illusion,Spells;Sorcerer Spells;Warlock Spells;Wizard Spells;Druid: Circle of the Land (Coast) Spells;Cleric: Trickery Domain Spells;Artificer: Armorer Spells;Bloodhunter: Order of the Profane Soul Spells;Illusion;2nd Level Spells,2nd,,Mirror Image,600
+Spells,Conjuration,Spells;Sorcerer Spells;Warlock Spells;Wizard Spells;Druid: Circle of the Land (Coast) Spells;Paladin: Oath of the Ancients Spells;Paladin: Oath of Vengeance Spells;Paladin: Oath of the Open Sea Spells;Bloodhunter: Order of the Profane Soul Spells;Ranger: Fey Wanderer Spells;Ranger: Horizon Walker Spells;Conjuration;2nd Level Spells,2nd,,Misty Step,600
+Spells,Evocation,Spells;Druid Spells;Paladin: Oath of the Ancients Spells;Paladin: Oath of the Watchers Spells;Cleric: Twilight Domain Spells;Evocation;2nd Level Spells,2nd,,Moonbeam,600
+Spells,Illusion,Spells;Wizard Spells;Illusion;2nd Level Spells,2nd,,Nystul's Magic Aura,600
+Spells,Abjuration,Spells;Druid Spells;Ranger Spells;Druid: Circle of the Land (Grassland) Spells;Cleric: Trickery Domain Spells;Abjuration;2nd Level Spells,2nd,,Pass without Trace,600
+Spells,Illusion,Spells;Bard Spells;Sorcerer Spells;Wizard Spells;Warlock: The Archfey Spells;Warlock: The Great Old One Spells;Warlock: The Genie Spells;Illusion;2nd Level Spells,2nd,,Phantasmal Force,600
+Spells,Evocation,Spells;Cleric Spells;Evocation;2nd Level Spells,2nd,,Prayer of Healing,600
+Spells,Abjuration,Spells;Artificer Spells;Cleric Spells;Druid Spells;Paladin Spells;Ranger Spells;Abjuration;2nd Level Spells,2nd,,Protection from Poison,600
+Spells,Transmutation,Spells;Artificer Spells;Bard Spells;Sorcerer Spells;Wizard Spells;Transmutation;2nd Level Spells,2nd,,Pyrotechnics,600
+Spells,Necromancy,Spells;Warlock Spells;Wizard Spells;Cleric: Death Domain Spells;Cleric: Grave Domain Spells;Bloodhunter: Order of the Profane Soul Spells;Necromancy;2nd Level Spells,2nd,,Ray of Enfeeblement,600
+Spells,Transmutation,Spells;Artificer Spells;Wizard Spells;Ranger: Gloom Stalker Spells;Transmutation;2nd Level Spells,2nd,,Rope Trick,600
+Spells,Evocation,Spells;Sorcerer Spells;Wizard Spells;Warlock: The Fiend Spells;Cleric: Light Domain Spells;Artificer: Artillerist Spells;Warlock: The Genie (Efreeti) Spells;Druid: Circle of the Wildfire Spells;Bloodhunter: Order of the Profane Soul (The Fiend) Spells;Evocation;2nd Level Spells,2nd,,Scorching Ray,600
+Spells,Divination,Spells;Artificer Spells;Bard Spells;Sorcerer Spells;Wizard Spells;Paladin: Oath of the Watchers Spells;Cleric: Twilight Domain Spells;Divination;2nd Level Spells,2nd,,See Invisibility,600
+Spells,Illusion,Spells;Sorcerer Spells;Warlock Spells;Wizard Spells;Bloodhunter: Order of the Profane Soul Spells;Illusion;2nd Level Spells,2nd,,Shadow Blade,600
+Spells,Evocation,Spells;Bard Spells;Sorcerer Spells;Warlock Spells;Wizard Spells;Cleric: Tempest Domain Spells;Artificer: Artillerist Spells;Artificer: Armorer Spells;Bloodhunter: Order of the Profane Soul Spells;Evocation;2nd Level Spells,2nd,,Shatter,600
+Spells,Illusion,Spells;Bard Spells;Cleric Spells;Ranger Spells;Druid: Circle of the Land (Desert) Spells;Warlock: The Undying Spells;Warlock: The Fathomless Spells;Illusion;Ritual Spells;2nd Level Spells,2nd,,Silence,600
+Spells,Transmutation,Spells;Artificer Spells;Bard Spells;Druid Spells;Wizard Spells;Transmutation;Ritual Spells;2nd Level Spells,2nd,,Skywrite,600
+Spells,Evocation,Spells;Sorcerer Spells;Wizard Spells;Evocation;2nd Level Spells,2nd,,Snilloc's Snowball Swarm,600
+Spells,Transmutation,Spells;Artificer Spells;Sorcerer Spells;Warlock Spells;Wizard Spells;Druid: Circle of the Land (Forest) Spells;Druid: Circle of the Land (Mountain) Spells;Druid: Circle of the Land (Underdark) Spells;Bloodhunter: Order of the Profane Soul Spells;Transmutation;2nd Level Spells,2nd,,Spider Climb,600
+Spells,Transmutation,Spells;Druid Spells;Ranger Spells;Druid: Circle of the Land (Arctic) Spells;Druid: Circle of the Land (Mountain) Spells;Cleric: Nature Domain Spells;Warlock: The Genie (Dao) Spells;Transmutation;2nd Level Spells,2nd,,Spike Growth,600
+Spells,Evocation,Spells;Cleric Spells;Cleric: Life Domain Spells;Cleric: War Domain Spells;Paladin: Oath of Conquest Spells;Evocation;2nd Level Spells,2nd,,Spiritual Weapon,600
+Spells,Enchantment,Spells;Bard Spells;Sorcerer Spells;Warlock Spells;Wizard Spells;Cleric: Knowledge Domain Spells;Bloodhunter: Order of the Profane Soul Spells;Enchantment;2nd Level Spells,2nd,,Suggestion,600
+Spells,Conjuration,Spells;Druid Spells;Ranger Spells;Conjuration;2nd Level Spells,2nd,,Summon Beast,600
+Spells,Enchantment,Spells;Sorcerer Spells;Wizard Spells;Enchantment;2nd Level Spells,2nd,,Tasha's Mind Whip,600
+Spells,Abjuration,Spells;Cleric Spells;Sorcerer Spells;Paladin: Oath of the Crown Spells;Artificer: Battle Smith Spells;Cleric: Peace Domain Spells;Abjuration;2nd Level Spells,2nd,,Warding Bond,600
+Spells,Evocation,Spells;Bard Spells;Druid Spells;Wizard Spells;Evocation;2nd Level Spells,2nd,,Warding Wind,600
+Spells,Conjuration,Spells;Artificer Spells;Sorcerer Spells;Wizard Spells;Druid: Circle of the Land (Underdark) Spells;Ranger: Swarmkeeper Spells;Conjuration;2nd Level Spells,2nd,,Web,600
+Spells,Conjuration;Dunamancy,Spells;Wizard: Chronurgy Magic Spells;Wizard: Graviturgy Magic Spells;Conjuration;Dunamancy;Ritual Spells;2nd Level Spells,2nd,,Wristpocket,600
+Spells,Enchantment,Spells;Bard Spells;Cleric Spells;Paladin Spells;Paladin: Oath of Devotion Spells;Paladin: Oath of the Crown Spells;Cleric: Order Domain Spells;Ranger: Monster Slayer Spells;Enchantment;2nd Level Spells,2nd,,Zone of Truth,600
+Spells,Necromancy,Spells;Cleric Spells;Wizard Spells;Cleric: Death Domain Spells;Paladin: Oathbreaker Spells;Druid: Circle of Spores Spells;Necromancy;3rd Level Spells,3rd,,Animate Dead,1200
+Spells,Evocation,Spells;Paladin Spells;Paladin: Oath of the Crown Spells;Artificer: Battle Smith Spells;Cleric: Twilight Domain Spells;Evocation;3rd Level Spells,3rd,,Aura of Vitality,1200
+Spells,Abjuration,Spells;Cleric Spells;Cleric: Life Domain Spells;Paladin: Oath of Devotion Spells;Cleric: Peace Domain Spells;Abjuration;3rd Level Spells,3rd,,Beacon of Hope,1200
+Spells,Necromancy,Spells;Bard Spells;Cleric Spells;Wizard Spells;Paladin: Oathbreaker Spells;Paladin: Oath of Conquest Spells;Bloodhunter: Order of the Profane Soul (The Undying) Spells;Necromancy;3rd Level Spells,3rd,,Bestow Curse,1200
+Spells,Evocation,Spells;Paladin Spells;Evocation;3rd Level Spells,3rd,,Blinding Smite,1200
+Spells,Transmutation,Spells;Artificer Spells;Sorcerer Spells;Wizard Spells;Cleric: Trickery Domain Spells;Warlock: The Archfey Spells;Warlock: The Hexblade Spells;Bloodhunter: Order of the Profane Soul (The Hexblade) Spells;Transmutation;3rd Level Spells,3rd,,Blink,1200
+Spells,Conjuration,Spells;Druid Spells;Druid: Circle of the Land (Forest) Spells;Cleric: Tempest Domain Spells;Paladin: Oath of the Open Sea;Conjuration;3rd Level Spells,3rd,,Call Lightning,1200
+Spells,Enchantment,Spells;Artificer Spells;Bard Spells;Sorcerer Spells;Wizard Spells;Enchantment;3rd Level Spells,3rd,,Catnap,1200
+Spells,Divination,Spells;Bard Spells;Cleric Spells;Sorcerer Spells;Wizard Spells;Warlock: The Great Old One Spells;Divination;3rd Level Spells,3rd,,Clairvoyance,1200
+Spells,Conjuration,Spells;Druid Spells;Ranger Spells;Conjuration;3rd Level Spells,3rd,,Conjure Animals,1200
+Spells,Conjuration,Spells;Ranger Spells;Artificer: Battle Smith Spells;Conjuration;3rd Level Spells,3rd,,Conjure Barrage,1200
+Spells,Abjuration,Spells;Sorcerer Spells;Warlock Spells;Wizard Spells;Bloodhunter: Order of the Profane Soul Spells;Paladin: Oath of Redemption Spells;Paladin: Oath of the Watchers Spells;Abjuration;3rd Level Spells,3rd,,Counterspell,1200
+Spells,Conjuration,Spells;Artificer Spells;Cleric Spells;Paladin Spells;Druid: Circle of the Land (Desert) Spells;Warlock: The Genie Spells;Conjuration;3rd Level Spells,3rd,,Create Food and Water,1200
+Spells,Evocation,Spells;Paladin Spells;Cleric: War Domain Spells;Evocation;3rd Level Spells,3rd,,Crusader's Mantle,1200
+Spells,Evocation,Spells;Cleric Spells;Druid Spells;Paladin Spells;Ranger Spells;Sorcerer Spells;Cleric: Light Domain Spells;Druid: Circle of the Land (Grassland) Spells;Warlock: The Celestial Spells;Evocation;3rd Level Spells,3rd,,Daylight,1200
+Spells,Abjuration,Spells;Artificer Spells;Bard Spells;Cleric Spells;Druid Spells;Paladin Spells;Sorcerer Spells;Warlock Spells;Wizard Spells;Bloodhunter: Order of the Profane Soul Spells;Cleric: Arcana Domain Spells;Cleric: Trickery Domain Spells;Paladin: Oath of Devotion Spells;Ranger: Fey Wanderer Spells;Sorcerer: Clockwork Soul Spells;Abjuration;3rd Level Spells,3rd,,Dispel Magic,1200
+Spells,Transmutation,Spells;Artificer Spells;Paladin Spells;Cleric: Forge Domain Spells;Warlock: The Hexblade Spells;Transmutation;3rd Level Spells,3rd,,Elemental Weapon,1200
+Spells,Enchantment,Spells;Bard Spells;Sorcerer Spells;Warlock Spells;Wizard Spells;Bloodhunter: Order of the Profane Soul Spells;Enchantment;3rd Level Spells,3rd,,Enemies Abound,1200
+Spells,Transmutation,Spells;Druid Spells;Sorcerer Spells;Wizard Spells;Transmutation;3rd Level Spells,3rd,,Erupting Earth,1200
+Spells,Enchantment,Spells;Bard Spells;Cleric Spells;Wizard Spells;Enchantment;3rd Level Spells,3rd,,Fast Friends,1200
+Spells,Illusion,Spells;Bard Spells;Sorcerer Spells;Warlock Spells;Wizard Spells;Bloodhunter: Order of the Profane Soul Spells;Paladin: Oath of Conquest Spells;Ranger: Gloom Stalker Spells;Illusion;3rd Level Spells,3rd,,Fear,1200
+Spells,Necromancy,Spells;Bard Spells;Cleric Spells;Druid Spells;Wizard Spells;Warlock: The Undying Spells;Necromancy;Ritual Spells;3rd Level Spells,3rd,,Feign Death,1200
+Spells,Evocation,Spells;Sorcerer Spells;Wizard Spells;Artificer: Artillerest Spells;Bloodhunter: Order of the Profane Soul (The Fiend) Spells;Cleric: Light Domain Spells;Warlock: The Fiend Spells;Warlock: The Genie (Efreeti) Spells;Evocation;3rd Level Spells,3rd,,Fireball,1200
+Spells,Transmutation,Spells;Artificer Spells;Druid Spells;Ranger Spells;Sorcerer Spells;Wizard Spells;Transmutation;3rd Level Spells,3rd,,Flame Arrows,1200
+Spells,Transmutation,Spells;Artificer Spells;Sorcerer Spells;Warlock Spells;Wizard Spells;Bloodhunter: Order of the Profane Soul Spells;Transmutation;3rd Level Spells,3rd,,Fly,1200
+Spells,Conjuration,Spells;Wizard Spells;Conjuration;3rd Level Spells,3rd,,Galder's Tower,1200
+Spells,Transmutation,Spells;Sorcerer Spells;Warlock Spells;Wizard Spells;Artificer: Alchemist Spells;Bloodhunter: Order of the Profane Soul Spells;Druid: Circle of Spores Spells;Druid: Circle of the Land (Underdark) Spells;Ranger: Swarmkeeper Spells;Transmutation;3rd Level Spells,3rd,,Gaseous Form,1200
+Spells,Abjuration,Spells;Artificer Spells;Bard Spells;Cleric Spells;Wizard Spells;Abjuration;3rd Level Spells,3rd,,Glyph of Warding,1200
+Spells,Transmutation,Spells;Artificer Spells;Sorcerer Spells;Wizard Spells;Bloodhunter: Order of the Profane Soul (The Great Old One) Spells;Druid: Circle of the Land (Grassland) Spells;Paladin: Oath of Glory Spells;Paladin: Oath of Vengeance Spells;Ranger: Horizon Walker Spells;Transmutation;3rd Level Spells,3rd,,Haste,1200
+Spells,Conjuration,Spells;Warlock Spells;Bloodhunter: Order of the Profane Soul Spells;Sorcerer: Aberrant Mind Spells;Conjuration;3rd Level Spells,3rd,,Hunger of Hadar,1200
+Spells,Illusion,Spells;Bard Spells;Sorcerer Spells;Warlock Spells;Wizard Spells;Artificer: Armorer Spells;Bloodhunter: Order of the Profane Soul Spells;Paladin: Oath of Redemption Spells;Illusion;3rd Level Spells,3rd,,Hypnotic Pattern,1200
+Spells,Enchantment,Spells;Cleric Spells;Sorcerer Spells;Warlock Spells;Wizard Spells;Bloodhunter: Order of the Profane Soul Spells;Enchantment;3rd Level Spells,3rd,,Incite Greed,1200
+Spells,Abjuration,Spells;Artificer Spells;Bard Spells;Sorcerer Spells;Warlock Spells;Wizard Spells;Bloodhunter: Order of the Profane Soul Spells;Abjuration;3rd Level Spells,3rd,,Intellect Fortress,1200
+Spells,Evocation,Spells;Bard Spells;Wizard Spells;Cleric: Twilight Domain Spells;Evocation;Ritual Spells;3rd Level Spells,3rd,,Leomund's Tiny Hut,1200
+Spells,Necromancy,Spells;Cleric Spells;Wizard Spells;Necromancy;3rd Level Spells,3rd,,Life Transference,1200
+Spells,Transmutation,Spells;Ranger Spells;Transmutation;3rd Level Spells,3rd,,Lightning Arrow,1200
+Spells,Evocation,Spells;Sorcerer Spells;Wizard Spells;Artificer: Armorer Spells;Druid: Circle of the Land (Mountain) Spells;Warlock: The Fathomless Spells;Evocation;3rd Level Spells,3rd,,Lightning Bolt,1200
+Spells,Abjuration,Spells;Cleric Spells;Paladin Spells;Warlock Spells;Wizard Spells;Bloodhunter: Order of the Profane Soul Spells;Cleric: Arcana Domain Spells;Ranger: Monster Slayer Spells;Abjuration;3rd Level Spells,3rd,,Magic Circle,1200
+Spells,Illusion,Spells;Bard Spells;Sorcerer Spells;Warlock Spells;Wizard Spells;Bloodhunter: Order of the Profane Soul Spells;Illusion;3rd Level Spells,3rd,,Major Image,1200
+Spells,Evocation,Spells;Cleric Spells;Cleric: Order Domain Spells;Evocation;3rd Level Spells,3rd,,Mass Healing Word,1200
+Spells,Transmutation,Spells;Cleric Spells;Druid Spells;Druid: Circle of the Land (Mountain) Spells;Warlock: The Genie (Dao) Spells;Transmutation;Ritual Spells;3rd Level Spells,3rd,,Meld into Stone,1200
+Spells,Evocation,Spells;Sorcerer Spells;Wizard Spells;Evocation;3rd Level Spells,3rd,,Melf's Minute Meteors,1200
+Spells,Enchantment,Spells;Bard Spells;Cleric Spells;Enchantment;3rd Level Spells,3rd,,Motivational Speech,1200
+Spells,Abjuration,Spells;Bard Spells;Ranger Spells;Wizard Spells;Cleric: Knowledge Domain Spells;Paladin: Oath of the Watchers Spells;Abjuration;3rd Level Spells,3rd,,Nondetection,1200
+Spells,Illusion,Spells;Wizard Spells;Illusion;Ritual Spells;3rd Level Spells,3rd,,Phantom Steed,1200
+Spells,Transmutation,Spells;Bard Spells;Druid Spells;Ranger Spells;Cleric: Nature Domain Spells;Druid: Circle of the Land (Forest) Spells;Druid: Circle of Wildfire Spells;Paladin: Oath of the Ancients Spells;Warlock: The Archfey Spells;Transmutation;3rd Level Spells,3rd,,Plant Growth,1200
+Spells,Abjuration,Spells;Artificer Spells;Cleric Spells;Druid Spells;Ranger Spells;Sorcerer Spells;Wizard Spells;Cleric: Forge Domain Spells;Druid: Circle of the Land (Desert) Spells;Paladin: Oath of Glory Spells;Paladin: Oath of the Ancients Spells;Paladin: Oath of Vengeance Spells;Sorcerer: Clockwork Soul Spells;Abjuration;3rd Level Spells,3rd,,Protection from Energy,1200
+Spells,Evocation;Dunamancy,Spells;Dunamancy Spells;Wizard: Chronurgy Magic Spells;Wizard: Graviturgy Magic Spells;Evocation;Dunamancy;3rd Level Spells,3rd,,Pulse Wave,1200
+Spells,Abjuration,Spells;Cleric Spells;Paladin Spells;Warlock Spells;Wizard Spells;Bloodhunter: Order of the Profane Soul Spells;Abjuration;3rd Level Spells,3rd,,Remove Curse,1200
+Spells,Necromancy,Spells;Artificer Spells;Cleric Spells;Paladin Spells;Bloodhunter: Order of the Profane Soul (The Celestial) Spells;Cleric: Grave Domain Spells;Cleric: Life Domain Spells;Druid: Circle of Wildfire Spells;Warlock: The Celestial Spells;Necromancy;3rd Level Spells,3rd,,Revivify,1200
+Spells,Evocation,Spells;Bard Spells;Cleric Spells;Wizard Spells;Cleric: Peace Domain Spells;Sorcerer: Aberrant Mind Spells;Warlock: The Great Old One Spells;Evocation;3rd Level Spells,3rd,,Sending,1200
+Spells,Conjuration,Spells;Druid Spells;Sorcerer Spells;Wizard Spells;Cleric: Tempest Domain Spells;Druid: Circle of the Land (Arctic) Spells;Warlock: The Fathomless Spells;Warlock: The Genie (Marid) Spells;Conjuration;3rd Level Spells,3rd,,Sleet Storm,1200
+Spells,Transmutation,Spells;Sorcerer Spells;Wizard Spells;Bloodhunter: Order of the Profane Soul (The Archfey) Spells;Cleric: Order Domain Spells;Druid: Circle of the Land (Arctic) Spells;Transmutation;3rd Level Spells,3rd,,Slow,1200
+Spells,Necromancy,Spells;Bard Spells;Cleric Spells;Cleric: Knowledge Domain Spells;Warlock: The Undying Spells;Necromancy;3rd Level Spells,3rd,,Speak with Dead,1200
+Spells,Transmutation,Spells;Bard Spells;Druid Spells;Ranger Spells;Transmutation;3rd Level Spells,3rd,,Speak with Plants,1200
+Spells,Conjuration,Spells;Cleric Spells;Cleric: War Domain Spells;Paladin: Oath of the Crown Spells;Conjuration;3rd Level Spells,3rd,,Spirit Guardians,1200
+Spells,Necromancy,Spells;Cleric Spells;Paladin Spells;Warlock Spells;Wizard Spells;Bloodhunter: Order of the Profane Soul Spells;Necromancy;3rd Level Spells,3rd,,Spirit Shroud,1200
+Spells,Conjuration,Spells;Bard Spells;Sorcerer Spells;Wizard Spells;Druid: Circle of the Land (Swamp) Spells;Druid: Circle of the Land (Underdark) Spells;Warlock: The Fiend Spells;Conjuration;3rd Level Spells,3rd,,Stinking Cloud,1200
+Spells,Conjuration,Spells;Druid Spells;Ranger Spells;Warlock Spells;Wizard Spells;Bloodhunter: Order of the Profane Soul Spells;Conjuration;3rd Level Spells,3rd,,Summon Fey,1200
+Spells,Conjuration,Spells;Warlock Spells;Wizard Spells;Bloodhunter: Order of the Profane Soul Spells;Conjuration;3rd Level Spells,3rd,,Summon Lesser Demons,1200
+Spells,Conjuration,Spells;Warlock Spells;Wizard Spells;Bloodhunter: Order of the Profane Soul Spells;Conjuration;3rd Level Spells,3rd,,Summon Shadowspawn,1200
+Spells,Necromancy,Spells;Warlock Spells;Wizard Spells;Bloodhunter: Order of the Profane Soul Spells;Necromancy;3rd Level Spells,3rd,,Summon Undead,1200
+Spells,Conjuration,Spells;Sorcerer Spells;Warlock Spells;Wizard Spells;Bloodhunter: Order of the Profane Soul Spells;Conjuration;3rd Level Spells,3rd,,Thunder Step,1200
+Spells,Conjuration,Spells;Druid Spells;Sorcerer Spells;Wizard Spells;Paladin: Oath of the Open Sea Spells;Conjuration;3rd Level Spells,3rd,,Tidal Wave,1200
+Spells,Evocation,Spells;Bard Spells;Wizard Spells;Evocation;Ritual Spells;3rd Level Spells,3rd,,Tiny Hut,1200
+Spells,Transmutation,Spells;Artificer Spells;Wizard Spells;Transmutation;3rd Level Spells,3rd,,Tiny Servant,1200
+Spells,Divination,Spells;Bard Spells;Cleric Spells;Sorcerer Spells;Warlock Spells;Wizard Spells;Bloodhunter: Order of the Profane Soul Spells;Divination;3rd Level Spells,3rd,,Tongues,1200
+Spells,Necromancy,Spells;Warlock Spells;Wizard Spells;Bloodhunter: Order of the Profane Soul Spells;Cleric: Grave Domain Spells;Necromancy;3rd Level Spells,3rd,,Vampiric Touch,1200
+Spells,Evocation,Spells;Wizard Spells;Evocation;3rd Level Spells,3rd,,Wall of Sand,1200
+Spells,Evocation,Spells;Druid Spells;Sorcerer Spells;Wizard Spells;Evocation;3rd Level Spells,3rd,,Wall of Water,1200
+Spells,Transmutation,Spells;Artificer Spells;Druid Spells;Ranger Spells;Sorcerer Spells;Wizard Spells;Druid: Circle of the Land (Coast) Spells;Transmutation;Ritual Spells;3rd Level Spells,3rd,,Water Breathing,1200
+Spells,Transmutation,Spells;Artificer Spells;Cleric Spells;Druid Spells;Ranger Spells;Sorcerer Spells;Druid: Circle of the Land (Coast) Spells;Druid: Circle of the Land (Swamp) Spells;Transmutation;Ritual Spells;3rd Level Spells,3rd,,Water Walk,1200
+Spells,Evocation,Spells;Druid Spells;Ranger Spells;Artificer: Artillerest Spells;Cleric: Nature Domain Spells;Warlock: The Genie (Djinni) Spells;Evocation;3rd Level Spells,3rd,,Wind Wall,1200
+Spells,Divination,Spells;Artificer Spells;Wizard Spells;Cleric: Arcana Domain Spells;Cleric: Knowledge Domain Spells;Ranger: Swarmkeeper Spells;Divination;4th Level Spells,4th,,Arcane Eye,2400
+Spells,Abjuration,Spells;Paladin Spells;Cleric: Twilight Domain Spells;Druid: Circle of Wildfire Spells;Warlock: The Undying Spells;Abjuration;4th Level Spells,4th,,Aura of Life,2400
+Spells,Abjuration,Spells;Paladin Spells;Artificer: Battle Smith Spells;Cleric: Peace Domain Spells;Paladin: Oath of the Watchers Spells;Abjuration;4th Level Spells,4th,,Aura of Purity,2400
+Spells,Abjuration,Spells;Cleric Spells;Paladin Spells;Sorcerer Spells;Warlock Spells;Wizard Spells;Bloodhunter: Order of the Profane Soul Spells;Paladin: Oath of the Crown Spells;Paladin: Oath of the Watchers Spells;Paladin: Oath of Vengeance Spells;Ranger: Horizon Walker Spells;Ranger: Monster Slayer Spells;Abjuration;4th Level Spells,4th,,Banishment,2400
+Spells,Conjuration,Spells;Wizard Spells;Conjuration;4th Level Spells,4th,,Black Tentacles,2400
+Spells,Necromancy,Spells;Druid Spells;Sorcerer Spells;Warlock Spells;Wizard Spells;Artificer: Alchemist Spells;Bloodhunter: Order of the Profane Soul Spells;Cleric: Grave Domain Spells;Druid: Circle of Spores Spells;Druid: Circle of the Land (Desert) Spells;Paladin: Oathbreaker Spells;Necromancy;4th Level Spells,4th,,Blight,2400
+Spells,Enchantment,Spells;Bard Spells;Druid Spells;Sorcerer Spells;Warlock Spells;Wizard Spells;Bloodhunter: Order of the Profane Soul Spells;Enchantment;4th Level Spells,4th,,Charm Monster,2400
+Spells,Enchantment,Spells;Bard Spells;Cleric: Order Domain Spells;Paladin: Oath of Glory Spells;Enchantment;4th Level Spells,4th,,Compulsion,2400
+Spells,Enchantment,Spells;Bard Spells;Druid Spells;Sorcerer Spells;Wizard Spells;Cleric: Knowledge Domain Spells;Druid: Circle of Spores Spells;Paladin: Oathbreaker Spells;Enchantment;4th Level Spells,4th,,Confusion,2400
+Spells,Conjuration,Spells;Druid Spells;Wizard Spells;Conjuration;4th Level Spells,4th,,Conjure Minor Elementals,2400
+Spells,Conjuration,Spells;Druid Spells;Ranger Spells;Conjuration;4th Level Spells,4th,,Conjure Woodland Beings,2400
+Spells,Transmutation,Spells;Cleric Spells;Druid Spells;Wizard Spells;Cleric: Tempest Domain Spells;Druid: Circle of the Land (Coast) Spells;Paladin: Oath of the Open Sea Spells;Warlock: The Fathomless Spells;Warlock: The Genie (Marid) Spells;Transmutation;4th Level Spells,4th,,Control Water,2400
+Spells,Abjuration,Spells;Cleric Spells;Paladin Spells;Artificer: Alchemist Spells;Cleric: Grave Domain Spells;Cleric: Life Domain Spells;Warlock: The Undying Spells;Abjuration;4th Level Spells,4th,,Death Ward,2400
+Spells,Conjuration,Spells;Bard Spells;Sorcerer Spells;Warlock Spells;Wizard Spells;Bloodhunter: Order of the Profane Soul Spells;Cleric: Trickery Domain Spells;Paladin: Oath of Vengeance Spells;Ranger: Fey Wanderer Spells;Conjuration;4th Level Spells,4th,,Dimension Door,2400
+Spells,Divination,Spells;Cleric Spells;Druid: Circle of the Land (Forest) Spells;Druid: Circle of the Land (Grassland) Spells;Divination;Ritual Spells;4th Level Spells,4th,,Divination,2400
+Spells,Enchantment,Spells;Druid Spells;Sorcerer Spells;Cleric: Nature Domain Spells;Paladin: Oath of Conquest Spells;Warlock: The Archfey Spells;Warlock: The Great Old One Spells;Enchantment;4th Level Spells,4th,,Dominate Beast,2400
+Spells,Transmutation,Spells;Artificer Spells;Druid Spells;Warlock Spells;Wizard Spells;Bloodhunter: Order of the Profane Soul Spells;Transmutation;4th Level Spells,4th,,Elemental Bane,2400
+Spells,Conjuration,Spells;Wizard Spells;Sorcerer: Aberrant Mind Spells;Warlock: The Great Old One Spells;Conjuration;4th Level Spells,4th,,Evard's Black Tentacle,2400
+Spells,Transmutation,Spells;Artificer Spells;Wizard Spells;Cleric: Forge Domain Spells;Transmutation;4th Level Spells,4th,,Fabricate,2400
+Spells,Conjuration,Spells;Wizard Spells;Conjuration;4th Level Spells,4th,,Faithful Hound,2400
+Spells,Conjuration,Spells;Paladin Spells;Conjuration;4th Level Spells,4th,,Find Greater Steed,2400
+Spells,Evocation,Spells;Wizard Spells;Artificer: Armorer Spells;Artificer: Battle Smith Spells;Druid: Circle of Wildfire Spells;Warlock: The Fiend Spells;Warlock: The Genie (Efreeti) Spells;Evocation;4th Level Spells,4th,,Fire Shield,2400
+Spells,Abjuration,Spells;Artificer Spells;Bard Spells;Cleric Spells;Druid Spells;Ranger Spells;Cleric: War Domain Spells;Druid: Circle of the Land (Arctic) Spells;Druid: Circle of the Land (Coast) Spells;Druid: Circle of the Land (Forest) Spells;Druid: Circle of the Land (Grassland) Spells;Druid: Circle of the Land (Swamp) Spells;Paladin: Oath of Devotion Spells;Paladin: Oath of Glory Spells;Paladin: Oath of the Open Sea Spells;Sorcerer: Clockwork Soul Spells;Abjuration;4th Level Spells,4th,,Freedom of Movement,2400
+Spells,Conjuration,Spells;Warlock Spells;Wizard Spells;Conjuration;4th Level Spells,4th,,Galder's Speedy Courier,2400
+Spells,Transmutation,Spells;Druid Spells;Transmutation;4th Level Spells,4th,,Giant Insect,2400
+Spells,Conjuration,Spells;Druid Spells;Ranger Spells;Cleric: Nature Domain Spells;Conjuration;4th Level Spells,4th,,Grasping Vine,2400
+Spells,Evocation;Dunamancy,Spells;Wizard: Graviturgy Magic Spells;Evocation;Dunamancy;4th Level Spells,4th,,Gravity Sinkhole,2400
+Spells,Illusion,Spells;Bard Spells;Sorcerer Spells;Wizard Spells;Artificer: Armorer Spells;Cleric: Twilight Domain Spells;Druid: Circle of the Land (Underdark) Spells;Ranger: Gloom Stalker Spells;Warlock: The Archfey Spells;Warlock: The Genie (Djinni) Spells;Illusion;4th Level Spells,4th,,Greater Invisibility,2400
+Spells,Conjuration,Spells;Cleric Spells;Cleric: Life Domain Spells;Paladin: Oath of Devotion Spells;Paladin: Oath of the Crown Spells;Warlock: The Celestial Spells;Conjuration;4th Level Spells,4th,,Guardian of Faith,2400
+Spells,Transmutation,Spells;Druid Spells;Ranger Spells;Transmutation;4th Level Spells,4th,,Guardian of Nature,2400
+Spells,Illusion,Spells;Bard Spells;Druid Spells;Warlock Spells;Wizard Spells;Bloodhunter: Order of the Profane Soul Spells;Druid: Circle of the Land (Desert) Spells;Illusion;4th Level Spells,4th,,Hallucinatory Terrain,2400
+Spells,Evocation,Spells;Druid Spells;Sorcerer Spells;Wizard Spells;Artificer: Artillerest Spells;Cleric: Tempest Domain Spells;Druid: Circle of the Land (Arctic) Spells;Paladin: Oath of the Ancients Spells;Evocation;4th Level Spells,4th,,Ice Storm,2400
+Spells,Conjuration,Spells;Artificer Spells;Wizard Spells;Cleric: Arcana Domain Spells;Conjuration;4th Level Spells,4th,,Leomund's Secret Chest,2400
+Spells,Divination,Spells;Bard Spells;Cleric Spells;Druid Spells;Paladin Spells;Ranger Spells;Wizard Spells;Cleric: Order Domain Spells;Druid: Circle of the Land (Swamp) Spells;Divination;4th Level Spells,4th,,Locate Creature,2400
+Spells,Conjuration,Spells;Artificer Spells;Wizard Spells;Conjuration;4th Level Spells,4th,,Mordenkaiene's Faithful Hound,2400
+Spells,Abjuration,Spells;Artificer Spells;Wizard Spells;Abjuration;4th Level Spells,4th,,Mordenkaiene's Private Sanctum,2400
+Spells,Evocation,Spells;Artificer Spells;Wizard Spells;Cleric: Peace Domain Spells;Paladin: Oath of Redemption Spells;Evocation;4th Level Spells,4th,,Otiluke's Resilient Sphere,2400
+Spells,Illusion,Spells;Wizard Spells;Warlock: The Genie Spells;Warlock: The Hexblade Spells;Illusion;4th Level Spells,4th,,Phantasmal Killer,2400
+Spells,Transmutation,Spells;Bard Spells;Druid Spells;Sorcerer Spells;Wizard Spells;Cleric: Trickery Domain Spells;Transmutation;4th Level Spells,4th,,Polymorph,2400
+Spells,Abjuration,Spells;Wizard Spells;Abjuration;4th Level Spells,4th,,Private Sanctum,2400
+Spells,Evocation,Spells;Wizard Spells;Evocation;4th Level Spells,4th,,Resilient Sphere,2400
+Spells,Conjuration,Spells;Wizard Spells;Cleric: Arcana Domain Spells;Conjuration;4th Level Spells,4th,,Secret Chest,2400
+Spells,Necromancy,Spells;Warlock Spells;Bloodhunter: Order of the Profane Soul Spells;Necromancy;4th Level Spells,4th,,Shadow of Moil,2400
+Spells,Evocation,Spells;Sorcerer Spells;Warlock Spells;Wizard Spells;Bloodhunter: Order of the Profane Soul Spells;Evocation;4th Level Spells,4th,,Sickening Radiance,2400
+Spells,Evocation,Spells;Paladin Spells;Warlock: The Hexblade Spells;Evocation;4th Level Spells,4th,,Staggering Smite,2400
+Spells,Transmutation,Spells;Artificer Spells;Cleric Spells;Druid Spells;Wizard Spells;Druid: Circle of the Land (Mountain) Spells;Druid: Circle of the Land (Underdark) Spells;Warlock: The Genie (Dao) Spells;Transmutation;4th Level Spells,4th,,Stone Shape,2400
+Spells,Abjuration,Spells;Artificer Spells;Druid Spells;Ranger Spells;Sorcerer Spells;Wizard Spells;Cleric: War Domain Spells;Druid: Circle of the Land (Mountain) Spells;Paladin: Oath of Conquest Spells;Paladin: Oath of Redemption Spells;Paladin: Oath of the Ancients Spells;Abjuration;4th Level Spells,4th,,Stoneskin,2400
+Spells,Evocation,Spells;Sorcerer Spells;Wizard Spells;Evocation;4th Level Spells,4th,,Storm Sphere,2400
+Spells,Conjuration,Spells;Warlock Spells;Wizard Spells;Bloodhunter: Order of the Profane Soul Spells;Sorcerer: Aberrant Mind Spells;Conjuration;4th Level Spells,4th,,Summon Aberration,2400
+Spells,Conjuration,Spells;Artificer Spells;Wizard Spells;Sorcerer: Clockwork Soul Spells;Conjuration;4th Level Spells,4th,,Summon Construct,2400
+Spells,Conjuration,Spells;Druid Spells;Ranger Spells;Wizard Spells;Warlock: The Fathomless Spells;Conjuration;4th Level Spells,4th,,Summon Elemental,2400
+Spells,Conjuration,Spells;Warlock Spells;Wizard Spells;Bloodhunter: Order of the Profane Soul Spells;Conjuration;4th Level Spells,4th,,Summon Greater Demon,2400
+Spells,Evocation,Spells;Sorcerer Spells;Wizard Spells;Evocation;4th Level Spells,4th,,Vitriolic Sphere,2400
+Spells,Evocation,Spells;Druid Spells;Sorcerer Spells;Wizard Spells;Artificer: Artillerest Spells;Cleric: Forge Domain Spells;Cleric: Light Domain Spells;Warlock: The Celestial Spells;Warlock: The Fiend Spells;Evocation;4th Level Spells,4th,,Wall of Fire,2400
+Spells,Conjuration,Spells;Druid Spells;Sorcerer Spells;Wizard Spells;Conjuration;4th Level Spells,4th,,Watery Sphere,2400
+Spells,Transmutation,Spells;Artificer Spells;Bard Spells;Sorcerer Spells;Wizard Spells;Cleric: Forge Domain Spells;Transmutation;5th Level Spells,5th,,Animate Objects,4800
+Spells,Abjuration,Spells;Druid Spells;Cleric: Grave Domain Spells;Abjuration;5th Level Spells,5th,,Antilife Shell,4800
+Spells,Evocation,Spells;Wizard Spells;Evocation;5th Level Spells,5th,,Arcane Hand,4800
+Spells,Transmutation,Spells;Bard Spells;Druid Spells;Transmutation;5th Level Spells,5th,,Awaken,4800
+Spells,Abjuration,Spells;Paladin Spells;Artificer: Battle Smith Spells;Warlock: The Hexblade Spells;Abjuration;5th Level Spells,5th,,Banishing Smite,4800
+Spells,Evocation,Spells;Artificer Spells;Wizard Spells;Warlock: The Fathomless Spells;Evocation;5th Level Spells,5th,,Bigby's Hand,4800
+Spells,Abjuration,Spells;Paladin Spells;Cleric: Twilight Domain Spells;Paladin: Oath of the Crown Spells;Abjuration;5th Level Spells,5th,,Circle of Power,4800
+Spells,Conjuration,Spells;Sorcerer Spells;Wizard Spells;Artificer: Alchemist Spells;Cleric: Death Domain Spells;Druid: Circle of Spores Spells;Druid: Circle of the Land (Underdark) Spells;Paladin: Oath of Conquest Spells;Conjuration;5th Level Spells,5th,,Cloudkill,4800
+Spells,Divination,Spells;Cleric Spells;Cleric: Order Domain Spells;Paladin: Oath of Devotion Spells;Paladin: Oath of Glory Spells;Divination;Ritual Spells;5th Level Spells,5th,,Commune,4800
+Spells,Divination,Spells;Druid Spells;Ranger Spells;Barbarian: Path of the Totem Warrior Spells;Druid: Circle of the Land (Arctic) Spells;Druid: Circle of the Land (Forest) Spells;Paladin: Oath of the Ancients SpellsPaladin: Oath of the Open Sea Spells;Divination;Ritual Spells;5th Level Spells,5th,,Commune with Nature,4800
+Spells,Evocation,Spells;Sorcerer Spells;Wizard Spells;Artificer: Artillerest Spells;Druid: Circle of the Land (Arctic) Spells;Warlock: The Fathomless Spells;Warlock: The Genie (Marid) Spells;Warlock: The Hexblade Spells;Evocation;5th Level Spells,5th,,Cone of Cold,4800
+Spells,Conjuration,Spells;Druid Spells;Wizard Spells;Druid: Circle of the Land (Coast) Spells;Conjuration;5th Level Spells,5th,,Conjure Elemental,4800
+Spells,Conjuration,Spells;Ranger Spells;Conjuration;5th Level Spells,5th,,Conjure Volley,4800
+Spells,Divination,Spells;Warlock Spells;Wizard Spells;Divination;Ritual Spells;5th Level Spells,5th,,Contact Other Plane,4800
+Spells,Necromancy,Spells;Cleric Spells;Druid Spells;Druid: Circle of Spores Spells;Paladin: Oathbreaker Spells;Warlock: The Undying Spells;Necromancy;5th Level Spells,5th,,Contagion,4800
+Spells,Transmutation,Spells;Druid Spells;Sorcerer Spells;Wizard Spells;Transmutation;5th Level Spells,5th,,Control Winds,4800
+Spells,Illusion,Spells;Artificer Spells;Sorcerer Spells;Wizard Spells;Cleric: Forge Domain Spells;Warlock: The Genie Spells;Illusion;5th Level Spells,5th,,Creation,4800
+Spells,Necromancy,Spells;Warlock Spells;Wizard Spells;Necromancy;5th Level Spells,5th,,Danse Macabre,4800
+Spells,Evocation,Spells;Cleric Spells;Wizard Spells;Evocation;5th Level Spells,5th,,Dawn,4800
+Spells,Evocation,Spells;Paladin Spells;Cleric: Tempest Domain Spells;Evocation;5th Level Spells,5th,,Destructive Wave,4800
+Spells,Abjuration,Spells;Cleric Spells;Paladin Spells;Abjuration;5th Level Spells,5th,,Dispel Evil and Good,4800
+Spells,Enchantment,Spells;Bard Spells;Sorcerer Spells;Wizard Spells;Cleric: Order Domain Spells;Cleric: Trickery Domain Spells;Paladin: Oath of Conquest Spells;Paladin: Oathbreaker Spells;Warlock: The Archfey Spells;Warlock: The Great Old One Spells;Enchantment;5th Level Spells,5th,,Dominate Person,4800
+Spells,Illusion,Spells;Bard Spells;Warlock Spells;Wizard Spells;Druid: Circle of the Land (Grassland) Spells;Illusion;5th Level Spells,5th,,Dream,4800
+Spells,Necromancy,Spells;Sorcerer Spells;Warlock Spells;Wizard Spells;Necromancy;5th Level Spells,5th,,Enervation,4800
+Spells,Conjuration,Spells;Sorcerer Spells;Warlock Spells;Wizard Spells;Conjuration;5th Level Spells,5th,,Far Step,4800
+Spells,Evocation,Spells;Cleric Spells;Cleric: Light Domain Spells;Cleric: War Domain Spells;Druid: Circle of Wildfire Spells;Paladin: Oath of Devotion Spells;Paladin: Oath of Glory Spells;Warlock: The Celestial Spells;Warlock: The Fiend Spells;Warlock: The Genie (Efreeti) Spells;Evocation;5th Level Spells,5th,,Flame Strike,4800
+Spells,Enchantment,Spells;Bard Spells;Cleric Spells;Druid Spells;Paladin Spells;Wizard Spells;Paladin: Oath of the Crown Spells;Enchantment;5th Level Spells,5th,,Geas,4800
+Spells,Abjuration,Spells;Artificer Spells;Bard Spells;Cleric Spells;Druid Spells;Cleric: Peace Domain Spells;Sorcerer: Clockwork Soul Spells;Warlock: The Celestial Spells;Abjuration;5th Level Spells,5th,,Greater Restoration,4800
+Spells,Evocation,Spells;Cleric Spells;Warlock: The Fiend Spells;Evocation;5th Level Spells,5th,,Hallow,4800
+Spells,Enchantment,Spells;Bard Spells;Sorcerer Spells;Warlock Spells;Wizard Spells;Cleric: War Domain Spells;Paladin: Oath of Redemption Spells;Paladin: Oath of the Watchers Spells;Paladin: Oath of Vengeance Spells;Ranger: Monster Slayer Spells;Enchantment;5th Level Spells,5th,,Hold Monster,4800
+Spells,Evocation,Spells;Cleric Spells;Paladin Spells;Evocation;5th Level Spells,5th,,Holy Weapon,4800
+Spells,Evocation,Spells;Sorcerer Spells;Wizard Spells;Evocation;5th Level Spells,5th,,Immolation,4800
+Spells,Conjuration,Spells;Warlock Spells;Wizard Spells;Conjuration;5th Level Spells,5th,,Infernal Calling,4800
+Spells,Conjuration,Spells;Cleric Spells;Druid Spells;Sorcerer Spells;Cleric: Nature Domain Spells;Cleric: Tempest Domain Spells;Druid: Circle of the Land (Desert) Spells;Druid: Circle of the Land (Grassland) Spells;Druid: Circle of the Land (Swamp) Spells;Druid: Circle of the Land (Underdark) Spells;Ranger: Swarmkeeper Spells;Conjuration;5th Level Spells,5th,,Insect Plague,4800
+Spells,Divination,Spells;Bard Spells;Cleric Spells;Wizard Spells;Cleric: Knowledge Domain Spells;Warlock: The Undying Spells;Divination;5th Level Spells,5th,,Legend Lore,4800
+Spells,Evocation,Spells;Druid Spells;Paladin: Oath of the Open Sea Spells;Evocation;5th Level Spells,5th,,Maelstrom,4800
+Spells,Evocation,Spells;Bard Spells;Cleric Spells;Druid Spells;Artificer: Battle Smith Spells;Cleric: Life Domain Spells;Druid: Circle of Wildfire Spells;Evocation;5th Level Spells,5th,,Mass Cure Wounds,4800
+Spells,Illusion,Spells;Bard Spells;Wizard Spells;Cleric: Twilight Domain Spells;Ranger: Fey Wanderer Spells;Illusion;5th Level Spells,5th,,Mislead,4800
+Spells,Enchantment,Spells;Bard Spells;Wizard Spells;Cleric: Trickery Domain Spells;Enchantment;5th Level Spells,5th,,Modify Memory,4800
+Spells,Necromancy,Spells;Warlock Spells;Wizard Spells;Necromancy;5th Level Spells,5th,,Negative Energy Flood,4800
+Spells,Transmutation,Spells;Wizard Spells;Artificer: Armorer Spells;Druid: Circle of the Land (Mountain) Spells;Transmutation;5th Level Spells,5th,,Passwall,4800
+Spells,Abjuration,Spells;Bard Spells;Cleric Spells;Druid Spells;Wizard Spells;Cleric: Arcana Domain Spells;Abjuration;5th Level Spells,5th,,Planar Binding,4800
+Spells,Necromancy,Spells;Bard Spells;Cleric Spells;Paladin Spells;Artificer: Alchemist Spells;Cleric: Grave Domain Spells;Cleric: Life Domain Spells;Necromancy;5th Level Spells,5th,,Raise Dead,4800
+Spells,Divination,Spells;Wizard Spells;Cleric: Peace Domain Spells;Sorcerer: Aberrant Mind Spells;Divination;Ritual Spells;5th Level Spells,5th,,Rary's Telepathic Bond,4800
+Spells,Transmutation,Spells;Druid Spells;Transmutation;5th Level Spells,5th,,Reincarnate,4800
+Spells,Divination,Spells;Bard Spells;Cleric Spells;Druid Spells;Warlock Spells;Wizard Spells;Cleric: Knowledge Domain Spells;Cleric: Light Domain Spells;Druid: Circle of the Land (Coast) Spells;Druid: Circle of the Land (Swamp) Spells;Paladin: Oath of the Watchers Spells;Paladin: Oath of Vengeance Spells;Divination;5th Level Spells,5th,,Scrying,4800
+Spells,Illusion,Spells;Bard Spells;Sorcerer Spells;Wizard Spells;Ranger: Gloom Stalker Spells;Warlock: The Archfey Spells;Warlock: The Genie (Djinni) Spells;Illusion;5th Level Spells,5th,,Seeming,4800
+Spells,Transmutation,Spells;Artificer Spells;Bard Spells;Sorcerer Spells;Wizard Spells;Transmutation;5th Level Spells,5th,,Skill Empowerment,4800
+Spells,Conjuration,Spells;Ranger Spells;Wizard Spells;Conjuration;5th Level Spells,5th,,Steel Wind Strike,4800
+Spells,Conjuration,Spells;Cleric Spells;Paladin Spells;Conjuration;5th Level Spells,5th,,Summon Celestial,4800
+Spells,Transmutation,Spells;Ranger Spells;Transmutation;5th Level Spells,5th,,Swift Quiver,4800
+Spells,Enchantment,Spells;Bard Spells;Sorcerer Spells;Warlock Spells;Wizard Spells;Enchantment;5th Level Spells,5th,,Synaptic Static,4800
+Spells,Transmutation,Spells;Sorcerer Spells;Wizard Spells;Sorcerer: Aberrant Mind Spells;Warlock: The Great Old One Spells;Transmutation;5th Level Spells,5th,,Telekinesis,4800
+Spells,Divination,Spells;Wizard Spells;Divination;Ritual Spells;5th Level Spells,5th,,Telepathic Bond,4800
+Spells,Conjuration,Spells;Bard Spells;Sorcerer Spells;Wizard Spells;Cleric: Arcana Domain Spells;Ranger: Horizon Walker Spells;Conjuration;5th Level Spells,5th,,Teleportation Circle,4800
+Spells,Transmutation;Dunamancy,Spells;Wizard: Chronurgy Magic Spells;Transmutation;Dunamancy;5th Level Spells,5th,,Temporal Shunt,4800
+Spells,Transmutation,Spells;Artificer Spells;Druid Spells;Wizard Spells;Transmutation;5th Level Spells,5th,,Transmute Rock,4800
+Spells,Conjuration,Spells;Druid Spells;Ranger Spells;Cleric: Nature Domain Spells;Druid: Circle of the Land (Forest) Spells;Paladin: Oath of the Ancients Spells;Conjuration;5th Level Spells,5th,,Tree Stride,4800
+Spells,Evocation,Spells;Wizard Spells;Artificer: Armorer Spells;Artificer: Artillerest Spells;Paladin: Oath of Redemption Spells;Sorcerer: Clockwork Soul Spells;Evocation;5th Level Spells,5th,,Wall of Force,4800
+Spells,Evocation,Spells;Sorcerer Spells;Warlock Spells;Wizard Spells;Evocation;5th Level Spells,5th,,Wall of Light,4800
+Spells,Evocation,Spells;Artificer Spells;Druid Spells;Sorcerer Spells;Wizard Spells;Druid: Circle of the Land (Desert) Spells;Druid: Circle of the Land (Mountain) Spells;Warlock: The Genie (Dao) Spells;Evocation;5th Level Spells,5th,,Wall of Stone,4800
+Spells,Evocation,Spells;Druid Spells;Ranger Spells;Evocation;5th Level Spells,5th,,Wrath of Nature,4800
+Spells,Conjuration,Spells;Sorcerer Spells;Warlock Spells;Wizard Spells;Conjuration;6th Level Spells,6th,,Arcane Gate,9600
+Spells,Evocation,Spells;Cleric Spells;Evocation;6th Level Spells,6th,,Blade Barrier,9600
+Spells,Transmutation,Spells;Druid Spells;Transmutation;6th Level Spells,6th,,Bones of the Earth,9600
+Spells,Evocation,Spells;Sorcerer Spells;Wizard Spells;Evocation;6th Level Spells,6th,,Chain Lightning,9600
+Spells,Necromancy,Spells;Sorcerer Spells;Warlock Spells;Wizard Spells;Necromancy;6th Level Spells,6th,,Circle of Death,9600
+Spells,Conjuration,Spells;Druid Spells;Warlock Spells;Conjuration;6th Level Spells,6th,,Conjure Fey,9600
+Spells,Evocation,Spells;Wizard Spells;Evocation;6th Level Spells,6th,,Contingency,9600
+Spells,Transmutation,Spells;Wizard Spells;Transmutation;6th Level Spells,6th,,Create Homunculus,9600
+Spells,Necromancy,Spells;Cleric Spells;Warlock Spells;Wizard Spells;Necromancy;6th Level Spells,6th,,Create Undead,9600
+Spells,Transmutation,Spells;Sorcerer Spells;Wizard Spells;Transmutation;6th Level Spells,6th,,Disintegrate,9600
+Spells,Conjuration,Spells;Wizard Spells;Conjuration;Ritual Spells;6th Level Spells,6th,,Drawmij's Instant Summons,9600
+Spells,Abjuration,Spells;Druid Spells;Abjuration;6th Level Spells,6th,,Druid Grove,9600
+Spells,Necromancy,Spells;Bard Spells;Sorcerer Spells;Warlock Spells;Wizard Spells;Necromancy;6th Level Spells,6th,,Eyebite,9600
+Spells,Divination,Spells;Bard Spells;Cleric Spells;Druid Spells;Divination;6th Level Spells,6th,,Find the Path,9600
+Spells,Transmutation,Spells;Warlock Spells;Wizard Spells;Transmutation;6th Level Spells,6th,,Flesh to Stone,9600
+Spells,Abjuration,Spells;Cleric Spells;Abjuration;Ritual Spells;6th Level Spells,6th,,Forbiddance,9600
+Spells,Evocation,Spells;Wizard Spells;Evocation;6th Level Spells,6th,,Freezing Sphere,9600
+Spells,Abjuration,Spells;Sorcerer Spells;Wizard Spells;Abjuration;6th Level Spells,6th,,Globe of Invulnerability,9600
+Spells,Evocation;Dunamancy,Spells;Wizard: Graviturgy Magic Spells;Evocation;Dunamancy;6th Level Spells,6th,,Gravity Fissure,9600
+Spells,Abjuration,Spells;Bard Spells;Wizard Spells;Abjuration;6th Level Spells,6th,,Guards and Wards,9600
+Spells,Necromancy,Spells;Cleric Spells;Necromancy;6th Level Spells,6th,,Harm,9600
+Spells,Evocation,Spells;Cleric Spells;Druid Spells;Evocation;6th Level Spells,6th,,Heal,9600
+Spells,Conjuration,Spells;Cleric Spells;Druid Spells;Conjuration;6th Level Spells,6th,,Heroes' Feast,9600
+Spells,Conjuration,Spells;Wizard Spells;Conjuration;Ritual Spells;6th Level Spells,6th,,Instant Summons,9600
+Spells,Transmutation,Spells;Druid Spells;Sorcerer Spells;Warlock Spells;Wizard Spells;Transmutation;6th Level Spells,6th,,Investiture of Flame,9600
+Spells,Transmutation,Spells;Druid Spells;Sorcerer Spells;Warlock Spells;Wizard Spells;Transmutation;6th Level Spells,6th,,Investiture of Ice,9600
+Spells,Transmutation,Spells;Druid Spells;Sorcerer Spells;Warlock Spells;Wizard Spells;Transmutation;6th Level Spells,6th,,Investiture of Stone,9600
+Spells,Transmutation,Spells;Druid Spells;Sorcerer Spells;Warlock Spells;Wizard Spells;Transmutation;6th Level Spells,6th,,Investiture of Wind,9600
+Spells,Necromancy,Spells;Wizard Spells;Necromancy;6th Level Spells,6th,,Magic Jar,9600
+Spells,Enchantment,Spells;Bard Spells;Sorcerer Spells;Warlock Spells;Wizard Spells;Enchantment;6th Level Spells,6th,,Mass Suggestion,9600
+Spells,Illusion,Spells;Sorcerer Spells;Warlock Spells;Wizard Spells;Illusion;6th Level Spells,6th,,Mental Prison,9600
+Spells,Transmutation,Spells;Druid Spells;Sorcerer Spells;Wizard Spells;Transmutation;6th Level Spells,6th,,Move Earth,9600
+Spells,Evocation,Spells;Wizard Spells;Evocation;6th Level Spells,6th,,Otiluke's Freezing Sphere,9600
+Spells,Enchantment,Spells;Bard Spells;Wizard Spells;Enchantment;6th Level Spells,6th,,Otto's Irresistable Dance,9600
+Spells,Conjuration,Spells;Cleric Spells;Conjuration;6th Level Spells,6th,,Planar Ally,9600
+Spells,Abjuration,Spells;Druid Spells;Abjuration;6th Level Spells,6th,,Primordial Ward,9600
+Spells,Illusion,Spells;Bard Spells;Wizard Spells;Illusion;6th Level Spells,6th,,Programmed Illusion,9600
+Spells,Conjuration,Spells;Sorcerer Spells;Warlock Spells;Wizard Spells;Conjuration;6th Level Spells,6th,,Scatter,9600
+Spells,Necromancy,Spells;Warlock Spells;Wizard Spells;Necromancy;6th Level Spells,6th,,Soul Cage,9600
+Spells,Conjuration,Spells;Warlock Spells;Wizard Spells;Conjuration;6th Level Spells,6th,,Summon Fiend,9600
+Spells,Evocation,Spells;Druid Spells;Sorcerer Spells;Wizard Spells;Evocation;6th Level Spells,6th,,Sunbeam,9600
+Spells,Transmutation,Spells;Sorcerer Spells;Warlock Spells;Wizard Spells;Transmutation;6th Level Spells,6th,,Tasha's Otherworldly Guise,9600
+Spells,Transmutation,Spells;Wizard Spells;Transmutation;6th Level Spells,6th,,Tenser's Transformation,9600
+Spells,Conjuration,Spells;Druid Spells;Conjuration;6th Level Spells,6th,,Transport via Plants,9600
+Spells,Divination,Spells;Bard Spells;Cleric Spells;Sorcerer Spells;Warlock Spells;Wizard Spells;Divination;6th Level Spells,6th,,True Seeing,9600
+Spells,Evocation,Spells;Wizard Spells;Evocation;6th Level Spells,6th,,Wall of Ice,9600
+Spells,Conjuration,Spells;Druid Spells;Conjuration;6th Level Spells,6th,,Wall of Thorns,9600
+Spells,Transmutation,Spells;Druid Spells;Transmutation;6th Level Spells,6th,,Wind Walk,9600
+Spells,Conjuration,Spells;Cleric Spells;Conjuration;6th Level Spells,6th,,Word of Recall,9600
+Spells,Conjuration,Spells;Cleric Spells;Conjuration;7th Level Spells,7th,,Conjure Celestial,19200
+Spells,Transmutation,Spells;Wizard Spells;Transmutation;7th Level Spells,7th,,Create Magen,19200
+Spells,Evocation,Spells;Sorcerer Spells;Warlock Spells;Wizard Spells;Evocation;7th Level Spells,7th,,Crown of Stars,19200
+Spells,Evocation,Spells;Sorcerer Spells;Wizard Spells;Evocation;7th Level Spells,7th,,Delayed Blast Fireball,19200
+Spells,Evocation,Spells;Cleric Spells;Evocation;7th Level Spells,7th,,Divine Word,19200
+Spells,Conjuration,Spells;Bard Spells;Sorcerer Spells;Warlock Spells;Wizard Spells;Conjuration;7th Level Spells,7th,,Dream of the Blue Veil,19200
+Spells,Transmutation,Spells;Bard Spells;Cleric Spells;Sorcerer Spells;Warlock Spells;Wizard Spells;Transmutation;7th Level Spells,7th,,Etherealness,19200
+Spells,Necromancy,Spells;Sorcerer Spells;Warlock Spells;Wizard Spells;Necromancy;7th Level Spells,7th,,Finger of Death,19200
+Spells,Evocation,Spells;Cleric Spells;Druid Spells;Sorcerer Spells;Evocation;7th Level Spells,7th,,Fire Storm,19200
+Spells,Evocation,Spells;Bard Spells;Warlock Spells;Wizard Spells;Evocation;7th Level Spells,7th,,Forcecage,19200
+Spells,Conjuration,Spells;Bard Spells;Wizard Spells;Conjuration;7th Level Spells,7th,,Magificent Mansion,19200
+Spells,Illusion,Spells;Bard Spells;Druid Spells;Wizard Spells;Illusion;7th Level Spells,7th,,Mirage Arcane,19200
+Spells,Evocation,Spells;Bard Spells;Wizard Spells;Evocation;7th Level Spells,7th,,Mordenkainen's Magnificent Mansion,19200
+Spells,Conjuration,Spells;Bard Spells;Wizard Spells;Conjuration;7th Level Spells,7th,,Mordenkainen's Sword,19200
+Spells,Conjuration,Spells;Cleric Spells;Druid Spells;Sorcerer Spells;Warlock Spells;Wizard Spells;Conjuration;7th Level Spells,7th,,Plane Shift,19200
+Spells,Enchantment,Spells;Sorcerer Spells;Warlock Spells;Wizard Spells;Enchantment;7th Level Spells,7th,,Power Word Pain,19200
+Spells,Evocation,Spells;Sorcerer Spells;Wizard Spells;Evocation;7th Level Spells,7th,,Prismatic Spray,19200
+Spells,Illusion,Spells;Bard Spells;Wizard Spells;Illusion;7th Level Spells,7th,,Project Image,19200
+Spells,Transmutation,Spells;Bard Spells;Cleric Spells;Druid Spells;Transmutation;7th Level Spells,7th,,Regenerate,19200
+Spells,Necromancy,Spells;Bard Spells;Cleric Spells;Necromancy;7th Level Spells,7th,,Resurrection,19200
+Spells,Transmutation,Spells;Druid Spells;Sorcerer Spells;Wizard Spells;Transmutation;7th Level Spells,7th,,Reverse Gravity,19200
+Spells,Transmutation,Spells;Wizard Spells;Transmutation;7th Level Spells,7th,,Sequester,19200
+Spells,Illusion,Spells;Wizard Spells;Illusion;7th Level Spells,7th,,Simulacrum,19200
+Spells,Abjuration,Spells;Bard Spells;Cleric Spells;Wizard Spells;Abjuration;7th Level Spells,7th,,Symbol,19200
+Spells,Conjuration,Spells;Bard Spells;Sorcerer Spells;Wizard Spells;Conjuration;7th Level Spells,7th,,Teleport,19200
+Spells,Conjuration,Spells;Cleric Spells;Conjuration;7th Level Spells,7th,,Temple of the Gods,19200
+Spells,Necromancy;Dunamancy,Spells;Wizard: Chronurgy Magic Spells;Wizard: Graviturgy Magic Spells;Necromancy;Dunamancy;7th Level Spells,7th,,Tether Essence,19200
+Spells,Evocation,Spells;Druid Spells;Sorcerer Spells;Wizard Spells;Evocation;7th Level Spells,7th,,Whirlwind,19200
+Spells,Necromancy,Spells;Sorcerer Spells;Wizard Spells;Necromancy;8th Level Spells,8th,,Abi-Dalzim's Horrid Wilting,38400
+Spells,Transmutation,Spells;Druid Spells;Transmutation;8th Level Spells,8th,,Animal Shapes,38400
+Spells,Abjuration,Spells;Cleric Spells;Wizard Spells;Abjuration;8th Level Spells,8th,,Antimagic Field,38400
+Spells,Enchantment,Spells;Druid Spells;Wizard Spells;Enchantment;8th Level Spells,8th,,Antipathy/ Sympathy,38400
+Spells,Necromancy,Spells;Wizard Spells;Necromancy;8th Level Spells,8th,,Clone,38400
+Spells,Transmutation,Spells;Cleric Spells;Druid Spells;Wizard Spells;Transmutation;8th Level Spells,8th,,Control Weather,38400
+Spells,Evocation;Dunamancy,Spells;Wizard: Graviturgy Magic Spells;Evocation;Dunamancy;8th Level Spells,8th,,Dark Star,38400
+Spells,Conjuration,Spells;Warlock Spells;Wizard Spells;Conjuration;8th Level Spells,8th,,Demiplane,38400
+Spells,Enchantment,Spells;Bard Spells;Sorcerer Spells;Warlock Spells;Wizard Spells;Enchantment;8th Level Spells,8th,,Dominate Monster,38400
+Spells,Evocation,Spells;Cleric Spells;Druid Spells;Sorcerer Spells;Evocation;8th Level Spells,8th,,Earthquake,38400
+Spells,Enchantment,Spells;Bard Spells;Druid Spells;Warlock Spells;Wizard Spells;Enchantment;8th Level Spells,8th,,Feeblemind,38400
+Spells,Transmutation,Spells;Bard Spells;Warlock Spells;Transmutation;8th Level Spells,8th,,Glibness,38400
+Spells,Abjuration,Spells;Cleric Spells;Abjuration;8th Level Spells,8th,,Holy Aura,38400
+Spells,Illusion,Spells;Wizard Spells;Illusion;8th Level Spells,8th,,Illusory Dragon,38400
+Spells,Conjuration,Spells;Sorcerer Spells;Wizard Spells;Conjuration;8th Level Spells,8th,,Incendiary Cloud,38400
+Spells,Evocation,Spells;Warlock Spells;Evocation;8th Level Spells,8th,,Maddening Darkness,38400
+Spells,Conjuration,Spells;Wizard Spells;Conjuration;8th Level Spells,8th,,Maze,38400
+Spells,Conjuration,Spells;Wizard Spells;Conjuration;8th Level Spells,8th,,Mighty Fortress,38400
+Spells,Abjuration,Spells;Bard Spells;Wizard Spells;Abjuration;8th Level Spells,8th,,Mind Blank,38400
+Spells,Enchantment,Spells;Bard Spells;Sorcerer Spells;Warlock Spells;Wizard Spells;Enchantment;8th Level Spells,8th,,Power Word Stun,38400
+Spells,Conjuration;Dunamancy,Spells;Wizard: Chronurgy Magic Spells;Conjuration;Dunamancy;8th Level Spells,8th,,Reality Break,38400
+Spells,Evocation,Spells;Druid Spells;Sorcerer Spells;Wizard Spells;Evocation;8th Level Spells,8th,,Sunburst,38400
+Spells,Evocation,Spells;Wizard Spells;Evocation;8th Level Spells,8th,,Telepathy,38400
+Spells,Conjuration,Spells;Druid Spells;Conjuration;8th Level Spells,8th,,Tsunami,38400
+Spells,Necromancy,Spells;Cleric Spells;Warlock Spells;Wizard Spells;Necromancy;9th Level Spells,9th,,Astral Projection,100000
+Spells,Conjuration,Spells;Sorcerer Spells;Warlock Spells;Wizard Spells;Conjuration;9th Level Spells,9th,,Blade of Disaster,100000
+Spells,Divination,Spells;Bard Spells;Druid Spells;Warlock Spells;Wizard Spells;Divination;9th Level Spells,9th,,Foresight,100000
+Spells,Conjuration,Spells;Cleric Spells;Sorcerer Spells;Wizard Spells;Conjuration;9th Level Spells,9th,,Gate,100000
+Spells,Abjuration,Spells;Warlock Spells;Wizard Spells;Abjuration;9th Level Spells,9th,,Imprisonment,100000
+Spells,Abjuration,Spells;Wizard Spells;Abjuration;9th Level Spells,9th,,Invulnerability,100000
+Spells,Evocation,Spells;Cleric Spells;Evocation;9th Level Spells,9th,,Mass Heal,100000
+Spells,Transmutation,Spells;Bard Spells;Sorcerer Spells;Wizard Spells;Transmutation;9th Level Spells,9th,,Mass Polymorph,100000
+Spells,Evocation,Spells;Sorcerer Spells;Wizard Spells;Evocation;9th Level Spells,9th,,Meteor Swarm,100000
+Spells,Evocation,Spells;Bard Spells;Evocation;9th Level Spells,9th,,Power Word Heal,100000
+Spells,Enchantment,Spells;Bard Spells;Sorcerer Spells;Warlock Spells;Wizard Spells;Enchantment;9th Level Spells,9th,,Power Word Kill,100000
+Spells,Abjuration,Spells;Wizard Spells;Abjuration;9th Level Spells,9th,,Prismatic Wall,100000
+Spells,Enchantment,Spells;Bard Spells;Sorcerer Spells;Warlock Spells;Wizard Spells;Enchantment;9th Level Spells,9th,,Psychic Scream,100000
+Spells,Evocation;Dunamancy,Spells;Wizard: Graviturgy Magic Spells;Evocation;Dunamancy;9th Level Spells,9th,,Ravenous Void,100000
+Spells,Transmutation,Spells;Druid Spells;Wizard Spells;Transmutation;9th Level Spells,9th,,Shapechange,100000
+Spells,Conjuration,Spells;Druid Spells;Conjuration;9th Level Spells,9th,,Storm of Vengeance,100000
+Spells,Necromancy;Dunamancy,Spells;Wizard: Chronurgy Magic Spells;Necromancy;Dunamancy;9th Level Spells,9th,,Time Ravage,100000
+Spells,Transmutation,Spells;Sorcerer Spells;Wizard Spells;Transmutation;9th Level Spells,9th,,Time Stop,100000
+Spells,Transmutation,Spells;Bard Spells;Warlock Spells;Wizard Spells;Transmutation;9th Level Spells,9th,,True Polymorph,100000
+Spells,Necromancy,Spells;Cleric Spells;Druid Spells;Necromancy;9th Level Spells,9th,,True Resurrection,100000
+Spells,Illusion,Spells;Wizard Spells;Illusion;9th Level Spells,9th,,Weird,100000
+Spells,Conjuration,Spells;Sorcerer Spells;Wizard Spells;Warlock: The Genie Spells;Conjuration;9th Level Spells,9th,,Wish,100000
+Material Components,,Material Components,,,Adder's stomach,8
+Material Components,,Material Components,,,Agate,1000
+Material Components,,Material Components,,,Agate,10
+Material Components,,Material Components,,,Alum soaked in vinegar,0.05
+Material Components,,Material Components,,,"Amber, Glass, or Crystal Rod",20
+Material Components,,Material Components,,,Artistic Representation of Caster,5
+Material Components,,Material Components,,,Ash,0.05
+Material Components,,Material Components,,,Ashes of Mistletoe and Spruce,0.5
+Material Components,,Material Components,,,Bell (tiny),1
+Material Components,,Material Components,,,Bitumen (a drop),0.05
+Material Components,,Material Components,,,Black Onyx Stone,150
+Material Components,,Material Components,,,Black Pearl (as crushed powder),500
+Material Components,,Material Components,,,Black Silk Square,2
+Material Components,,Material Components,,,Blood (a vial),50
+Material Components,,Material Components,,,Bone,0.02
+Material Components,,Material Components,,,Bone dust,0.1
+Material Components,,Material Components,,,Brimstone,0.1
+Material Components,,Material Components,,,Bull Hairs,0.5
+Material Components,,Material Components,,,Butter,0.2
+Material Components,,Material Components,,,Caterpillar Cocoon,5
+Material Components,,Material Components,,,Chalks and Inks infused with precious gems,50
+Material Components,,Material Components,,,"Charcoal, Incense, and Herb mixture",10
+Material Components,,Material Components,,,Chrysolite powder,50
+Material Components,,Material Components,,,Clay,0.1
+Material Components,,Material Components,,,Clay Model of a Ziggurat,5
+Material Components,,Material Components,,,Clay Pot of Brackish Water,1
+Material Components,,Material Components,,,Clay Pot of Grave Dirt,4
+Material Components,,Material Components,,,"Cloak, miniature",1
+Material Components,,Material Components,,,Cloth wad,0.02
+Material Components,,Material Components,,,"Cloth, Tiny white strip",0.02
+Material Components,,Material Components,,,Coal,1
+Material Components,,Material Components,,,"Colored Sand (red, yellow, and blue)",10
+Material Components,,Material Components,,,Copper Wire per foot,0.1
+Material Components,,Material Components,,,Cork,0.02
+Material Components,,Material Components,,,"Corn, powdered",0.05
+Material Components,,Material Components,,,Cricket,0.05
+Material Components,,Material Components,,,Crystal Bead,0.5
+Material Components,,Material Components,,,Crystal Hemisphere,120
+Material Components,,Material Components,,,Crystal or Glass Cone,25
+Material Components,,Material Components,,,"Crystal Sphere, small",20
+Material Components,,Material Components,,,Crystal Vial of phosphorescent material,20
+Material Components,,Material Components,,,Cured Leather,0.1
+Material Components,,Material Components,,,Diamond (.5 carat),50
+Material Components,,Material Components,,,Diamond (10 carat),1000
+Material Components,,Material Components,,,Diamond (5 carat),500
+Material Components,,Material Components,,,Diamond (50 carat),5000
+Material Components,,Material Components,,,Diamond (as dust),200
+Material Components,,Material Components,,,Diamond (as dust),100
+Material Components,,Material Components,,,Diamond (as dust),25
+Material Components,,Material Components,,,"Diamond and Opal, powdered mix",1000
+Material Components,,Material Components,,,Diamonds (Cut),25000
+Material Components,,Material Components,,,Diamonds (Uncut),300
+Material Components,,Material Components,,,Distilled Spirits,0.05
+Material Components,,Material Components,,,Divinatory Tools,100
+Material Components,,Material Components,,,Dried Carrot,0.05
+Material Components,,Material Components,,,Eggshell,0.3
+Material Components,,Material Components,,,Eggshells,5
+Material Components,,Material Components,,,"Exquisite Chest, 3' x 2' x 2', made of rare materials",5000
+Material Components,,Material Components,,,"Exquisite Chest, tiny replica",50
+Material Components,,Material Components,,,Eyelash in gum arabic,5
+Material Components,,Material Components,,,"Fan, tiny",0.5
+Material Components,,Material Components,,,Feather from any bird's wing,0.1
+Material Components,,Material Components,,,Feather of hummingbird,2
+Material Components,,Material Components,,,Feather of owl,0.5
+Material Components,,Material Components,,,"Feather, exotic",3
+Material Components,,Material Components,,,"Feather, white",0.1
+Material Components,,Material Components,,,Feldspar,0.1
+Material Components,,Material Components,,,Firefly,0.1
+Material Components,,Material Components,,,Fleece,0.05
+Material Components,,Material Components,,,Focus,1000
+Material Components,,Material Components,,,Food morsel,0.01
+Material Components,,Material Components,,,Forked Metal Rod,250
+Material Components,,Material Components,,,Forked Twig,0.1
+Material Components,,Material Components,,,Fur,0.3
+Material Components,,Material Components,,,Fur of Bat,2
+Material Components,,Material Components,,,Fur of Bloodhound,1
+Material Components,,Material Components,,,"Fur, Wrapped in Cloth",0.35
+Material Components,,Material Components,,,Gauze,0.1
+Material Components,,Material Components,,,Gem or other ornamental container,500
+Material Components,,Material Components,,,Gem-Encrusted Bowl,1000
+Material Components,,Material Components,,,"Gem, as powder",10
+Material Components,,Material Components,,,"Gems, as powder",5000
+Material Components,,Material Components,,,Giant Slug Bile,250
+Material Components,,Material Components,,,Glass Eye,100
+Material Components,,Material Components,,,Glass or Crystal Bead,0.1
+Material Components,,Material Components,,,Glowworm,1
+Material Components,,Material Components,,,Gold Dust,25
+Material Components,,Material Components,,,Golden Wire per foot,2
+Material Components,,Material Components,,,Granite,0.5
+Material Components,,Material Components,,,Grasshopper's Hind Leg,0.1
+Material Components,,Material Components,,,Graveyard Dirt (just a pinch),3
+Material Components,,Material Components,,,Green Plant,0.1
+Material Components,,Material Components,,,Guano per ounce,0.1
+Material Components,,Material Components,,,Gum Arabic,0.5
+Material Components,,Material Components,,,Gum Arabic Hemisphere,1
+Material Components,,Material Components,,,Hand Mirror,15
+Material Components,,Material Components,,,Hen's Heart,1
+Material Components,,Material Components,,,"Herbs, Oils, and Incense mixture",1000
+Material Components,,Material Components,,,Holly Berry,0.1
+Material Components,,Material Components,,,Holy Symbol,5
+Material Components,,Material Components,,,Holy Water,1
+Material Components,,Material Components,,,Honey drop per ounce,0.1
+Material Components,,Material Components,,,Honeycomb,1
+Material Components,,Material Components,,,Hot Pepper,0.1
+Material Components,,Material Components,,,Incense,100
+Material Components,,Material Components,,,Incense,400
+Material Components,,Material Components,,,Incense,200
+Material Components,,Material Components,,,Incense,120
+Material Components,,Material Components,,,Incense,60
+Material Components,,Material Components,,,Incense,250
+Material Components,,Material Components,,,Incense,150
+Material Components,,Material Components,,,Ink,5
+Material Components,,Material Components,,,"Ink, Lead-based",10
+Material Components,,Material Components,,,Iron,0.02
+Material Components,,Material Components,,,Iron Blade,2
+Material Components,,Material Components,,,Iron filings or powder,0.02
+Material Components,,Material Components,,,Ivory Portal (miniature),5
+Material Components,,Material Components,,,Ivory Strip x 4,200
+Material Components,,Material Components,,,Jacinth,1000
+Material Components,,Material Components,,,Jade Circlet,1500
+Material Components,,Material Components,,,Jade Dust,25
+Material Components,,Material Components,,,Jewel,1000
+Material Components,,Material Components,,,Jewel-Encrusted Dagger,1000
+Material Components,,Material Components,,,Jeweled Horn,100
+Material Components,,Material Components,,,Kernels of Grain per ounce,0.02
+Material Components,,Material Components,,,"Lead, a thin sheet",0.06
+Material Components,,Material Components,,,Leather Loop,0.5
+Material Components,,Material Components,,,"Leather strap, bound around arm or similar appendage",0.5
+Material Components,,Material Components,,,Legume Seed per ounce,0.1
+Material Components,,Material Components,,,Licorice Root Shaving per ounce,0.1
+Material Components,,Material Components,,,Lime per ounce,0.1
+Material Components,,Material Components,,,Lodestone,10
+Material Components,,Material Components,,,Magnifying Glass,100
+Material Components,,Material Components,,,Makeup,1
+Material Components,,Material Components,,,Mandrake Root,1
+Material Components,,Material Components,,,Marked Sticks or Bones,25
+Material Components,,Material Components,,,Melee Weapon,0.1
+Material Components,,Material Components,,,Mercury per ounce,5
+Material Components,,Material Components,,,Mistletoe,0.1
+Material Components,,Material Components,,,Mistletoe sprig,0.1
+Material Components,,Material Components,,,Molasses (a drop),0.1
+Material Components,,Material Components,,,Moonseeds,20
+Material Components,,Material Components,,,"Niter, Sulfur, and Pine Tar formed into a bead",50
+Material Components,,Material Components,,,Obsidian,4000
+Material Components,,Material Components,,,Oil per ounce,0.1
+Material Components,,Material Components,,,Oils and Unguents,1000
+Material Components,,Material Components,,,Ointment for the Eyes,25
+Material Components,,Material Components,,,Opaque Glass,0.5
+Material Components,,Material Components,,,Pearl,100
+Material Components,,Material Components,,,Petrified Eye of Newt,15
+Material Components,,Material Components,,,Phosphorescent Moss,1
+Material Components,,Material Components,,,Phosphorus,1
+Material Components,,Material Components,,,Pickled Octopus Tentacle,8
+Material Components,,Material Components,,,"Pitch, a drop",0.05
+Material Components,,Material Components,,,Platinum Ring x 2,100
+Material Components,,Material Components,,,"Platinum Sword, miniature, with grip and pommel of copper and zinc",250
+Material Components,,Material Components,,,Polished Marble Stone,5
+Material Components,,Material Components,,,Pork Rind or other fat,0.02
+Material Components,,Material Components,,,Prayer Wheel,10
+Material Components,,Material Components,,,Quartz,0.1
+Material Components,,Material Components,,,Quill plucked from a sleeping bird,50
+Material Components,,Material Components,,,"Quiver, with at least one piece of ammunition",1
+Material Components,,Material Components,,,Red Dragon's Scale,200
+Material Components,,Material Components,,,Reed,0.05
+Material Components,,Material Components,,,Reliquary containing a Sacred Relic,1000
+Material Components,,Material Components,,,"Rhubarb Leaf, powdered",1
+Material Components,,Material Components,,,"Rock Chip, white",0.1
+Material Components,,Material Components,,,"Rope, 25 feet",2
+Material Components,,Material Components,,,Rose petals per ounce,0.1
+Material Components,,Material Components,,,Ruby,999
+Material Components,,Material Components,,,Ruby (as dust),50
+Material Components,,Material Components,,,Ruby (as dust),1000
+Material Components,,Material Components,,,Ruby (as dust),1500
+Material Components,,Material Components,,,Sacrificial Offering appropriate to deity,25
+Material Components,,Material Components,,,Salt per ounce,0.1
+Material Components,,Material Components,,,Sand per ounce,0.05
+Material Components,,Material Components,,,Sapphire,1000
+Material Components,,Material Components,,,Sesame Seeds per ounce,1
+Material Components,,Material Components,,,Shamrock,1
+Material Components,,Material Components,,,Silk Square,2
+Material Components,,Material Components,,,"Silver and Iron, powdered mixture",5
+Material Components,,Material Components,,,"Silver and Iron, powdered mixture",100
+Material Components,,Material Components,,,"Silver and Iron, powdered mixture",5
+Material Components,,Material Components,,,"Silver Bar, ornately carved",100
+Material Components,,Material Components,,,"Silver Cage, Tiny",100
+Material Components,,Material Components,,,"Silver Mirror, small",5
+Material Components,,Material Components,,,Silver Pins (3),1
+Material Components,,Material Components,,,Silver powder,25
+Material Components,,Material Components,,,Silver powder,5
+Material Components,,Material Components,,,"Silver Rings, as a linked pair",1
+Material Components,,Material Components,,,Silver Rod,10
+Material Components,,Material Components,,,"Silver Spoon, tiny",5
+Material Components,,Material Components,,,Silver Whistle,5
+Material Components,,Material Components,,,Skunk Cabbage Leaves,0.1
+Material Components,,Material Components,,,Snakeskin glove,5
+Material Components,,Material Components,,,Snaketongue,1
+Material Components,,Material Components,,,Soil mixture in a small bag,0.05
+Material Components,,Material Components,,,"Spheres of glass, crystal, or mineral",2
+Material Components,,Material Components,,,Sponge,0.2
+Material Components,,Material Components,,,"Statue of the caster, carved from ivory and decorated with gems",1500
+Material Components,,Material Components,,,Stem of a Thorny Plant,0.05
+Material Components,,Material Components,,,Sugar per ounce,0.3
+Material Components,,Material Components,,,Sulfur,0.1
+Material Components,,Material Components,,,Sumac Leaf,1
+Material Components,,Material Components,,,Sunburst Pendant,100
+Material Components,,Material Components,,,Sunstone,20
+Material Components,,Material Components,,,"Sweet Oil, a drop",1
+Material Components,,Material Components,,,Talcum powder per pound,0.5
+Material Components,,Material Components,,,Tallow per pound,0.3
+Material Components,,Material Components,,,Tarts,0.15
+Material Components,,Material Components,,,Tentacle of giant octopus or giant squid,50
+Material Components,,Material Components,,,Thorns per dozen,0.1
+Material Components,,Material Components,,,Thread per spool,0.1
+Material Components,,Material Components,,,Twig from a tree that has been struck by lightning,25
+Material Components,,Material Components,,,Umber Hulk Blood,80
+Material Components,,Material Components,,,"Undead Eyeball, Encased in Gem",150
+Material Components,,Material Components,,,Unholy Water,1
+Material Components,,Material Components,,,Vessel to contain a Medium-sized creature,2000
+Material Components,,Material Components,,,Wire of fine silver per foot,1
+Material Components,,Material Components,,,Wychwood,5
+Material Components,,Material Components,,,Yew Leaf,1
+Trinkets,,Trinkets,,,A mummified goblin hand,
+Trinkets,,Trinkets,,,A piece of crystal that faintly glows in the moonlight,
+Trinkets,,Trinkets,,,A gold coin minted in an unknown land,
+Trinkets,,Trinkets,,,A diary written in a language you don’t know,
+Trinkets,,Trinkets,,,A brass ring that never tarnishes,
+Trinkets,,Trinkets,,,An old chess piece made from glass,
+Trinkets,,Trinkets,,,"A pair of knucklebone dice, each with a skull symbol on the side that would normally show six pips",
+Trinkets,,Trinkets,,,A small idol depicting a nightmarish creature that gives you unsettling dreams when you sleep near it,
+Trinkets,,Trinkets,,,A rope necklace from which dangles four mummified elf fingers,
+Trinkets,,Trinkets,,,The deed for a parcel of land in a realm unknown to you,
+Trinkets,,Trinkets,,,A 1-ounce block made from an unknown material,
+Trinkets,,Trinkets,,,A small cloth doll skewered with needles,
+Trinkets,,Trinkets,,,A tooth from an unknown beast,
+Trinkets,,Trinkets,,,"An enormous scale, perhaps from a dragon",
+Trinkets,,Trinkets,,,A bright green feather,
+Trinkets,,Trinkets,,,An old divination card bearing your likeness,
+Trinkets,,Trinkets,,,A glass orb filled with moving smoke,
+Trinkets,,Trinkets,,,A 1-pound egg with a bright red shell,
+Trinkets,,Trinkets,,,A pipe that blows bubbles,
+Trinkets,,Trinkets,,,A glass jar containing a weird bit of flesh floating in pickling fluid,
+Trinkets,,Trinkets,,,A tiny gnome-crafted music box that plays a song you dimly remember from your childhood,
+Trinkets,,Trinkets,,,A small wooden statuette of a smug halfling,
+Trinkets,,Trinkets,,,A brass orb etched with strange runes,
+Trinkets,,Trinkets,,,A multicolored stone disk,
+Trinkets,,Trinkets,,,A tiny silver icon of a raven,
+Trinkets,,Trinkets,,,"A bag containing forty-seven humanoid teeth, one of which is rotten",
+Trinkets,,Trinkets,,,A shard of obsidian that always feels warm to the touch,
+Trinkets,,Trinkets,,,A dragon's bony talon hanging from a plain leather necklace,
+Trinkets,,Trinkets,,,A pair of old socks,
+Trinkets,,Trinkets,,,"A blank book whose pages refuse to hold ink, chalk, graphite, or any other substance or marking",
+Trinkets,,Trinkets,,,A silver badge in the shape of a five-pointed star,
+Trinkets,,Trinkets,,,A knife that belonged to a relative,
+Trinkets,,Trinkets,,,A glass vial filled with nail clippings,
+Trinkets,,Trinkets,,,A rectangular metal device with two tiny metal cups on one end that throws sparks when wet,
+Trinkets,,Trinkets,,,"A white, sequined glove sized for a human",
+Trinkets,,Trinkets,,,A vest with one hundred tiny pockets,
+Trinkets,,Trinkets,,,"A small, weightless stone block",
+Trinkets,,Trinkets,,,A tiny sketch portrait of a goblin,
+Trinkets,,Trinkets,,,An empty glass vial that smells of perfume when opened,
+Trinkets,,Trinkets,,,A gemstone that looks like a lump of coal when examined by anyone but you,
+Trinkets,,Trinkets,,,A scrap of cloth from an old banner,
+Trinkets,,Trinkets,,,A rank insignia from a lost legionnaire,
+Trinkets,,Trinkets,,,A tiny silver bell without a clapper,
+Trinkets,,Trinkets,,,A mechanical canary inside a gnome-crafted lamp,
+Trinkets,,Trinkets,,,A tiny chest carved to look like it has numerous feet on the bottom,
+Trinkets,,Trinkets,,,A dead sprite inside a clear glass bottle,
+Trinkets,,Trinkets,,,"A metal can that has no opening but sounds as if it is filled with liquid, sand, spiders, or broken glass (your choice)",
+Trinkets,,Trinkets,,,"A glass orb filled with water, in which swims a clockwork goldfish",
+Trinkets,,Trinkets,,,A silver spoon with an M engraved on the handle,
+Trinkets,,Trinkets,,,A whistle made from gold-colored wood,
+Trinkets,,Trinkets,,,A dead scarab beetle the size of your hand,
+Trinkets,,Trinkets,,,"Two toy soldiers, one with a missing head",
+Trinkets,,Trinkets,,,A small box filled with different-sized buttons,
+Trinkets,,Trinkets,,,A candle that can’t be lit,
+Trinkets,,Trinkets,,,A tiny cage with no door,
+Trinkets,,Trinkets,,,An old key,
+Trinkets,,Trinkets,,,An indecipherable treasure map,
+Trinkets,,Trinkets,,,A hilt from a broken sword,
+Trinkets,,Trinkets,,,A rabbit’s foot,
+Trinkets,,Trinkets,,,A glass eye,
+Trinkets,,Trinkets,,,A cameo carved in the likeness of a hideous person,
+Trinkets,,Trinkets,,,A silver skull the size of a coin,
+Trinkets,,Trinkets,,,An alabaster mask,
+Trinkets,,Trinkets,,,A pyramid of sticky black incense that smells very bad,
+Trinkets,,Trinkets,,,"A nightcap that, when worn, gives you pleasant dreams",
+Trinkets,,Trinkets,,,A single caltrop made from bone,
+Trinkets,,Trinkets,,,A gold monocle frame without the lens,
+Trinkets,,Trinkets,,,"A 1-inch cube, each side painted a different color",
+Trinkets,,Trinkets,,,A crystal knob from a door,
+Trinkets,,Trinkets,,,A small packet filled with pink dust,
+Trinkets,,Trinkets,,,"A fragment of a beautiful song, written as musical notes on two pieces of parchment",
+Trinkets,,Trinkets,,,A silver teardrop earring made from a real teardrop,
+Trinkets,,Trinkets,,,The shell of an egg painted with scenes of human misery in disturbing detail,
+Trinkets,,Trinkets,,,"A fan that, when unfolded, shows a sleeping cat",
+Trinkets,,Trinkets,,,A set of bone pipes,
+Trinkets,,Trinkets,,,A four-leaf clover pressed inside a book discussing manners and etiquette,
+Trinkets,,Trinkets,,,A sheet of parchment upon which is drawn a complex mechanical contraption,
+Trinkets,,Trinkets,,,An ornate scabbard that fits no blade you have found so far,
+Trinkets,,Trinkets,,,An invitation to a party where a murder happened,
+Trinkets,,Trinkets,,,A bronze pentacle with an etching of a rat's head in its center,
+Trinkets,,Trinkets,,,A purple handkerchief embroidered with the name of a powerful archmage,
+Trinkets,,Trinkets,,,"Half of a floorplan for a temple, castle, or some other structure",
+Trinkets,,Trinkets,,,"A bit of folded cloth that, when unfolded, turns into a stylish cap",
+Trinkets,,Trinkets,,,A receipt of deposit at a bank in a far-flung city,
+Trinkets,,Trinkets,,,A diary with seven missing pages,
+Trinkets,,Trinkets,,,An empty silver snuffbox bearing an inscription on the surface that says “dreams”,
+Trinkets,,Trinkets,,,An iron holy symbol devoted to an unknown god,
+Trinkets,,Trinkets,,,"A book that tells the story of a legendary hero's rise and fall, with the last chapter missing",
+Trinkets,,Trinkets,,,A vial of dragon blood,
+Trinkets,,Trinkets,,,An ancient arrow of elven design,
+Trinkets,,Trinkets,,,A needle that never bends,
+Trinkets,,Trinkets,,,An ornate brooch of dwarven design,
+Trinkets,,Trinkets,,,"An empty wine bottle bearing a pretty label that says, “The Wizard of Wines Winery, Red Dragon Crush, 331422-W”",
+Trinkets,,Trinkets,,,"A mosaic tile with a multicolored, glazed surface",
+Trinkets,,Trinkets,,,A petrified mouse,
+Trinkets,,Trinkets,,,A black pirate flag adorned with a dragon's skull and crossbones,
+Trinkets,,Trinkets,,,A tiny mechanical crab or spider that moves about when it’s not being observed,
+Trinkets,,Trinkets,,,"A glass jar containing lard with a label that reads, “Griffon Grease”",
+Trinkets,,Trinkets,,,A wooden box with a ceramic bottom that holds a living worm with a head on each end of its body,
+Trinkets,,Trinkets,,,A metal urn containing the ashes of a hero,
+,Copper,Copper,,,78 CP,0.78
+,Silver,Silver,,,47 SP,4.7
+,Gold,Gold,,,99 GP,99
+,Platinum,Platinum,,,41 PP,410
+Feat,Magical,Utility; Defense; Attack; Healing; Movement,,,Aberrant Dragonmark,
+Feat,Physical,Utility,,,Actor,
+Feat,Physical,Defense; Utility,,,Alert,
+Feat,Magical,Utility; Defense; Attack; Healing; Movement,,,Artificer Initiate,
+Feat,Physical,Attack; Defense; Utility; Movement,,,Athlete,
+Feat,Magical,Utility; Attack,,,Bountiful Luck,
+Feat,Physical,Attack; Movement,,,Charger,
+Feat,Physical,Utlity; Healing,,,Chef,
+Feat,Physical,Attack,,,Crossbow Expert,
+Feat,Physical,Attack,,,Crusher,
+Feat,Physical,Defense,,,Defensive Duelist,
+Feat,Physical,Utility,,,Dragon Fear,
+Feat,Physical,Utility; Defense; Attack,,,Dragon Hide,
+Feat,Magical,Utility; Movement,,,Drow High Magic,
+Feat,Physical,Attack; Defense,,,Dual Wielder,
+Feat,Physical,Utility,,,Dungeon Delver,
+Feat,Physical,Utility; Healing,,,Durable,
+Feat,Physical,Utility; Defense; Healing,,,Dwarven Fortitude,
+Feat,Magical,Utility; Defense; Attack; Healing; Movement,,,Eldritch Adept,
+Feat,Magical,Attack,,,Elemental Adept,
+Feat,Physical,Utlity; Attack,,,Elven Accuracy,
+Feat,Magical; Physical,Utility; Defense; Movement,,,Fade Away ,
+Feat,Magical; Physical,Utility; Movement,,,Fey Teleportation,
+Feat,Magical,Utility; Defense; Attack; Healing; Movement,,,Fey Touched,
+Feat,Physical,Utility; Defense; Attack; Healing; Movement,,,Fighting Initiate,
+Feat,Physical,Attack,,,Firearm Specialist,
+Feat,Magical,Attack,,,Flames of Phlegethos,
+Feat,Physical,Attack,,,Grappler,
+Feat,Physical,Attack,,,Great Weapon Master,
+Feat,Physical,Attack,,,Gunner,
+Feat,Physical,Healing,,,Healer,
+Feat,Physical,Defense,,,Heavily Armored,
+Feat,Physical,Defense,,,Heavy Armor Master,
+Feat,Magical; Physical,Defense,,,Infernal Constitution,
+Feat,Physical,Utility; Healing,,,Inspiring Leader,
+Feat,Physical,Utility,,,Keen Mind,
+Feat,Physical,Defense,,,Lightly Armored,
+Feat,Physical,Utility,,,Linguist,
+Feat,Magical; Physical,Utility; Defense; Attack; Healing,,,Lucky,
+Feat,Physical,Attack; Defense,,,Mage Slayer,
+Feat,Magical,Utility; Defense; Attack; Healing; Movement,,,Magic Initiate,
+Feat,Physical,Utility; Attack; Defense; Movement,,,Martial Adept,
+Feat,Physical,Defense; Utility,,,Medium Armor Master,
+Feat,Magical,Utility; Defense; Attack; Healing; Movement,,,Metamagic Adept,
+Feat,Physical,Movement,,,Mobile,
+Feat,Physical,Defense; Utility,,,Moderately Armored,
+Feat,Physical,Defense; Utility,,,Mounted Combatant,
+Feat,Physical,Utility,,,Observant,
+Feat,Physical,Attack,,,Orcish Fury,
+Feat,Physical,Attack,,,Piercer,
+Feat,Physical,Utility; Attack,,,Poisoner,
+Feat,Physical,Attack,,,Polearm Master,
+Feat,Physical,Utility,,,Prodigy,
+Feat,Physical,Utility; Defense,,,Resilient,
+Feat,Physical,Attack; Defense,,,Revenant Blade,
+Feat,Magical,Attack,,,Ritual Caster,
+Feat,Physical,Attack,,,Savage Attacker,
+Feat,Physical,Defense,,,Second Chance,
+Feat,Physical,Attack,,,Sentinel,
+Feat,Magical,Utility; Defense; Attack; Healing; Movement,,,Shadow Touched,
+Feat,Physical,Attack,,,Sharpshooter,
+Feat,Physical,Attack; Defense,,,Shield Master,
+Feat,Physical,Utility,,,Skill Expert,
+Feat,Physical,Utility,,,Skilled,
+Feat,Physical,Utility,,,Skulker,
+Feat,Physical,Attack,,,Slasher,
+Feat,Magical,Attack; Healing; Utility,,,Spell Sniper,
+Feat,Physical,Attack; Defense; Movement,,,Squat Nimbleness,
+Feat,Magical,Utility; Defense,,,Svirfneblin Magic,
+Feat,Physical,Attack; Utility,,,Tavern Brawler,
+Feat,Magical,Utility,,,Telekinetic,
+Feat,Magical,Utility,,,Telepathic,
+Feat,Physical,Defense,,,Tough,
+Feat,Magical,Defense; Attack,,,War Caster,
+Feat,Physical,Attack; Defense,,,Weapon Master,
+Feat,Magical,Utility; Movement,,,Wood Elf Magic,
+Gems,,Gems,,,Alexandrite,500
+Gems,,Gems,,,Amber,100
+Gems,,Gems,,,Amethyst,100
+Gems,,Gems,,,Aquamarine,500
+Gems,,Gems;Dust,,,Aquamarine Dust,500
+Gems,,Gems,,,Azurite,10
+Gems,,Gems,,,Black Onyx Stone,150
+Gems,,Gems,,,Black Opal,1000
+Gems,,Gems,,,Black Pearl,500
+Gems,,Gems,,,Black Sapphire,5000
+Gems,,Gems;Dust,,,Black Sapphire Dust,5000
+Gems,,Gems,,,Bloodstone,50
+Gems,,Gems,,,Blue Quartz,10
+Gems,,Gems,,,Blue Sapphire,1000
+Gems,,Gems,,,Blue Spinel,500
+Gems,,Gems,,,Carnelian,50
+Gems,,Gems,,,Chalcedony,50
+Gems,,Gems,,,Chrysoberyl,100
+Gems,,Gems,,,Chrysoprase,50
+Gems,,Gems,,,Citrine,50
+Gems,,Gems,,,Coral,100
+Gems,,Gems,,,Crystal,10
+Gems,,Gems,,,Diamond,5000
+Gems,,Gems,,,Diamond (.5 carat),50
+Gems,,Gems,,,Diamond (10 carat),1000
+Gems,,Gems,,,Diamond (5 carat),500
+Gems,,Gems,,,Diamond (50 carat),5000
+Gems,,Gems;Dust,,,Diamond Dust,5000
+Gems,,Gems,,,Emerald,1000
+Gems,,Gems;Dust,,,Emerald Dust,1000
+Gems,,Gems,,,Eye Agate,10
+Gems,,Gems,,,Fire Opal,1000
+Gems,,Gems;Dust,,,Fire Opal Dust,1000
+Gems,,Gems,,,Garnet,100
+Gems,,Gems,,,Hematite,10
+Gems,,Gems,,,Jacinth,5000
+Gems,,Gems,,,Jade,100
+Gems,,Gems;Dust,,,Jade Dust,100
+Gems,,Gems,,,Jasper,50
+Gems,,Gems,,,Jet,100
+Gems,,Gems,,,Lapis Lazuli,10
+Gems,,Gems,,,Malachite,10
+Gems,,Gems,,,Moonstone,50
+Gems,,Gems,,,Moss Agate,10
+Gems,,Gems,,,Obsidian,10
+Gems,,Gems,,,Onyx,50
+Gems,,Gems,,,Opal,1000
+Gems,,Gems,,,Orb,20
+Gems,,Gems,,,Pearl,100
+Gems,,Gems,,,Peridot,500
+Gems,,Gems,,,Quartz,50
+Gems,,Gems,,,Rhodochrosite,10
+Gems,,Gems,,,Ruby,5000
+Gems,,Gems;Dust,,,Ruby Dust,5000
+Gems,,Gems;Dust,,,Sapphire Dust,1000
+Gems,,Gems,,,Sardonyx,50
+Gems,,Gems,,,Spinel,100
+Gems,,Gems,,,Star Rose Quartz,50
+Gems,,Gems,,,Star Ruby,1000
+Gems,,Gems,,,Star Sapphire,1000
+Gems,,Gems,,,Tiger Eye,10
+Gems,,Gems,,,Topaz,500
+Gems,,Gems,,,Tourmaline,100
+Gems,,Gems,,,Turquoise,10
+Gems,,Gems,,,Yellow Sapphire,1000
+Gems,,Gems,,,Zircon,10
+Tavern,A Healthy Amber with Leaves of Mint Stirred in,Mug,,,Angel Tea,0.7
+Tavern,"A Dark Amber/Brown Butter with a Thick, Creamy Beige Coloured Head.",Pint,,,Angry Tom's Furious Ale,0.03
+Tavern,A Slightly Yellow Frothing Milk Drink with Chunks of Banana Scattered Throughout.,Glass,,,Banana Milkshake,0.03
+Tavern,"A Soft Palette of Subtle Reds, Pinks, & Yellows.",Pint,,,Bard's Blessing,2
+Tavern,Blueish Brown or Jet Black,Pint (Free for by a Tall Tale),,,Bilgewater,0.05
+Tavern,"Ranging from Clear Lavender to Deep Red, depending on the Berries",Pint,,,Blerry,0.1
+Tavern,Dark Red with Large White Bubbles,Pint,,,Blind Beholder,0.5
+Tavern,Thick & Red as Blood but with Greenish Swirls. Served with a Green Snake's Head on the Rim.,Pint,,,Bloody Medusa,10
+Tavern,Glowing Blue with a Light Mist,Pint,,,Bluenose,0.5
+Tavern,Golden Orange,Pint,,,Brewmosa,0.04
+Tavern,Glowing Swirl of Orange & Red,Pint,,,Brimstone Brew,3
+Tavern,A Buttery Brown Drink with a Creamy Foaming Top,Pint,,,Butteredbeer,0.2
+Tavern,A Transparent Orange whose Bubbles Sit on the Bottom of the Glass,Glass,,,Citrus Tea,0.05
+Tavern,"Dark Purple, Glittery",Mug,,,Clockwhistle's Surprise,0.5
+Tavern,A Transparent Constantly Bubbling Greenish Liquid.,Bottle,,,Crazy Al's Gnomish Knock-Out Lager,15
+Tavern,A Slimy Green Color & Thick like Syrup.,"Pint (Free, Paid for by a Mysterious Patron)",,,Cthulhubrew,0
+Tavern,Shiny Golden Liquid with Black Foam,Pint,,,Deepminer,0.1
+Tavern,Black with Red Spots Floating Inside,Pint,,,Demon's Blood,0.5
+Tavern,Dark Green with Bubbles,Pint,,,Dragon Poison Ale,10
+Tavern,"A Deep Rusty Brown, almost Black with Toffee Colored Bubbles, almost Opaque when Held to the Light",Bottle,,,Dragon's Milk,25
+Tavern,Deep Candy Apple Red with Swirling Orange Mist,Glass,,,Dragonfire Brandy,1
+Tavern,"Thick, Dark Brown Stout, with the Consistency of Eggnog",Pint,,,Drunken Uncle,0.3
+Tavern,White,Pint,,,Dry Heave,0.03
+Tavern,Almond Brown,Tankard,,,Dwarven Drought,0.05
+Tavern,Clear,Tea Kettle with 5 Cups,,,Elven Battle Spirit,15
+Tavern,Milky White,Glass,,,Eye of the Beholder,0.03
+Tavern,Fiery Red,Shot,,,Fire Ball,0.9
+Tavern,Deep Red Wine,Glass,,,Firewine,5
+Tavern,Clear Lemon Water,Glass,,,Flavoured Water,0.5
+Tavern,Opaque Purple,Mug,,,Fuzzy Night,2
+Tavern,Red Wine with a Dash of Purple,Glass,,,Giftmouth,10
+Tavern,Clearish/White,Glass,,,Glass Milk,20
+Tavern,Golden Brown,Tankard,,,Glavgalask,10
+Tavern,Clear with Flecks of Gold & Silver,Bottle (10 Drinks),,,Glitter,100
+Tavern,Green Phosphorescent,Shot,,,Glowglass,0.2
+Tavern,White,Glass,,,Goat's Milk,0.03
+Tavern,Clear Deep Yellow,Shot (Free as a Challenge),,,Goat's Piss,0
+Tavern,Putrid Green,Pint,,,Goblin Grog,0.1
+Tavern,Lime Green,Glass,,,Green Fey,40
+Tavern,Mostly Clear with a Light Brown Hue,Pint (300 GP/ Barrel),,,Gregory's Groovy Grog,3
+Tavern,Medium Brown,Shot,,,Griffin Nest,0.05
+Tavern,Yellow-Brown with Lots of Body,Tankard,,,Gut Shaker,2
+Tavern,Dark Brown,Tankard,,,Gutbuster,5
+Tavern,Yellowish Brown,Pint,,,Hangman's Noose,0.05
+Tavern,"In a Colour Similar to Skin, with what Looks like Very Thin Skin Floating at the Top",Tankard,,,Harpy's Scream,0.1
+Tavern,Clear,Pint,,,Heart of the Halls,1
+Tavern,Deep Dark Red,Shot,,,Hellfire Whisky,5
+Tavern,Light Green,Tankard,,,"Hop, Skip, & Go Naked",1
+Tavern,A Violent Orange Colour Mixed with Streaks of Deep Red,Pint,,,Jailhouse Wine,0.01
+Tavern,A Greenish Drink with a Gelatin Consistency,Glass,,,Jelly Drink,0.1
+Tavern,Black with a Streak of Grey,Glass,,,Kenku's Claw,0.2
+Tavern,Red with Orange & Yellow Flame-like Swirls,Glass,,,Kossuths' Kiss,0.5
+Tavern,Bubbly Clear,Pint,,,Lizard Spit,0.4
+Tavern,Light Pink with Tiny Flecks of White,Tankard,,,Lover's Kiss,2.5
+Tavern,Mustard Yellow,Pint,,,Meaty Mead,0.02
+Tavern,A Simmering Brown with Tiny Golden Flecks Swirling throughout its Depths,Tankard,,,Merchant's Lucky Day,2
+Tavern,Deep Chocolate to Black with a White Frothy Head,Tankard,,,Milligun's Deep Stout,1
+Tavern,A Thick Gold,Bottle (4 Drinks),,,Morg's Magnificent Meed,50
+Tavern,Clear with Pearl/Opalesque Swirls & Feint Random Tiny Glowing Pink Lights,Tankard,,,Nyssa's Nectar,2
+Tavern,Brown with Floating Debris,Pint,,,Old Stinky,0.01
+Tavern,"A Clear Liquid but when Held to Heat, Elven Writing Appears as Fiery Wisps throughout the Drink","Barrel (Only One in the World, 100 Drinks)",,,One Beer to Rule Them All,2000
+Tavern,Blood Red with Crimson Froth,Tankard,,,Ork's Blood Brew,0.08
+Tavern,Swirls from Clear to Shimmering White,Tankard,,,Ouzo,0.5
+Tavern,A Teal Blue with a Foamy White Froth. Served in an Odd Shape Glass.,Bottle,,,Pan-Dimensional Gargle Blaster,2
+Tavern,"A Clear Liquid Crossed with Red, Green & Yellow Stripes.",Pint,,,Parroty Parroty Parroty Parrot,3
+Tavern,A Swirling Myriad of Rainbows,Pint,,,Pixie Piss,5
+Tavern,Dark Purple with Small Continuous Silver Bubbles,Tankard,,,Planar Guide,10
+Tavern,Watered-Down Milk Lacking in Consistency,Pint,,,Poorman's Wine,0.01
+Tavern,Blood Red with a Blue Top Layer,Shot (Price Doubles after every Shot),,,Rado's Death Punch,0.2
+Tavern,A Light Red that Darkens toward the Bottom of the Glass,Glass,,,Red Ribbon Runs Red,0.1
+Tavern,Blood Red with Various Fine Chopped Cloves,Tankard,,,Roaring Eagle Ale,0.2
+Tavern,Muddy Brown,Shot,,,Scumble,0.1
+Tavern,"Aqua Blue, almost Azure",Pint,,,Sea Shanty,2
+Tavern,Swirly Chaotic Mix,Glass,,,Shirley Temple of Elemental Evil,0.1
+Tavern,Clear with White Shimmer,Shot,,,Sildars Itch,0.2
+Tavern,Clear,Pint,,,Silver's Ale,0.3
+Tavern,Jet Black with Red Highlights,Bottle,,,Skullbungle,0.5
+Tavern,Pink with Brown Lumps,Tankard,,,Skullbuster XXX,10
+Tavern,Dark Brown,Tankard,,,Slog,0.01
+Tavern,"A Tempered Warm Brown, Served with a Severed Snake's Head",Pint,,,Snake Venom,0.01
+Tavern,Black,Tankard,,,Squid Ink,3
+Tavern,A Light Pink,Pint,,,Strawberry Surprise,0.05
+Tavern,Cherry Red with Purple Swirls & Glowing Green Fruit,Pint,,,Tamaranian Tanqueray & Zorkaberry Tonic,2
+Tavern,Dark Brown,Tankard,,,The Beveridge Brew,0.15
+Tavern,Deep Opaque Black with Stark White Head,Tankard,,,The Cranky Clergyman,0.07
+Tavern,A Gold Liquid that Suddenly Turns Black half way Down,Tankard,,,The Dwarven Hammer,0.15
+Tavern,A Dark Beer served with a Skewer of Bacon & Pickles,Glass,,,The Ghillain Special,8
+Tavern,Various Shades of Brown,Tankard,,,The Hairy Wizard,0.3
+Tavern,A Purplish Blue Liquid that Sparkles & Swirls like a Galaxy,Pint,,,The Mind's Eye,0.2
+Tavern,Blueish Purple,Shot,,,The Mindflayer,1
+Tavern,Light Smoke-Gray,Shot,,,The Pepperbox,1
+Tavern,Deep Amber Red & Thick like Blood,Glass,,,The Redheaded Harlot,5
+Tavern,Phases Between a Deep Orange & Bright Yellow. Clear but with Silver Dust visible when Disturbed.,Any,,,Travera's TIncture,5
+Tavern,Dark Brown with Green Swirls,Mug,,,Treant Tea,2.5
+Tavern,A Deep Purple Liquid with a White Yogurt Layered on Top,Pint,,,Twisty,0.3
+Tavern,Blue with Dark Swirls,Tankard,,,Warlock's Wasted Patron,1
+Tavern,Clear,Glass,,,Water,0
+Tavern,A Fizzy Golden Liquid with Occassional Sparkles,Pint,,,Wild Magic Brew,0.4
+Tavern,Green with Purple Swirls,Shot,,,Wyvern Wine,8
+Tavern,Fiery Red Drink with Thick Orange Bubbles that make it Appear Molten in Nature.,Pint,,,Zozo Juice,5
+Eldritch Invocations,,,,Eldritch Adept;Attack,Agonizing Blast,
+Eldritch Invocations,,,,Eldritch Adept;Defense,Armor of Shadows,
+Eldritch Invocations,,,,Eldritch Adept;Movement,Ascendant Step,
+Eldritch Invocations,,,,Eldritch Adept;Utility,Aspect of the Moon,
+Eldritch Invocations,,,,Eldritch Adept;Utility,Beast Speech,
+Eldritch Invocations,,,,Eldritch Adept;Utility,Beguiling Influence,
+Eldritch Invocations,,,,Eldritch Adept;Utility,Bewitching Whispers,
+Eldritch Invocations,,,,Eldritch Adept;Movement,Bond of the Talisman,
+Eldritch Invocations,,,,Eldritch Adept,Book of Ancient Secrets,
+Eldritch Invocations,,,,Eldritch Adept;Utility,Chains of Carceri,
+Eldritch Invocations,,,,Eldritch Adept;Utility,Cloak of Flies,
+Eldritch Invocations,,,,Eldritch Adept;Utility,Devil’s Sight,
+Eldritch Invocations,,,,Eldritch Adept;Utility,Dreadful Word,
+Eldritch Invocations,,,,Eldritch Adept;Utility,Eldritch Mind,
+Eldritch Invocations,,,,Eldritch Adept;Utility,Eldritch Sight,
+Eldritch Invocations,,,,Eldritch Adept;Attack,Eldritch Smite,
+Eldritch Invocations,,,,Eldritch Adept;Attack,Eldritch Spear,
+Eldritch Invocations,,,,Eldritch Adept;Utility,Eyes of the Rune Keeper,
+Eldritch Invocations,,,,Eldritch Adept;Utility,Far Scribe,
+Eldritch Invocations,,,,Eldritch Adept;Healing,Fiendish Vigor,
+Eldritch Invocations,,,,Eldritch Adept;Utility,Gaze of Two Minds,
+Eldritch Invocations,,,,Eldritch Adept;Utility,Ghostly Gaze,
+Eldritch Invocations,,,,Eldritch Adept;Utility,Gift of the Depths,
+Eldritch Invocations,,,,Eldritch Adept;Healing,Gift of the Ever-Living Ones,
+Eldritch Invocations,,,,Eldritch Adept;Utility,Gift of the Protectors,
+Eldritch Invocations,,,,Eldritch Adept;Movement,Grasp of Hadar,
+Eldritch Invocations,,,,Eldritch Adept;Attack,Improved Pact Weapon,
+Eldritch Invocations,,,,Eldritch Adept;Utility,Investment of the Chain Master,
+Eldritch Invocations,,,,Eldritch Adept;Utility,Lance of Lethargy,
+Eldritch Invocations,,,,Eldritch Adept;Attack,Lifedrinker,
+Eldritch Invocations,,,,Eldritch Adept;Attack,Maddening Hex,
+Eldritch Invocations,,,,Eldritch Adept;Utility,Mask of Many Faces,
+Eldritch Invocations,,,,Eldritch Adept;Utility,Master of Myriad Forms,
+Eldritch Invocations,,,,Eldritch Adept;Attack,Minions of Chaos,
+Eldritch Invocations,,,,Eldritch Adept;Utility,Mire the Mind,
+Eldritch Invocations,,,,Eldritch Adept;Utility,Misty Visions,
+Eldritch Invocations,,,,Eldritch Adept;Utility,One with Shadows,
+Eldritch Invocations,,,,Eldritch Adept;Movement,Otherworldly Leap,
+Eldritch Invocations,,,,Eldritch Adept;Defense,Protection of the Talisman,
+Eldritch Invocations,,,,Eldritch Adept;Attack,Rebuke of the Talisman,
+Eldritch Invocations,,,,Eldritch Adept;Movement;Attack,Relentless Hex,
+Eldritch Invocations,,,,Eldritch Adept;Movement,Repelling Blast,
+Eldritch Invocations,,,,Eldritch Adept;Utility,Sculptor of Flesh,
+Eldritch Invocations,,,,Eldritch Adept;Utility,Shroud of Shadow,
+Eldritch Invocations,,,,Eldritch Adept;Defense;Attack,Sign of Ill Omen,
+Eldritch Invocations,,,,Eldritch Adept;Defense,Thief of Five Fates,
+Eldritch Invocations,,,,Eldritch Adept;Attack,Thirsting Blade,
+Eldritch Invocations,,,,Eldritch Adept;Healing,Tomb of Levistus,
+Eldritch Invocations,,,,Eldritch Adept;Movement,Trickster's Escape,
+Eldritch Invocations,,,,Eldritch Adept;Utility,Undying Servitude,
+Eldritch Invocations,,,,Eldritch Adept;Utility,Visions of Distant Realms,
+Eldritch Invocations,,,,Eldritch Adept;Utility,Voice of the Chain Master,
+Eldritch Invocations,,,,Eldritch Adept;Utility,Whispers of the Grave,
+Eldritch Invocations,,,,Eldritch Adept;Utility,Witch Sight,
+Metamagic,,,,Metamagic Adept;Attack;Defense,Careful Spell,
+Metamagic,,,,Metamagic Adept;Attack;Defense;Movement;Utility;Healing,Distant Spell,
+Metamagic,,,,Metamagic Adept;Attack,Empowered Spell,
+Metamagic,,,,Metamagic Adept;Attack;Defense;Movement;Utility;Healing,Extended Spell,
+Metamagic,,,,Metamagic Adept;Attack;Defense;Movement;Utility;Healing,Heightened Spell,
+Metamagic,,,,Metamagic Adept;Attack;Defense;Movement;Utility;Healing,Quickened Spell,
+Metamagic,,,,Metamagic Adept;Attack;Defense;Movement;Utility;Healing,Subtle Spell,
+Metamagic,,,,Metamagic Adept;Attack;Defense;Movement;Utility;Healing,Twinned Spell,

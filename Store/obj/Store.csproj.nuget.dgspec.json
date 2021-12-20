@@ -1,0 +1,138 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Nathaniel.Broadway\\Documents\\PDT\\RandomDNDGenerators\\Store\\Store.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Nathaniel.Broadway\\Documents\\PDT\\RandomDNDGenerators\\Store\\Store.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Nathaniel.Broadway\\Documents\\PDT\\RandomDNDGenerators\\Store\\Store.csproj",
+        "projectName": "Store",
+        "projectPath": "C:\\Users\\Nathaniel.Broadway\\Documents\\PDT\\RandomDNDGenerators\\Store\\Store.csproj",
+        "packagesPath": "C:\\Users\\Nathaniel.Broadway\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nathaniel.Broadway\\Documents\\PDT\\RandomDNDGenerators\\Store\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Nathaniel.Broadway\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/nuget": {},
+          "https://nugetgallery.p.vu.local/api/v2": {},
+          "https://nugetgallery.p.vu.local/api/v2/": {},
+          "https://nugetgallery.redchimney.com/api/v2": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Nathaniel.Broadway\\Documents\\PDT\\RandomDNDGenerators\\SupportClasses\\SupportClasses.csproj": {
+                "projectPath": "C:\\Users\\Nathaniel.Broadway\\Documents\\PDT\\RandomDNDGenerators\\SupportClasses\\SupportClasses.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Nathaniel.Broadway\\Documents\\PDT\\RandomDNDGenerators\\SupportClasses\\SupportClasses.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Nathaniel.Broadway\\Documents\\PDT\\RandomDNDGenerators\\SupportClasses\\SupportClasses.csproj",
+        "projectName": "SupportClasses",
+        "projectPath": "C:\\Users\\Nathaniel.Broadway\\Documents\\PDT\\RandomDNDGenerators\\SupportClasses\\SupportClasses.csproj",
+        "packagesPath": "C:\\Users\\Nathaniel.Broadway\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nathaniel.Broadway\\Documents\\PDT\\RandomDNDGenerators\\SupportClasses\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Nathaniel.Broadway\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/nuget": {},
+          "https://nugetgallery.p.vu.local/api/v2": {},
+          "https://nugetgallery.p.vu.local/api/v2/": {},
+          "https://nugetgallery.redchimney.com/api/v2": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

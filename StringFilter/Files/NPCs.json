@@ -1,0 +1,130 @@
+﻿{
+	"Bladeling": {
+		"Dex": 2,
+		"Con": 1,
+		"Speed": 30,
+		"Senses": { "Darkvision": 60 },
+		"Abilities": [ "Razor Storm (1/Day)" ],
+		"Languages": [ "Common" ]
+	},
+	"Catfolk": {
+		"Dex": 2,
+		"Cha": 1,
+		"Speed": 40,
+		"Senses": { "Darkvision": 60 },
+		"Abilities": [ "Savannah Stalker" ],
+		"Proficiency": [ "Acrobatics", "Perception" ],
+		"Languages": [ "Common", "Feline" ]
+	},
+	"Crucian": {
+		"Str": 1,
+		"Con": 2,
+		"Speed": 20,
+		"Senses": { " Darkvision": 60 },
+		"Abilities": [
+			"Natural armor (AC is 18 + Dex when unarmored)",
+			"Withdraw"
+		],
+		"Languages": [ "Common", "Draconic" ]
+	},
+	"Ibixian": {
+		" Str": 2,
+		"Con": 2,
+		"Int": -1,
+		"Speed": 30,
+		"Abilities": [
+			"Pack Fervor",
+			"Headbutt (melee weapon, 1d6 bludgeoning damage)",
+			"Multiattack action (may make one headbutt attack in addition to its other melee weapon attacks)"
+		],
+		"Languages": [ "Ibixian" ]
+	},
+	"Poison Dusk Lizardfolk": {
+		"Dex": 2,
+		"Con": 1,
+		"Speed": 30,
+		"Size": "Small",
+		"Abilities": [ "Chameleon Skin", "natural armor (AC is 12 + Dex when unarmored)" ],
+		"Languages": [ " Draconic" ]
+	},
+	"Sunscale Lizardfolk": {
+		"Dex": 2,
+		"Wis": 2,
+		"Speed": 30,
+		"Senses": { "Darkvision": 60 },
+		"Abilities": [ "Smoke Tolerance" ],
+		"Resistances": [ "Fire" ],
+		"Languages": [ "Draconic" ]
+	},
+	"Meazel": {
+		"Dex": 2,
+		"Str": 1,
+		"Speed": 30,
+		"Senses": { "Darkvision": 60 },
+		"Abilities": [ "Disease Carrier", "Natural Swimmer" ],
+		"Languages": [ "Common" ]
+	},
+	"Norker": {
+		" Str": 2,
+		"Con": 2,
+		"Speed": 30,
+		"Size": "Small",
+		"Senses": {
+			"Darkvision": 60,
+			"Tremorsense": 60
+		},
+		"DamageImmunity": [ "Poison" ],
+		"ConditionImmunity": [ "Poisoned" ],
+		"Abilities": [ "Rock Stance" ],
+		"Languages": [ "Goblin", "Terran" ]
+	},
+	"Shadar-Kai": {
+		"Dex": 4,
+		"Cha": -1,
+		"Speed": 30,
+		"Type": "Fey",
+		"Senses": { "Darkvision": 120 },
+		"Abilities": [ "Hide in Plain Sight", "Shadow Curse", "Shadow Lurker" ],
+		"DamageImmunity": [ "Poison" ],
+		"ConditionImmunity": [ "Poisoned" ],
+		"Languages": [ " Common", "Sylvan" ]
+	},
+	"Shardmind": {
+		"StrDex": 1,
+		"Int": 2,
+		"Speed": 30,
+		"Abilities": [ "Shard Swarm (Recharges after a Short or Long Rest)", "telepathy 25 ft.", "Living Construct" ],
+		"Resistances": [ "Psychic" ],
+		"Proficiency": [ "Arcana" ],
+		"Languages": [ "Common", "Deep Speech" ]
+	},
+	"Shulk": {
+		"Dex": 2,
+		"Cha": -2,
+		"Speed": 30,
+		"Senses": { "Darkvision": 60 },
+		"Abilities": [ "Innate Nondetection", "Peerless Camouflage", "Trackless Path" ],
+		"Proficiency": [ "Stealth", "Stealth" ],
+		"Languages": [ "Common" ]
+	},
+	"Stonechild": {
+		"Str": 4,
+		"Con": 4,
+		"Cha": -2,
+		"Speed": 30,
+		"Type": "Elemental",
+		"Senses": { " Darkvision": 60 },
+		"Abilities": [ "Magic Stone", "natural armor (AC is 16 + Dex when unarmored)" ],
+		"DamageImmunity": [ "Acid", "Poison" ],
+		"ConditionImmunity": [ "Petrified", "Poisoned" ],
+		"Languages": [ "Terran" ]
+	},
+	"Wilden": {
+		"Dex": 2,
+		"Wis": 1,
+		"Speed": 30,
+		"Senses": { "Darkvision": 60 },
+		"Abilities": [ "Nature’s Aspect" ],
+		"Languages": [ "Common", "Sylvan" ]
+	}
+}

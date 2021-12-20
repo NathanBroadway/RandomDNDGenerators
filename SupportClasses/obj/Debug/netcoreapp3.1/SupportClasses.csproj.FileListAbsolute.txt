@@ -1,0 +1,10 @@
+C:\Users\Nathaniel.Broadway\source\Personal\StringFilter\SupportClasses\bin\Debug\netcoreapp3.1\SupportClasses.deps.json
+C:\Users\Nathaniel.Broadway\source\Personal\StringFilter\SupportClasses\bin\Debug\netcoreapp3.1\SupportClasses.dll
+C:\Users\Nathaniel.Broadway\source\Personal\StringFilter\SupportClasses\bin\Debug\netcoreapp3.1\SupportClasses.pdb
+C:\Users\Nathaniel.Broadway\source\Personal\StringFilter\SupportClasses\obj\Debug\netcoreapp3.1\SupportClasses.AssemblyInfoInputs.cache
+C:\Users\Nathaniel.Broadway\source\Personal\StringFilter\SupportClasses\obj\Debug\netcoreapp3.1\SupportClasses.AssemblyInfo.cs
+C:\Users\Nathaniel.Broadway\source\Personal\StringFilter\SupportClasses\obj\Debug\netcoreapp3.1\SupportClasses.csproj.CoreCompileInputs.cache
+C:\Users\Nathaniel.Broadway\source\Personal\StringFilter\SupportClasses\obj\Debug\netcoreapp3.1\SupportClasses.dll
+C:\Users\Nathaniel.Broadway\source\Personal\StringFilter\SupportClasses\obj\Debug\netcoreapp3.1\SupportClasses.pdb
+C:\Users\Nathaniel.Broadway\source\Personal\StringFilter\SupportClasses\obj\Debug\netcoreapp3.1\SupportClasses.csproj.AssemblyReference.cache
+C:\Users\Nathaniel.Broadway\source\Personal\StringFilter\SupportClasses\obj\Debug\netcoreapp3.1\SupportClasses.GeneratedMSBuildEditorConfig.editorconfig
