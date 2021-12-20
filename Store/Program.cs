@@ -7,16 +7,17 @@ using System.IO;
 using System.Linq;
 using SupportClasses;
 
-namespace Shopping
+namespace Store
 {
     internal class Program
     {
-        private static readonly Dictionary<string, List<Item>> Stores = ReadJSON<Item>(@"C:\Users\Nathaniel.Broadway\source\Personal\StringFilter\Store\Shoppings.txt");
-        private static readonly Dictionary<string, List<Drink>> Drinks = ReadJSON<Drink>(@"C:\Users\Nathaniel.Broadway\source\Personal\StringFilter\Store\Drinks.txt");
+        private static Dictionary<string, List<Item>> Stores = ReadJSON<Item>(@"Shoppings");
+        private static readonly Dictionary<string, List<Drink>> Drinks = ReadJSON<Drink>(@"Drinks");
 
         private static void Main()
         {
             MakingStores();
+            Stores = ReadJSON<Item>(@"Shoppings");
             //FixMagicItems();
             do
             {
@@ -338,7 +339,7 @@ namespace Shopping
 
         private static void FixMagicItems()
         {
-            foreach(var lookInto in new List<string> { "Revenant Double-Bladed Scimitar", "Hew", "Inquisitive's Goggles", "Lightbringer", "Bag of Bounty", "Propeller Helm", "Restorative Ointment", "Rings of Shared Suffering", "Winter's Dark Bite", "Ring of Preferred Death", "Dragonguard", "Master's Amulet", "Shield of the Uven Rune", "Potion of Watchful Rest", "Potion of Comprehension", "Antitoxin", "Poisoner's Kit", "Herbalism Kit", "Alchemist's Supplies", "Alchemist's Fire (Flask)", "Vial of Acid", "Explorer's Pack", "Truth Serum", "Vial of Basic Poison", "Dust of the Mummy", "Blood of the Lycanthrope", "Torpor", "Dreamlily", "Thessaltoxin", "Dragon's Blood", "Wyvern Poison", "Purple Worm Poison", "Serpent Venom", "Pale Tincture", "Essence of Ether", "Midnight Tears", "Oil of Taggit", "Drow Poison", "Malice", "Burnt Othur Fumes" }) Launch(@"http://dnd5e.wikidot.com/search:site/q/" + lookInto.Replace(" ", "%20"));
+            foreach (var lookInto in new List<string> { "Revenant Double-Bladed Scimitar", "Hew", "Inquisitive's Goggles", "Lightbringer", "Bag of Bounty", "Propeller Helm", "Restorative Ointment", "Rings of Shared Suffering", "Winter's Dark Bite", "Ring of Preferred Death", "Dragonguard", "Master's Amulet", "Shield of the Uven Rune", "Potion of Watchful Rest", "Potion of Comprehension", "Antitoxin", "Poisoner's Kit", "Herbalism Kit", "Alchemist's Supplies", "Alchemist's Fire (Flask)", "Vial of Acid", "Explorer's Pack", "Truth Serum", "Vial of Basic Poison", "Dust of the Mummy", "Blood of the Lycanthrope", "Torpor", "Dreamlily", "Thessaltoxin", "Dragon's Blood", "Wyvern Poison", "Purple Worm Poison", "Serpent Venom", "Pale Tincture", "Essence of Ether", "Midnight Tears", "Oil of Taggit", "Drow Poison", "Malice", "Burnt Othur Fumes" }) Launch(@"http://dnd5e.wikidot.com/search:site/q/" + lookInto.Replace(" ", "%20"));
             foreach (var lookInto in new List<string> { "Cartographer's Map Case", "Elder's Cartographer's Glossgraphy", "Coin of Decisionry", "Spyglass of Clairvoyance", "Documancy Satchel", "Piercer", "Portfolio Keeper", "Failed Experiment Wand", "Tankard of Plenty", }) Launch(@"http://dnd5e.wikidot.com/search:site/q/" + lookInto.Replace(" ", "%20"));
         }
         private static void Launch(string site) { Process.Start(@"C:\Program Files\Google\Chrome\Application\chrome.exe", site); }
@@ -382,28 +383,29 @@ namespace Shopping
 
         private static void AddToCurrentWares(List<BaseItem> wares)
         {
-            var currentWares = ReadJSON<BaseItem>(@"C:\Users\Nathaniel.Broadway\source\Personal\StringFilter\Store\CurrentWares.txt");
+            var currentWares = ReadJSON<BaseItem>(@"CurrentWares");
             if (currentWares.ContainsKey(wares[0].Category)) currentWares[wares[0].Category] = wares;
             else currentWares.Add(wares[0].Category, wares);
-            FileManipulation.WriteDictToTxt(currentWares, @"C:\Users\Nathaniel.Broadway\source\Personal\StringFilter\Store\CurrentWares.txt");
+            FileManipulation.WriteDictToTxt(currentWares, @"CurrentWares");
         }
         private static void AddToCurrentWares(List<Item> wares)
         {
-            var currentWares = ReadJSON<Item>(@"C:\Users\Nathaniel.Broadway\source\Personal\StringFilter\Store\CurrentWares.txt");
+            var currentWares = ReadJSON<Item>(@"CurrentWares");
             if (currentWares.ContainsKey(wares[0].Category)) currentWares[wares[0].Category] = wares;
             else currentWares.Add(wares[0].Category, wares);
-            FileManipulation.WriteDictToTxt(currentWares, @"C:\Users\Nathaniel.Broadway\source\Personal\StringFilter\Store\CurrentWares.txt");
+            FileManipulation.WriteDictToTxt(currentWares, @"CurrentWares");
         }
         private static void AddToCurrentWares(List<Drink> wares)
         {
-            var currentWares = ReadJSON<Drink>(@"C:\Users\Nathaniel.Broadway\source\Personal\StringFilter\Store\CurrentWares.txt");
+            var currentWares = ReadJSON<Drink>(@"CurrentWares");
             if (currentWares.ContainsKey(wares[0].Category)) currentWares[wares[0].Category] = wares;
             else currentWares.Add(wares[0].Category, wares);
-            FileManipulation.WriteDictToTxt(currentWares, @"C:\Users\Nathaniel.Broadway\source\Personal\StringFilter\Store\CurrentWares.txt");
+            FileManipulation.WriteDictToTxt(currentWares, @"CurrentWares");
         }
 
         internal static Dictionary<string, List<T>> ReadJSON<T>(string path)
         {
+            path = FileManipulation.GetRoot() + "\\" + path + ".txt";
             if (!File.Exists(path)) return new Dictionary<string, List<T>>();
             var file = File.ReadAllText(path);
             return file == "" ? new Dictionary<string, List<T>>() : JsonConvert.DeserializeObject<Dictionary<string, List<T>>>(JObject.Parse(file).ToString());
@@ -411,7 +413,7 @@ namespace Shopping
 
         private static void MakingStores()
         {
-            var txt = FileManipulation.ReadTxt(@"C:\Users\Nathaniel.Broadway\source\Personal\StringFilter\Store\Shoppings.csv");
+            var txt = FileManipulation.ReadTxt(@"Shoppings", ".csv");
             var dict = new Dictionary<string, List<Item>>();
             var dictUnused = new Dictionary<string, List<Item>>();
             var tavern = new Dictionary<string, List<Drink>>();
@@ -438,9 +440,9 @@ namespace Shopping
                 else AddItemToDict(dict, split);
             }
 
-            FileManipulation.WriteDictToTxt(dict, @"C:\Users\Nathaniel.Broadway\source\Personal\StringFilter\Store\Shoppings.txt");
-            FileManipulation.WriteDictToTxt(tavern, @"C:\Users\Nathaniel.Broadway\source\Personal\StringFilter\Store\Drinks.txt");
-            FileManipulation.WriteDictToTxt(dictUnused, @"C:\Users\Nathaniel.Broadway\source\Personal\StringFilter\Store\SaveForLater.txt");
+            FileManipulation.WriteDictToTxt(dict, @"Shoppings");
+            FileManipulation.WriteDictToTxt(tavern, @"Drinks");
+            FileManipulation.WriteDictToTxt(dictUnused, @"SaveForLater");
         }
 
         private static void AddItemToDict(Dictionary<string, List<Item>> dict, List<string> split)
@@ -451,7 +453,7 @@ namespace Shopping
         private static void AddDrinkToDict(Dictionary<string, List<Drink>> dict, List<string> split)
         {
             dict.TryAdd(split[0], new List<Drink>());
-            var drinks = FileManipulation.ReadTxt(@"C:\Users\Nathaniel.Broadway\source\Personal\StringFilter\Store\Drinks.csv");
+            var drinks = FileManipulation.ReadTxt(@"Drinks", ".csv");
             var splitDList = new List<string>();
 
             foreach (var VARIABLE in drinks)

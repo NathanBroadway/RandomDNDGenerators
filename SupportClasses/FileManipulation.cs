@@ -15,9 +15,9 @@ namespace SupportClasses
             foreach (var s in lines) tw.WriteLine(s);
         }
 
-        public static string[] ReadTxt(string path)
+        public static string[] ReadTxt(string path, string extension = ".txt")
         {
-            return path.Contains("\\") ? File.ReadAllLines(path) : File.ReadAllLines(@"..\..\..\Files\" + path + ".txt");
+            return path.Contains("\\") ? File.ReadAllLines(path) : File.ReadAllLines(@"..\..\..\" + path + extension);
         }
 
         public static Dictionary<string, Dictionary<string, object>> ReadJSON(string path)
@@ -51,7 +51,13 @@ namespace SupportClasses
         public static void WriteDictToTxt<T>(Dictionary<string, List<T>> monsters, string path)
         {
             var thing = JsonConvert.SerializeObject(monsters);
+            path = GetRoot() + "\\" + path + ".txt";
             File.WriteAllText(path, thing);
+        }
+
+        public static string GetRoot()
+        {
+            return Directory.GetParent(Directory.GetParent(Directory.GetParent(Directory.GetCurrentDirectory()).FullName).FullName).FullName;
         }
     }
 }
