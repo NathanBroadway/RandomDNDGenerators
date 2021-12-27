@@ -320,26 +320,13 @@ namespace Classes
             };
 
             var listOfStrings = listOfMonsters[monsterType.ToString()];
-            if (new List<string> { "1/4", "1/8", "1/2" }.Contains(CR))
+            listOfStrings = CR switch
             {
-                if (new List<string> { "1/2" }.Contains(CR))
-                {
-                    listOfStrings = listOfStrings.Where(x => new List<string> { "0", "1/4", "1/8", "1/2" }.Contains(x.Value)).ToDictionary(x => x.Key, x => x.Value);
-                }
-                else if (new List<string> { "1/4" }.Contains(CR))
-                {
-                    listOfStrings = listOfStrings.Where(x => new List<string> { "0", "1/4", "1/8" }.Contains(x.Value)).ToDictionary(x => x.Key, x => x.Value);
-                }
-                else if (new List<string> { "1/8" }.Contains(CR))
-                {
-                    listOfStrings = listOfStrings.Where(x => new List<string> { "0", "1/8" }.Contains(x.Value)).ToDictionary(x => x.Key, x => x.Value);
-                }
-                else
-                {
-                    listOfStrings = listOfStrings.Where(x => new List<string> { "0", "1/4", "1/8", "1/2" }.Contains(x.Value) || int.Parse(CR) >= int.Parse(x.Value)).ToDictionary(x => x.Key, x => x.Value);
-                }
-
-            }
+                "1/2" => listOfStrings.Where(x => new List<string> { "0", "1/4", "1/8", "1/2" }.Contains(x.Value)).ToDictionary(x => x.Key, x => x.Value),
+                "1/4" => listOfStrings.Where(x => new List<string> { "0", "1/4", "1/8" }.Contains(x.Value)).ToDictionary(x => x.Key, x => x.Value),
+                "1/8" => listOfStrings.Where(x => new List<string> { "0", "1/8" }.Contains(x.Value)).ToDictionary(x => x.Key, x => x.Value),
+                _ => listOfStrings.Where(x => new List<string> { "0", "1/4", "1/8", "1/2" }.Contains(x.Value) || int.Parse(CR) >= int.Parse(x.Value)).ToDictionary(x => x.Key, x => x.Value)
+            };
 
             return listOfStrings;
         }
