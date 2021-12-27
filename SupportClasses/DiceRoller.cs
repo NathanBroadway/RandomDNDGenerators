@@ -6,8 +6,9 @@ namespace StringFilter
 {
     public class DiceRoller
     {
-        public static string RollDice(string line, Random random)
+        public static string RollDice(string line, Random random=null)
         {
+            if (random == null) random = new Random();
             foreach (var word in line.Split(" "))
             {
                 if (!new Regex(@"\d+d\d+").IsMatch(word)) continue;

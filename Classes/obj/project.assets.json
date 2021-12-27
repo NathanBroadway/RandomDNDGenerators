@@ -11,20 +11,6 @@
           "lib/netstandard2.0/Newtonsoft.Json.dll": {}
         }
       },
-      "Store/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "dependencies": {
-          "Newtonsoft.Json": "13.0.1",
-          "SupportClasses": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/Store.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Store.dll": {}
-        }
-      },
       "SupportClasses/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
@@ -68,11 +54,6 @@
         "packageIcon.png"
       ]
     },
-    "Store/1.0.0": {
-      "type": "project",
-      "path": "../Store/Store.csproj",
-      "msbuildProject": "../Store/Store.csproj"
-    },
     "SupportClasses/1.0.0": {
       "type": "project",
       "path": "../SupportClasses/SupportClasses.csproj",
@@ -81,8 +62,6 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "Newtonsoft.Json >= 13.0.1",
-      "Store >= 1.0.0",
       "SupportClasses >= 1.0.0"
     ]
   },
@@ -92,11 +71,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nathaniel.Broadway\\Documents\\PDT\\RandomDNDGenerators\\StringFilter\\StringFilter.csproj",
-      "projectName": "StringFilter",
-      "projectPath": "C:\\Users\\Nathaniel.Broadway\\Documents\\PDT\\RandomDNDGenerators\\StringFilter\\StringFilter.csproj",
+      "projectUniqueName": "C:\\Users\\Nathaniel.Broadway\\Documents\\PDT\\RandomDNDGenerators\\Classes\\Classes.csproj",
+      "projectName": "Classes",
+      "projectPath": "C:\\Users\\Nathaniel.Broadway\\Documents\\PDT\\RandomDNDGenerators\\Classes\\Classes.csproj",
       "packagesPath": "C:\\Users\\Nathaniel.Broadway\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nathaniel.Broadway\\Documents\\PDT\\RandomDNDGenerators\\StringFilter\\obj\\",
+      "outputPath": "C:\\Users\\Nathaniel.Broadway\\Documents\\PDT\\RandomDNDGenerators\\Classes\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Nathaniel.Broadway\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -116,9 +95,6 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Nathaniel.Broadway\\Documents\\PDT\\RandomDNDGenerators\\Store\\Store.csproj": {
-              "projectPath": "C:\\Users\\Nathaniel.Broadway\\Documents\\PDT\\RandomDNDGenerators\\Store\\Store.csproj"
-            },
             "C:\\Users\\Nathaniel.Broadway\\Documents\\PDT\\RandomDNDGenerators\\SupportClasses\\SupportClasses.csproj": {
               "projectPath": "C:\\Users\\Nathaniel.Broadway\\Documents\\PDT\\RandomDNDGenerators\\SupportClasses\\SupportClasses.csproj"
             }
@@ -134,12 +110,6 @@
     "frameworks": {
       "netcoreapp3.1": {
         "targetAlias": "netcoreapp3.1",
-        "dependencies": {
-          "Newtonsoft.Json": {
-            "target": "Package",
-            "version": "[13.0.1, )"
-          }
-        },
         "imports": [
           "net461",
           "net462",

@@ -4,17 +4,17 @@ using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.IO;
-using System.Linq;
+using System.Linq;  
 using SupportClasses;
 
 namespace Store
 {
-    internal class Program
+    public class FullStore
     {
         private static Dictionary<string, List<Item>> Stores = ReadJSON<Item>(@"Shoppings");
         private static readonly Dictionary<string, List<Drink>> Drinks = ReadJSON<Drink>(@"Drinks");
 
-        private static void Main()
+        public static void EnterStore()
         {
             MakingStores();
             Stores = ReadJSON<Item>(@"Shoppings");
@@ -36,12 +36,53 @@ namespace Store
             orderedCategories.AddRange(Drinks.Keys);
             orderedCategories = orderedCategories.OrderBy(x => x).ToList();
 
-            foreach (var category in orderedCategories) Console.WriteLine($"{i++}: {category}");
+            var categoriesAndNames = new Dictionary<string, string>();
+            foreach (var category in orderedCategories)
+            {
+                categoriesAndNames.Add(NameOfShop(category), category);
+
+                Console.WriteLine($"{i++}: {category}");
+            }
 
             var readLine = Console.ReadLine();
             if (readLine == orderedCategories.IndexOf("Tavern").ToString()) SetTavernUp(orderedCategories, readLine);
             else if (readLine == orderedCategories.IndexOf("Jewelry Shop").ToString() || readLine == orderedCategories.IndexOf("Jewelry").ToString()) SetJewelryUp();
             else SetStoreUp(orderedCategories, readLine);
+        }
+
+        private static string NameOfShop(string category)
+        {
+            var rand = new Random();
+            var name = "";
+            name = GetShortName() + "'s";
+            switch (rand.Next(0, 5))
+            {
+                case 0:
+                    name += " of " + GetShortName();
+                    break;
+                case 1:
+                    name += RandomTables.GetAdjective();
+                    break;
+                case 2:
+                    name += RandomTables.GetStoreNoun(category);
+                    break;
+                case 3:
+                    name += " of " + RandomTables.GetAdjective();
+                    break;
+                case 4:
+                    name += " of " + RandomTables.GetExtraStoreName();
+                    break;
+            }
+            return name;
+        }
+
+        private static string GetShortName()
+        {
+            var rand = new Random();
+            var name = "";
+            if (rand.Next(1, 11) == 1) name += "St. ";
+            name += RandomTables.GetName();
+            return name;
         }
 
         private static void SetJewelryUp()
@@ -237,7 +278,7 @@ namespace Store
         static void CheckPotions()
         {
             int i = 0;
-            var names = new List<string>() { };
+            var names = new List<string> { };
             foreach (var lookInto in Stores["Potions"])
             {
                 if (names.Contains(lookInto.Name)) Debugger.Break();
@@ -268,7 +309,7 @@ namespace Store
             switch (lookIntoName)
             {
                 case "Cartographer's Map Case":
-                    Console.WriteLine("Your cartographer's map case can be used to generate special map identifying a shortcut. You can use your action to make a DC I 5 Wisdom (Perception) check, with a success revealing a map buried in your cartographer's map case noting a relevant shortcut. Your travel time is reduced by half while you follow that route.If you succeed at the check by 5 or more, the map includes notes on the terrain, granting you advantage on the next ability check you make to travel through the mapped area in the next hour. Once you use this feature, you cannot use it again until you finish a long rest.");
+                    Console.WriteLine("Your cartographer's map case can be used to generate special map identifying a shortcut. You can use your action to make a DC 15 Wisdom (Perception) check, with a success revealing a map buried in your cartographer's map case noting a relevant shortcut. Your travel time is reduced by half while you follow that route.If you succeed at the check by 5 or more, the map includes notes on the terrain, granting you advantage on the next ability check you make to travel through the mapped area in the next hour. Once you use this feature, you cannot use it again until you finish a long rest.");
                     break;
                 case "Elder's Cartographer's Glossgraphy":
                     Console.WriteLine("The elder cartographer's glossography grants advantage on Intelligence or Wisdom checks related to geographical features or locations.");
